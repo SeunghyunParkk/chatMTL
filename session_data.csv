@@ -1,0 +1,1001 @@
+session_id,timestamp,user_name,user_dob,session_duration,selected_category,user_msg_count,bot_msg_count,feedback,detailed_feedback
+aec35cc2-b98c-48f8-bac1-a7fec55c409b,2023-01-24 08:15:57,User469,1991-8-9,0:1:0,lifestyle,3,3,good,Impressed by the bot's knowledge about MTL Blog.
+a7298ca1-1704-446e-8e17-3ebbb2b6d944,2022-09-02 14:03:57,User924,2003-5-17,0:43:45,eat-drink,3,4,bad,The bot was a bit confusing at times.
+2fd73125-5e17-41ef-bc33-56a080042323,2023-03-09 13:40:57,User452,1985-8-8,0:8:7,eat-drink,4,2,good,Impressed by the bot's knowledge about MTL Blog.
+7fa93731-0e0e-41e8-862c-14147c64cc4b,2022-10-17 05:07:57,User489,1984-5-23,0:35:4,news,8,1,good,The bot provided accurate answers.
+b9871108-8919-4fcf-a45e-ec78ecae2354,2022-10-08 06:33:57,User895,1986-3-11,0:3:45,money,5,5,good,Smooth and pleasant interaction with the chatbot.
+c4a5dc38-ac8f-454d-8b9f-8ddf0e70f431,2023-01-14 13:16:57,User42,1989-4-1,0:52:39,eat-drink,3,2,good,Smooth and pleasant interaction with the chatbot.
+7024e0b1-80fc-49e6-8cda-40f78727a5c9,2022-09-21 13:30:57,User593,1990-12-14,0:43:12,real-estate,5,4,good,The chatbot was very helpful and informative.
+6f774b72-f68b-490f-8792-4c92da070efb,2022-08-31 14:58:57,User341,1992-7-21,0:23:7,sports,4,1,good,Smooth and pleasant interaction with the chatbot.
+5a7fcd30-a09d-4baa-a17e-d5d9e5d2eee2,2023-05-23 12:33:57,User634,1992-5-9,0:30:30,eat-drink,5,1,bad,Didn't get the answer I was looking for.
+4b651145-5f71-4830-91ad-a290028c8d05,2022-11-12 06:29:57,User909,1999-8-16,0:16:12,sports,1,3,good,Impressed by the bot's knowledge about MTL Blog.
+540576bf-e197-46a7-924f-ec7d40c71be7,2023-07-17 16:25:57,User542,1986-11-1,0:8:6,news,4,2,good,Great experience navigating through MTL news.
+34f5eb39-6b41-4a41-ad21-bdca7c1cd348,2022-10-08 08:45:57,User499,1990-10-3,0:25:48,eat-drink,6,1,good,The chatbot was very helpful and informative.
+7df78942-b6fd-42ef-ab71-5157e23839ec,2023-04-05 22:11:57,User973,1994-5-12,0:29:21,lifestyle,3,5,bad,Didn't get the answer I was looking for.
+92a00cf7-3826-481f-b612-d2c74f0694ca,2022-12-18 03:39:57,User944,2002-8-12,0:27:53,eat-drink,1,5,good,The chatbot was very helpful and informative.
+618f15b6-4143-4131-88b8-386844d0463f,2023-07-15 15:30:57,User570,1996-10-6,0:16:4,deals,4,6,bad,Didn't get the answer I was looking for.
+6ab590b1-37b0-417f-8e0e-f410488b4270,2023-04-07 07:29:57,User847,1993-7-3,0:13:10,eat-drink,1,1,good,The bot provided accurate answers.
+f164dd5a-7f11-4895-8862-bb13abc4933a,2023-04-17 06:14:57,User926,1990-7-1,0:15:9,eat-drink,3,2,bad,The bot needs some improvements.
+61359a60-b462-4d35-aa31-ca8cd462c0d9,2022-10-24 14:28:57,User489,1991-3-4,0:51:43,travel,5,4,bad,Didn't get the answer I was looking for.
+bf6866b8-9c2f-4884-ae65-134300335585,2022-08-23 07:53:57,User55,1988-11-27,0:58:42,lifestyle,4,3,good,The chatbot was very helpful and informative.
+3e5741ca-f0a6-4137-9a9b-2d0de252d11a,2022-12-01 01:37:57,User481,1997-9-21,0:41:30,money,2,8,good,Smooth and pleasant interaction with the chatbot.
+50120d0d-ef71-4f1f-82ab-b9acd8c41847,2023-02-16 10:25:57,User449,1992-3-8,0:14:59,travel,4,1,good,Great experience navigating through MTL news.
+6417abff-8763-49d5-956f-abf262f7d018,2023-06-17 05:30:57,User468,1988-9-20,0:11:24,lifestyle,8,9,bad,The bot needs some improvements.
+af5fe571-5cdf-4294-aa41-42eead23366a,2023-05-11 08:17:57,User258,1985-11-18,0:17:15,eat-drink,5,2,good,Smooth and pleasant interaction with the chatbot.
+066fdb94-7c37-41ac-80b6-3deede8c7070,2022-10-08 01:30:57,User746,1987-1-10,0:32:7,eat-drink,1,6,bad,The bot needs some improvements.
+8f858a0d-28d1-441b-aad4-3ed300679f96,2023-04-03 02:33:57,User739,2000-12-1,0:12:40,deals,3,1,good,I love how quickly the bot responds.
+fc187949-d9f7-411d-8c4c-f84e0c129379,2022-10-24 16:14:57,User283,1991-3-14,0:17:34,lifestyle,2,1,bad,I wish the chatbot was more intuitive.
+3e4904d5-2219-4184-89e8-fdb5daf67448,2023-08-13 19:43:57,User489,1993-11-27,0:4:0,money,5,5,good,Great experience navigating through MTL news.
+1690eb05-3a28-4f42-9744-7e9318ed223b,2022-08-27 21:21:57,User952,1996-3-27,0:37:46,lifestyle,7,6,good,The chatbot was very helpful and informative.
+c4ec6907-e56d-4a7e-b3af-46d7757e9362,2022-09-07 00:27:57,User393,1984-7-11,0:4:5,travel,6,6,good,Impressed by the bot's knowledge about MTL Blog.
+05b31f61-b533-466f-8bb3-33a4cac51871,2022-10-06 22:06:57,User727,1998-3-8,0:49:48,money,7,6,bad,Didn't get the answer I was looking for.
+e20cd9f8-2862-4d10-b5e4-58862a452837,2023-05-12 02:17:57,User492,1989-2-1,0:32:5,deals,3,6,bad,Had a hard time understanding some responses.
+d9dc9390-ecc6-4244-91a4-44836f7d09f2,2022-12-27 19:32:57,User580,1994-6-2,0:34:14,real-estate,1,1,good,The chatbot was very helpful and informative.
+2036cd1d-fdbf-45a2-b047-e3b77931d1e1,2023-01-29 22:12:57,User516,1989-11-28,0:57:40,things-to-do,5,5,bad,Had a hard time understanding some responses.
+cc91ac03-83bc-49c7-8f7d-7241baddc53f,2023-06-13 04:37:57,User509,1986-12-12,0:31:43,lifestyle,1,5,good,Impressed by the bot's knowledge about MTL Blog.
+c326d797-dae1-412c-aa40-880eaa36b5bb,2022-12-12 03:19:57,User587,1998-5-27,0:12:37,sports,6,1,bad,I wish the chatbot was more intuitive.
+ed5a42b2-0d57-4336-b356-2e827823cfbb,2023-07-08 20:14:57,User87,1996-3-10,0:22:0,eat-drink,3,1,good,Great experience navigating through MTL news.
+56fc6ce8-0f51-4308-acf0-1e5272ac2329,2022-11-17 08:07:57,User731,1998-4-14,0:53:18,deals,3,6,good,Smooth and pleasant interaction with the chatbot.
+90a34022-7864-42e9-89f0-7a41e8bcea6f,2022-12-05 08:42:57,User739,1997-12-1,0:47:26,eat-drink,5,8,good,The bot provided accurate answers.
+99d84105-8c0a-468f-b96b-4b7bde54f287,2023-07-30 03:43:57,User260,1987-2-2,0:30:22,deals,2,3,good,Impressed by the bot's knowledge about MTL Blog.
+ae9fce36-1d24-47e1-8d48-0d00d616c418,2022-09-29 22:08:57,User660,1992-3-2,0:31:8,deals,6,6,bad,The bot needs some improvements.
+f7064aea-5e51-489b-abfd-d01972d382cc,2023-04-24 15:14:57,User214,1992-10-14,0:47:19,travel,3,7,good,Great experience navigating through MTL news.
+8509aa57-1f43-4026-862b-9f213b361f40,2023-04-22 14:36:57,User116,1998-2-6,0:36:40,lifestyle,1,4,good,I love how quickly the bot responds.
+2210dee8-ac0f-49a0-bbd2-4f1e232ac45e,2022-08-23 15:28:57,User332,1994-11-6,0:0:56,news,5,2,good,The bot provided accurate answers.
+720c4f52-e5f7-40a3-ab0f-afa99c1006d5,2023-08-05 11:18:57,User694,1999-10-1,0:1:3,lifestyle,5,6,bad,The bot was a bit confusing at times.
+824ef94d-8674-48a9-a403-4ef419e1542f,2023-01-20 09:26:57,User343,1989-12-21,0:15:55,money,3,5,good,Smooth and pleasant interaction with the chatbot.
+9c509711-6ed8-4dd8-84b1-937b8d9a9337,2023-05-21 10:13:57,User147,1987-8-5,0:6:24,things-to-do,5,1,good,Impressed by the bot's knowledge about MTL Blog.
+403c20c9-bb1b-441b-a465-aecbb171d5e1,2022-10-26 03:14:57,User257,1995-11-28,0:43:26,eat-drink,1,5,good,Great experience navigating through MTL news.
+6aa1752b-f5b0-43a2-8921-8846ff9a9092,2022-11-21 03:14:57,User565,1995-4-17,0:44:11,lifestyle,3,9,good,The chatbot was very helpful and informative.
+a01a928f-17bd-4159-9636-7bbe1d69b53c,2022-10-13 05:25:57,User29,2001-12-14,0:55:49,news,7,5,bad,The bot needs some improvements.
+b42d807a-d4d0-4923-9956-858fdbaf038b,2022-08-21 10:40:57,User874,1990-1-6,0:37:2,deals,5,3,bad,Didn't get the answer I was looking for.
+865a8bdc-5052-4006-a6c3-3adaf8f8392f,2023-07-19 17:27:57,User95,1990-2-1,0:4:32,travel,2,2,good,I love how quickly the bot responds.
+edeb220c-e95c-4636-a3ac-7ae2ed18a7e1,2022-10-05 23:08:57,User549,1997-9-3,0:13:30,eat-drink,3,6,bad,Didn't get the answer I was looking for.
+4d994a99-a147-4d3b-b1d7-ebaad0ff85af,2023-01-01 13:01:57,User688,1992-8-2,0:45:16,sports,4,1,good,I love how quickly the bot responds.
+24605227-9204-42cd-91d5-8217704eaa57,2022-09-19 18:21:57,User43,1990-7-28,0:5:52,lifestyle,7,6,bad,Had a hard time understanding some responses.
+c61038ae-aca9-469c-9477-e1d93a2c10b7,2023-01-18 15:08:57,User204,1995-3-13,0:0:44,sports,3,4,good,I love how quickly the bot responds.
+ff142346-ca73-41e7-a60e-790e0a5293be,2022-10-27 09:03:57,User898,1987-11-5,0:2:11,eat-drink,8,4,bad,The bot needs some improvements.
+030e2bae-ffd0-486c-9b86-5149e80fb79f,2023-08-02 21:32:57,User9,1989-9-19,0:29:59,things-to-do,2,8,good,The bot provided accurate answers.
+b262f462-c370-47e6-9e8f-52e7b6a80ece,2023-04-17 22:20:57,User652,1992-7-28,0:6:3,lifestyle,8,1,good,The bot provided accurate answers.
+07d136a3-007e-4beb-a3f8-d664973c2764,2023-07-25 22:27:57,User849,1994-9-11,0:39:47,eat-drink,1,3,good,Impressed by the bot's knowledge about MTL Blog.
+39f01650-a07c-4d96-9c6d-f00bf2ec93a4,2022-11-15 16:54:57,User649,1996-10-28,0:30:16,eat-drink,4,5,good,Great experience navigating through MTL news.
+53d49b7d-0033-4086-a4dd-3df4fae76fd7,2022-10-29 19:40:57,User826,1992-2-5,0:30:30,lifestyle,5,3,good,Great experience navigating through MTL news.
+8241a0fe-5d64-443d-a3fe-ef180098a331,2023-03-17 02:19:57,User925,1988-6-19,0:35:0,eat-drink,1,4,good,The bot provided accurate answers.
+ad46efc0-1e37-4e65-ab23-68a0f596bf0e,2023-01-27 22:00:57,User716,1986-8-5,0:48:1,things-to-do,4,6,good,The chatbot was very helpful and informative.
+24fac19f-7242-4ef6-ad44-80df3c43adf1,2023-05-28 20:32:57,User465,1987-2-16,0:45:43,money,3,4,good,The bot provided accurate answers.
+1620aec1-c6de-4d36-8c6d-0b1a40d417c2,2023-03-22 11:34:57,User151,1990-4-14,0:54:1,deals,1,6,good,Great experience navigating through MTL news.
+3e421821-90d4-4953-bace-5f459b0bd16c,2022-10-12 21:27:57,User887,2001-7-11,0:2:48,money,6,4,good,The bot provided accurate answers.
+903309af-ac07-4293-ad55-da82c00113d5,2023-07-10 12:22:57,User353,1990-1-21,0:22:55,eat-drink,6,2,bad,Not the best experience with this chatbot.
+e36b872b-860e-444c-8e07-55a01d848415,2022-11-10 22:15:57,User518,1998-12-10,0:18:0,money,8,5,good,The chatbot was very helpful and informative.
+fa60eaf9-b77b-4806-a8b9-93f0cb02c2cf,2023-01-22 21:13:57,User879,1995-5-16,0:54:54,travel,5,5,good,Great experience navigating through MTL news.
+d1abc02e-82b1-4805-88a8-1d385753ae81,2023-05-24 06:03:57,User594,2004-8-2,0:45:40,money,4,1,good,I love how quickly the bot responds.
+5f4aab69-6f22-4dec-8b79-6f1ab105b466,2022-09-07 22:07:57,User660,1987-9-22,0:24:58,news,1,1,bad,The bot was a bit confusing at times.
+d5504ac0-b277-4d1b-8419-caa7c28c8aff,2023-02-22 21:32:57,User574,1996-10-27,0:17:21,deals,1,5,good,Great experience navigating through MTL news.
+c8d60a4f-54fb-4f4e-84ad-b21a77f2aa82,2023-06-16 22:50:57,User444,1991-6-12,0:1:11,lifestyle,3,5,good,Smooth and pleasant interaction with the chatbot.
+f69de998-34b2-4e64-9552-19b3360712f8,2023-06-02 02:28:57,User864,1992-11-10,0:1:56,things-to-do,1,1,good,Smooth and pleasant interaction with the chatbot.
+20fa00c9-cc79-4909-bb81-62eb9eef43ef,2023-05-05 11:07:57,User101,1991-10-2,0:29:27,news,6,2,good,Great experience navigating through MTL news.
+fe8f8b66-5a3c-449c-bbb5-b43fb80ba19b,2023-03-28 15:49:57,User820,1991-8-3,0:53:26,eat-drink,7,6,good,Smooth and pleasant interaction with the chatbot.
+228ed3b2-bffb-473b-b3b1-577df09cf373,2022-08-20 14:32:57,User244,1994-1-1,0:49:32,money,4,1,bad,Not the best experience with this chatbot.
+01ce0bf5-8173-430a-9ada-523540c2c3fa,2023-04-04 03:49:57,User850,1999-8-24,0:50:32,deals,4,7,good,Impressed by the bot's knowledge about MTL Blog.
+0cfeb1ce-4ba7-45fb-b046-e70c0b2fafb5,2023-03-07 16:10:57,User694,1998-3-9,0:31:25,things-to-do,4,3,good,Great experience navigating through MTL news.
+3d997d39-d9f9-4b18-92f0-336dc372a76d,2023-02-26 13:38:57,User704,1988-9-17,0:24:45,sports,2,3,good,The bot provided accurate answers.
+ba339dc6-08ae-44ba-aca4-921f5a3d8f96,2022-12-26 07:36:57,User478,1995-11-25,0:39:4,eat-drink,5,2,good,The bot provided accurate answers.
+d12765ea-ed9a-4f1c-a524-6c97709e2cfd,2023-01-29 03:36:57,User810,1993-1-14,0:6:59,deals,6,5,good,Great experience navigating through MTL news.
+10bc09ee-f3fe-491a-a106-da470188e9d0,2023-02-25 15:25:57,User82,1992-5-12,0:48:9,lifestyle,5,6,good,Impressed by the bot's knowledge about MTL Blog.
+cd70a826-1746-4b3c-9c19-158120b242bb,2023-05-15 19:28:57,User599,1988-8-8,0:33:1,eat-drink,2,1,good,Smooth and pleasant interaction with the chatbot.
+4c73ea95-b4bb-43fa-b2fd-81a6a504357d,2023-05-18 03:16:57,User305,1986-11-27,0:28:24,deals,10,4,bad,The bot was a bit confusing at times.
+2cfa6bcb-2aac-4a92-aa33-44df931b2105,2023-02-25 13:34:57,User484,1995-2-18,0:48:1,lifestyle,4,1,good,The chatbot was very helpful and informative.
+ff800841-2dd7-44eb-9d84-bd461c513381,2023-01-11 11:42:57,User784,1995-11-28,0:11:50,sports,9,2,good,Great experience navigating through MTL news.
+d8b2df01-29b4-4740-b36c-5fbf7d9e9e91,2023-03-31 16:51:57,User353,2000-12-4,0:35:12,deals,5,5,good,Impressed by the bot's knowledge about MTL Blog.
+a05ce282-7f57-4c99-aaeb-cabfed5c1794,2023-02-09 11:59:57,User54,1992-11-23,0:26:10,things-to-do,3,4,good,Great experience navigating through MTL news.
+8cf0ff2f-b620-456d-ade3-aaf26e739739,2022-09-01 23:36:57,User986,1993-1-13,0:12:59,deals,6,1,bad,Not the best experience with this chatbot.
+865420ed-f3f8-4613-ab7c-e3e2130065a1,2022-08-27 03:35:57,User369,2003-4-11,0:37:0,things-to-do,2,1,bad,Not the best experience with this chatbot.
+7c4fa87f-63e7-4114-b55f-0f7f14c2acbf,2023-08-06 11:32:57,User57,1994-10-21,0:4:17,eat-drink,3,6,good,Smooth and pleasant interaction with the chatbot.
+f6b20137-0363-4981-a452-2b3863b85d6d,2023-06-04 23:31:57,User365,2000-1-22,0:21:41,travel,5,1,bad,Had a hard time understanding some responses.
+6c0e6a8a-c982-49ef-a9d4-f53ae43c3913,2023-03-13 05:15:57,User153,1997-9-26,0:40:34,money,1,5,bad,Had a hard time understanding some responses.
+df589885-ce81-4cf5-ae5b-ba94e799f2d6,2023-08-03 05:20:57,User769,2000-4-18,0:40:46,news,8,4,good,Smooth and pleasant interaction with the chatbot.
+1f356813-55bc-4f59-ba45-eb8a289caa56,2022-12-23 00:57:57,User172,1993-11-4,0:37:36,deals,3,8,good,Impressed by the bot's knowledge about MTL Blog.
+6783e93c-1c8f-4e80-968b-4e7e3ada4a8c,2023-02-14 03:39:57,User706,1995-3-13,0:7:32,real-estate,5,2,good,The chatbot was very helpful and informative.
+3c9ee823-9751-4a28-9794-69414ca2f858,2022-10-09 00:58:57,User957,1995-8-8,0:54:3,deals,5,3,good,The chatbot was very helpful and informative.
+cba8b954-36aa-4098-8710-7df6a8627e0f,2023-07-25 14:10:57,User384,1990-9-1,0:53:48,eat-drink,9,8,bad,Not the best experience with this chatbot.
+5b8d6b73-cc5b-4242-bc92-ef44a764ff58,2022-12-08 22:26:57,User389,2001-4-9,0:52:20,things-to-do,5,4,bad,Not the best experience with this chatbot.
+0dc1f1c6-81e5-4fc9-8c9c-190f1a8ad64d,2023-03-09 07:04:57,User642,1998-7-23,0:1:2,news,1,6,good,The chatbot was very helpful and informative.
+a0b8d3e7-d332-4cf6-b735-909c467b46a4,2023-02-26 17:09:57,User277,1988-7-12,0:7:45,lifestyle,5,1,good,The bot provided accurate answers.
+15c3f888-f94f-4e85-8dcc-56c96c7eb893,2023-03-12 23:17:57,User429,1991-8-20,0:34:34,sports,3,1,bad,Not the best experience with this chatbot.
+bdc5b416-293d-4366-9a18-9cec4fab10a7,2023-08-17 12:02:57,User290,1990-10-18,0:44:30,lifestyle,1,5,good,Impressed by the bot's knowledge about MTL Blog.
+86e53ab2-14e6-4fc6-8ea3-19c430e1d9a3,2023-02-17 21:32:57,User601,2001-11-13,0:9:22,lifestyle,3,4,good,Impressed by the bot's knowledge about MTL Blog.
+c42549d5-46f3-485c-98d3-883b4a356558,2023-03-10 13:13:57,User220,1995-3-11,0:51:38,lifestyle,1,4,good,I love how quickly the bot responds.
+18a1fc7a-d653-4ead-a430-9a31b25462ec,2022-12-02 01:26:57,User272,1989-8-15,0:6:25,things-to-do,10,1,bad,Not the best experience with this chatbot.
+821593ce-0c03-43d4-ac1e-7b39ea0d884a,2023-05-07 17:58:57,User610,1994-7-1,0:15:27,eat-drink,5,4,good,The bot provided accurate answers.
+49a92fd8-1830-4191-ad99-d2acdaf01c89,2022-09-25 23:28:57,User724,1982-1-5,0:54:45,eat-drink,5,5,good,Great experience navigating through MTL news.
+798c5ae1-3bda-4109-a52c-ff81eb1fd622,2022-12-11 12:45:57,User735,1991-12-12,0:42:32,eat-drink,4,1,good,Great experience navigating through MTL news.
+83daebf9-ff7e-4b5b-bbaa-c9d9c1849313,2023-03-19 06:44:57,User430,1994-10-16,0:8:26,eat-drink,1,8,good,Smooth and pleasant interaction with the chatbot.
+06696b87-1a50-46d1-932c-17d290a721e1,2022-12-16 14:01:57,User433,1995-1-27,0:54:50,money,2,6,good,Impressed by the bot's knowledge about MTL Blog.
+96e7e885-adeb-4476-b58f-60853718aab4,2022-11-19 16:10:57,User719,1988-6-23,0:49:36,lifestyle,5,4,good,Impressed by the bot's knowledge about MTL Blog.
+f88a66ef-593b-434c-b33f-238b494c7ffc,2023-01-25 19:35:57,User209,2004-11-24,0:48:31,deals,5,8,good,The chatbot was very helpful and informative.
+3437164a-f0f7-4b6b-9e47-6f75b4b6dbc5,2022-11-05 09:42:57,User662,1985-2-7,0:53:42,eat-drink,3,3,good,Smooth and pleasant interaction with the chatbot.
+f691f0c6-330b-4e7a-86b0-1e11008dc2b1,2022-08-29 21:08:57,User636,1991-11-14,0:37:32,eat-drink,3,7,good,I love how quickly the bot responds.
+83cdc668-9a5b-4b58-a05a-2df1d6977f5b,2022-08-22 21:27:57,User845,1996-9-7,0:1:52,deals,6,1,good,Impressed by the bot's knowledge about MTL Blog.
+31194295-4e05-42ae-a7cf-7f17e067061c,2022-09-30 01:28:57,User896,1996-12-21,0:44:21,sports,4,9,good,Great experience navigating through MTL news.
+c8d6a6c7-3876-468e-bfd6-88056c3a5fe4,2023-01-20 19:37:57,User770,1992-3-18,0:6:6,travel,6,5,good,I love how quickly the bot responds.
+0de9e0f7-d4a7-4344-b13a-bffed093bfca,2022-10-02 08:26:57,User175,1990-7-14,0:9:17,lifestyle,6,5,bad,Had a hard time understanding some responses.
+95bc2c2e-8a1e-4d7c-9e0b-2df6818fa3dd,2022-09-13 19:55:57,User376,1987-7-16,0:12:25,money,4,5,good,Great experience navigating through MTL news.
+ac93e07f-ef5d-4e68-97e4-57656585e521,2023-04-07 14:05:57,User814,1996-9-13,0:25:13,news,3,1,bad,The bot was a bit confusing at times.
+0a9a3ae0-6ef7-4fb4-b403-3681580dae32,2022-12-17 01:30:57,User902,1996-3-1,0:40:0,eat-drink,6,3,good,The chatbot was very helpful and informative.
+d413e1e4-acd9-4972-ab65-370206a749a2,2023-07-28 11:48:57,User890,1999-2-16,0:52:50,eat-drink,2,2,good,The chatbot was very helpful and informative.
+336537fb-48aa-493f-b12f-7970b87655ae,2022-10-23 19:28:57,User229,1995-8-24,0:1:49,news,2,6,good,The bot provided accurate answers.
+932d9f0e-7c39-4de9-93ea-10c882d8da19,2022-12-09 21:07:57,User725,1996-1-6,0:52:0,things-to-do,8,5,good,Great experience navigating through MTL news.
+e14904d9-4332-4a19-b6cc-c6ee13b31897,2023-08-13 01:40:57,User608,1994-5-20,0:18:3,things-to-do,3,5,good,The bot provided accurate answers.
+5177ddf5-3597-4b2f-8050-73b38744a583,2022-10-25 11:57:57,User796,2001-11-26,0:29:57,eat-drink,3,5,good,Smooth and pleasant interaction with the chatbot.
+704d09fb-0c04-4654-9947-0bd04d81e69e,2023-06-29 16:19:57,User32,2002-3-18,0:6:9,lifestyle,5,2,good,I love how quickly the bot responds.
+3a2c13d5-9bfc-40cd-8b98-74c94671aa3c,2022-10-17 11:55:57,User934,1992-12-3,0:24:20,money,3,8,bad,The bot needs some improvements.
+4e4af918-9dc0-49fe-9bfd-48559c6fe73a,2023-04-30 21:11:57,User783,1995-8-19,0:24:29,travel,3,4,good,Smooth and pleasant interaction with the chatbot.
+10a53c24-ccd7-42c9-8c59-f99eeed8471b,2022-11-30 22:24:57,User370,1998-5-10,0:19:0,real-estate,2,2,good,Smooth and pleasant interaction with the chatbot.
+6fbc65ae-ffba-488c-af9d-b0f16ea9fa91,2022-11-05 16:29:57,User587,1999-6-2,0:53:1,eat-drink,5,2,good,I love how quickly the bot responds.
+7da0e7ad-2125-407c-a9eb-79ce5c2895f8,2023-02-03 22:35:57,User311,1992-11-14,0:29:23,lifestyle,4,4,good,Smooth and pleasant interaction with the chatbot.
+df452f36-9011-4b52-a31b-05a8e0cce97a,2023-07-26 15:14:57,User14,1983-4-26,0:56:14,real-estate,5,9,good,Impressed by the bot's knowledge about MTL Blog.
+e2375a1b-5d5a-497b-95fe-c8a2cf56c39d,2023-05-24 17:19:57,User943,1990-11-1,0:53:14,real-estate,1,2,good,The bot provided accurate answers.
+da17d1a5-10ab-437a-955b-8035f2188f5f,2023-07-24 15:00:57,User251,1997-5-18,0:35:52,money,5,1,good,Great experience navigating through MTL news.
+bb15641c-83e5-47fc-8758-baced8b9e4e8,2022-11-06 23:06:57,User11,1996-6-4,0:15:26,lifestyle,6,9,bad,I wish the chatbot was more intuitive.
+870f0e93-eb87-4719-b80d-da2d8c5bc69e,2023-02-02 09:33:57,User190,1994-9-19,0:23:46,lifestyle,6,4,good,The bot provided accurate answers.
+b30ca75b-8ff1-444c-b45f-39765339a670,2023-04-21 05:46:57,User570,1992-5-16,0:14:17,money,5,6,bad,Didn't get the answer I was looking for.
+1beb4fc0-43eb-4866-a8e8-fe7491996c92,2022-08-30 04:49:57,User379,1997-8-17,0:10:46,things-to-do,7,6,good,The bot provided accurate answers.
+0ed350dd-18d3-4abb-969a-cea64870da93,2023-06-13 19:01:57,User200,1994-1-28,0:10:44,money,1,9,bad,I wish the chatbot was more intuitive.
+4ca26be4-d7f0-4fdb-9f1c-848b9f9b300f,2022-09-29 14:17:57,User338,1998-11-27,0:16:34,eat-drink,1,9,good,The bot provided accurate answers.
+e71d0f19-426d-41ae-a8b3-81175e455dfa,2023-06-05 23:07:57,User752,1992-10-16,0:7:50,travel,4,7,good,Impressed by the bot's knowledge about MTL Blog.
+9cc45516-af9f-4d01-9807-248f12db7d4b,2023-03-14 19:05:57,User350,1995-1-20,0:24:55,deals,3,7,good,The chatbot was very helpful and informative.
+8243bb3f-8204-4437-a842-fa0c0c9d6da3,2022-11-29 15:50:57,User440,2001-3-7,0:36:41,things-to-do,2,2,good,Impressed by the bot's knowledge about MTL Blog.
+9c353c7b-c285-4e15-8bea-ee817355f8d9,2023-06-26 08:20:57,User928,1992-11-25,0:26:3,things-to-do,3,6,good,Great experience navigating through MTL news.
+1087d016-4209-4bb4-b19a-b5d1ad324211,2023-04-06 04:28:57,User773,1997-5-17,0:45:36,eat-drink,7,2,good,The bot provided accurate answers.
+b378dabf-d3a6-429b-8b0c-96c260b02cc3,2023-06-01 06:37:57,User597,1996-6-2,0:20:16,news,6,8,bad,Had a hard time understanding some responses.
+62f7dd5e-14a8-4d45-8cef-074fc321ab3a,2022-12-15 09:18:57,User986,1997-3-1,0:12:18,real-estate,1,5,good,The bot provided accurate answers.
+ffaede38-018a-4afa-ae20-b80f8a633fa5,2023-03-08 22:42:57,User442,1993-9-13,0:34:48,eat-drink,1,6,good,The bot provided accurate answers.
+a9b17adf-6664-4ea0-bfff-485e71d3054b,2023-01-13 01:09:57,User203,1994-2-13,0:16:11,things-to-do,1,1,bad,Didn't get the answer I was looking for.
+1b450bc3-9a2a-491b-8aef-996f5d432233,2023-08-16 06:28:57,User492,1993-9-6,0:17:34,lifestyle,8,3,good,The bot provided accurate answers.
+8c174f5f-f103-4b0d-996e-25920a53bd4e,2022-09-14 10:50:57,User610,1997-5-18,0:4:14,sports,8,2,good,Great experience navigating through MTL news.
+0d2ce96d-3812-49e4-b43c-c69c0bcab0b2,2023-04-22 23:18:57,User724,1997-9-16,0:10:49,eat-drink,3,2,good,The bot provided accurate answers.
+0e7adbfc-c7c3-420e-a3c4-5700f3d79e39,2022-12-02 14:09:57,User179,1995-4-20,0:18:1,eat-drink,5,3,bad,I wish the chatbot was more intuitive.
+2ace30a0-f713-43bb-a59f-f2ee40d4cc1e,2023-01-31 19:29:57,User261,1989-1-13,0:6:19,lifestyle,4,3,good,Smooth and pleasant interaction with the chatbot.
+82201709-017b-4941-8f8d-59dc72f13d18,2023-05-02 15:57:57,User908,1994-11-7,0:45:35,eat-drink,1,7,good,The chatbot was very helpful and informative.
+ee923c9a-9505-439d-8ba4-07d99990a31d,2022-08-20 00:19:57,User946,2001-4-2,0:25:27,eat-drink,3,2,good,Great experience navigating through MTL news.
+53be6e56-f6a4-42b0-bae9-5655d3aa21e4,2022-12-15 11:46:57,User184,1995-2-19,0:2:36,news,3,6,good,Great experience navigating through MTL news.
+6c046772-cde9-4936-b4ad-850322aee85d,2023-05-13 21:49:57,User462,1994-9-5,0:54:51,money,6,4,good,Impressed by the bot's knowledge about MTL Blog.
+8d269b76-dc2f-452b-838f-e71421d28243,2023-06-29 09:18:57,User862,1990-10-1,0:24:38,lifestyle,6,5,good,Impressed by the bot's knowledge about MTL Blog.
+19afdc58-e864-4d5f-a810-1de58f2a06a1,2022-12-24 15:06:57,User417,1998-9-19,0:16:41,things-to-do,6,2,good,The chatbot was very helpful and informative.
+05297397-50aa-43fa-9302-201fb52e6d89,2023-03-29 05:52:57,User953,1982-1-6,0:15:5,real-estate,4,3,good,The bot provided accurate answers.
+e9744fb6-7443-4935-a343-54cc6e115d7b,2022-10-31 03:56:57,User418,1993-4-6,0:7:6,news,6,6,good,The bot provided accurate answers.
+2ad25a78-d420-46bd-bb3b-69ffa1a1e3f3,2022-12-07 08:43:57,User846,1998-8-19,0:20:57,travel,5,9,good,Great experience navigating through MTL news.
+5a7a8ba6-7d43-45e1-b85b-04273c47cc4c,2023-02-17 04:57:57,User449,1990-5-11,0:24:48,eat-drink,5,4,bad,The bot needs some improvements.
+327471b5-3e38-4488-91d3-c4ba9cbefb6d,2022-11-29 02:52:57,User694,1993-10-16,0:44:33,sports,9,3,good,The bot provided accurate answers.
+c8552edc-7240-4276-8a02-afc203420729,2023-04-21 21:32:57,User172,1995-1-11,0:21:3,lifestyle,3,5,good,The chatbot was very helpful and informative.
+204fddb3-5f3f-49f9-8fa0-66510c39a8f9,2023-02-12 17:19:57,User512,1991-11-11,0:51:4,news,2,4,bad,I wish the chatbot was more intuitive.
+c2fd6a13-48b3-4d60-b85f-ca4cfb6fb27c,2022-10-22 18:18:57,User524,2000-6-5,0:30:55,lifestyle,4,8,good,The bot provided accurate answers.
+8d9531e6-61cc-4b0c-a152-3d387cfca73c,2022-09-22 02:54:57,User140,1988-4-25,0:51:31,eat-drink,6,4,good,Smooth and pleasant interaction with the chatbot.
+8fbf0fd2-c041-4cd4-9415-5cd60819e443,2022-12-06 10:37:57,User279,1997-6-26,0:49:58,eat-drink,5,1,good,Smooth and pleasant interaction with the chatbot.
+c7a3616e-5765-450d-a85b-b8697ebafebc,2023-08-12 22:26:57,User816,1992-7-23,0:56:27,eat-drink,8,4,good,The bot provided accurate answers.
+dd543588-b45d-4362-b241-f6dcbed3207d,2023-03-15 22:39:57,User901,1985-4-23,0:12:25,things-to-do,5,2,bad,The bot needs some improvements.
+f1062f9e-909c-49ba-b17b-129ebe020a28,2023-05-30 14:42:57,User383,1994-6-4,0:27:38,eat-drink,2,4,good,The bot provided accurate answers.
+4de18fb9-00d4-4e93-b2ec-dadd55ea8512,2022-12-06 18:09:57,User930,1991-6-24,0:41:51,lifestyle,3,3,good,Smooth and pleasant interaction with the chatbot.
+36e3146d-2d82-421c-8383-bd4929dbdf09,2022-12-28 10:10:57,User758,1990-12-27,0:18:28,lifestyle,1,1,good,Impressed by the bot's knowledge about MTL Blog.
+f6febb47-1147-469e-998d-b434503a8bd3,2023-05-13 06:19:57,User817,1991-7-28,0:52:15,sports,1,5,bad,I wish the chatbot was more intuitive.
+a58c0268-be8c-4dd8-8c53-5e5ac993cc8e,2023-01-06 08:03:57,User705,1998-2-10,0:2:29,travel,8,2,good,Impressed by the bot's knowledge about MTL Blog.
+a68852b0-f0fb-40de-aa73-513ac3487990,2023-02-11 14:28:57,User229,1995-6-3,0:25:53,eat-drink,4,6,good,Great experience navigating through MTL news.
+a1bfaafa-3d57-4f80-b872-af4dbb6c054a,2023-05-27 14:49:57,User913,1995-12-8,0:6:16,money,4,2,bad,Not the best experience with this chatbot.
+6cef188c-6397-4aaf-a66f-4068e074a6e0,2023-01-10 21:12:57,User88,1997-2-15,0:20:14,money,1,1,good,The bot provided accurate answers.
+edafbe28-8454-482b-be88-af643ad62398,2022-09-22 14:12:57,User58,1989-1-28,0:39:15,real-estate,3,9,good,Impressed by the bot's knowledge about MTL Blog.
+40d98008-de95-4262-a896-1bf175500a8b,2022-12-04 13:47:57,User974,2001-1-19,0:31:58,things-to-do,6,1,bad,The bot was a bit confusing at times.
+080a99db-423e-41f5-8972-6a3e18e559b6,2023-04-29 11:42:57,User543,1994-9-12,0:39:54,money,4,6,good,Impressed by the bot's knowledge about MTL Blog.
+b59f9b8f-64eb-4aac-a01e-aa10bc0ac3bf,2022-09-03 15:56:57,User971,1987-7-15,0:13:29,travel,6,6,good,Great experience navigating through MTL news.
+72cc7d6a-f614-466f-93b8-b59f3765b9aa,2022-09-13 13:21:57,User482,1998-11-4,0:15:26,travel,1,2,good,Great experience navigating through MTL news.
+b76ff846-0757-43f9-90a1-bc8ba4567f88,2023-02-06 03:17:57,User249,1990-9-13,0:7:12,eat-drink,5,5,good,The chatbot was very helpful and informative.
+fd4659c2-44f8-414c-b9b3-2be4d6c0aee3,2023-08-19 03:49:57,User960,1989-4-14,0:50:34,sports,7,5,good,Smooth and pleasant interaction with the chatbot.
+aa5b8dc6-3121-47dc-8db6-49cf3d416a76,2023-07-17 04:21:57,User538,1988-3-8,0:54:46,lifestyle,5,7,good,I love how quickly the bot responds.
+02995d37-9d69-4aae-8583-57337cf86a06,2023-02-18 08:55:57,User673,1997-8-15,0:21:26,eat-drink,4,3,bad,The bot needs some improvements.
+325a9961-1d99-4b26-b203-f82c1db5953e,2022-11-30 10:12:57,User717,1993-8-20,0:9:52,eat-drink,7,1,good,Impressed by the bot's knowledge about MTL Blog.
+c4b480f2-31bd-4e57-bf17-26fc4c2c2896,2023-07-22 11:21:57,User657,1993-9-5,0:7:43,lifestyle,4,4,good,Smooth and pleasant interaction with the chatbot.
+ab5af4a6-4f68-40b6-a5d4-da245c78675a,2023-01-09 02:32:57,User68,1992-6-16,0:17:23,things-to-do,4,5,good,The chatbot was very helpful and informative.
+651d8f4f-9d7e-464d-9f95-b0cf2cf8c634,2022-12-25 00:05:57,User16,1998-1-18,0:48:30,deals,4,6,good,Great experience navigating through MTL news.
+2028b626-face-4723-8940-dc9855565ac0,2023-08-07 00:48:57,User832,1988-3-1,0:2:53,things-to-do,8,2,good,Great experience navigating through MTL news.
+907660d7-7f36-465a-a6c8-c9d1294f6090,2023-08-18 10:53:57,User553,1992-2-8,0:19:11,lifestyle,3,7,good,The chatbot was very helpful and informative.
+32c7ca86-4684-4fbb-812c-167b8145b66b,2023-03-04 22:46:57,User179,1992-6-26,0:15:45,lifestyle,3,6,good,The bot provided accurate answers.
+775ea021-2051-4593-9b21-a660b0ad2d87,2023-07-28 18:03:57,User884,1994-1-25,0:25:31,things-to-do,8,2,good,Impressed by the bot's knowledge about MTL Blog.
+4b1796b5-9caa-474e-8072-0548a6d25f51,2023-04-14 21:09:57,User497,1988-10-3,0:33:2,eat-drink,2,1,good,Impressed by the bot's knowledge about MTL Blog.
+8b6ff9a8-e05a-41d6-9020-30c9777debf1,2022-12-23 15:27:57,User6,1988-1-22,0:14:38,things-to-do,6,2,good,Impressed by the bot's knowledge about MTL Blog.
+625831b1-3fb7-4896-837e-6bcf6bca4c1d,2023-08-11 03:04:57,User670,1993-3-5,0:25:35,money,9,6,good,Smooth and pleasant interaction with the chatbot.
+a1fa9c0b-c2c5-456a-8bea-7c936f43e0d4,2023-01-05 18:58:57,User398,1992-5-4,0:26:22,eat-drink,4,1,good,Impressed by the bot's knowledge about MTL Blog.
+8d9ac120-7250-4146-ae0e-af5849cf92c8,2022-10-05 21:07:57,User371,1997-3-18,0:6:42,deals,7,6,good,Smooth and pleasant interaction with the chatbot.
+2f434aa6-effc-4e24-bdb0-fc262e9a07d0,2023-03-24 23:34:57,User434,1994-1-22,0:10:57,deals,2,10,good,Smooth and pleasant interaction with the chatbot.
+cb42310e-8f1d-4e68-891a-521227f75ae4,2023-06-14 13:58:57,User407,1990-11-13,0:36:44,real-estate,7,2,good,The chatbot was very helpful and informative.
+f11de1fc-3f6f-4c0b-ac57-c3c359377ba3,2023-08-17 08:48:57,User546,1997-6-25,0:45:48,deals,2,3,bad,Didn't get the answer I was looking for.
+ece7869d-3745-46b7-ae84-7e30a13fd1fc,2023-01-04 05:37:57,User604,1997-6-26,0:57:7,lifestyle,1,2,good,Impressed by the bot's knowledge about MTL Blog.
+cfe4dc30-4247-4fbc-9c58-261adb6fce72,2023-06-08 01:24:57,User924,1992-3-8,0:35:15,eat-drink,3,4,bad,Didn't get the answer I was looking for.
+db52ca7d-e158-492d-9eb8-d3ec44fdedec,2022-10-02 20:36:57,User585,1992-7-12,0:14:13,money,2,3,good,I love how quickly the bot responds.
+10535b0e-297b-43e4-b5a1-354b830a63c9,2023-07-19 02:18:57,User167,1990-4-14,0:56:35,eat-drink,1,4,good,I love how quickly the bot responds.
+f686446a-740e-4578-99ee-4b307e09d1f3,2022-12-07 23:40:57,User687,1991-6-1,0:51:2,money,8,4,good,Smooth and pleasant interaction with the chatbot.
+47840080-2151-47a5-9734-87f97253cec1,2023-06-02 16:54:57,User619,1990-9-16,0:0:46,things-to-do,10,1,bad,The bot needs some improvements.
+6c6bd45a-e196-42b2-8152-78e09e8b7996,2023-06-28 11:34:57,User236,1988-1-19,0:37:44,lifestyle,10,5,good,Great experience navigating through MTL news.
+fed066dd-fea3-4d0b-bc47-d884b06fc6d5,2023-07-19 16:08:57,User67,1996-3-26,0:5:47,eat-drink,5,4,good,I love how quickly the bot responds.
+fcce1094-c3b7-45c5-87de-8265c23c11a3,2023-05-27 09:39:57,User394,1998-3-3,0:10:30,deals,1,2,good,The chatbot was very helpful and informative.
+36c75c51-ad6c-4d15-8923-6dcc7f08bb4d,2023-01-21 19:55:57,User960,1997-6-19,0:22:11,eat-drink,5,4,good,The bot provided accurate answers.
+b697f471-1075-41a3-8b4c-5b83c9bf2d45,2023-07-08 02:49:57,User961,2003-6-28,0:28:33,things-to-do,4,1,good,I love how quickly the bot responds.
+76a0f6c2-576c-46a2-be39-5b198015efc5,2023-01-23 12:47:57,User277,1998-5-7,0:19:28,lifestyle,7,3,good,Great experience navigating through MTL news.
+1af74e31-a418-4126-a9cf-dcd0bda0ecae,2023-07-13 09:31:57,User912,1990-10-16,0:23:43,things-to-do,6,3,good,I love how quickly the bot responds.
+2332aa01-33a1-4c46-868a-27499f995946,2022-12-30 03:49:57,User601,1994-6-27,0:35:54,deals,2,5,good,I love how quickly the bot responds.
+ba8f56f8-d7ca-43c9-a013-ac21a80fadee,2023-05-04 23:41:57,User934,1992-6-15,0:41:41,things-to-do,10,6,good,I love how quickly the bot responds.
+67df3593-e475-4fe9-bf48-6bf759461651,2023-02-05 14:43:57,User891,2001-5-7,0:6:0,news,5,10,good,I love how quickly the bot responds.
+22ef2fe1-9d72-421d-8a29-bca020e2889a,2023-08-08 17:15:57,User965,1996-7-6,0:36:29,deals,3,3,bad,I wish the chatbot was more intuitive.
+077bc8ca-b850-4c41-8e08-450694b4e342,2023-02-22 09:05:57,User886,1997-2-25,0:16:40,eat-drink,4,5,bad,The bot needs some improvements.
+24bf69e5-5d31-462f-a571-575319f5a71c,2022-10-12 02:37:57,User859,2000-2-6,0:3:46,things-to-do,2,1,good,The bot provided accurate answers.
+dd9ded1d-6c96-482e-a7c9-5478f285d5c6,2023-07-16 11:29:57,User350,1990-12-10,0:41:20,eat-drink,4,8,good,Impressed by the bot's knowledge about MTL Blog.
+1291d329-972c-44a7-b44e-c2b6fe0c18b3,2022-09-14 20:24:57,User263,1995-12-13,0:2:56,eat-drink,4,6,good,The chatbot was very helpful and informative.
+2e3eb8ca-f16d-4e9c-9608-970f59ee356f,2022-11-23 05:30:57,User493,1991-9-17,0:35:32,money,6,4,good,Impressed by the bot's knowledge about MTL Blog.
+404fd4ed-9c7b-4edf-b7fc-affea28ee842,2023-01-01 22:04:57,User406,1988-4-26,0:21:56,travel,6,7,bad,Had a hard time understanding some responses.
+a2157a9f-65da-4547-94ac-2e004d5ca223,2023-07-14 21:08:57,User52,1993-8-28,0:12:42,deals,1,6,bad,The bot was a bit confusing at times.
+4722bbca-d12b-4fcf-a8fa-69df9acda1b2,2023-07-18 06:45:57,User498,1991-4-15,0:47:57,sports,3,3,good,Impressed by the bot's knowledge about MTL Blog.
+4db15266-3d44-4642-93ec-3f2823f24a39,2023-06-09 17:35:57,User993,1997-6-6,0:8:58,news,1,2,good,Impressed by the bot's knowledge about MTL Blog.
+6a77b133-a162-4a69-a9c1-08810c46b4c3,2023-01-11 13:14:57,User541,1990-4-26,0:22:34,deals,2,3,good,The chatbot was very helpful and informative.
+c4f26a42-46b2-40ee-b6a7-c887f94908eb,2023-02-04 13:40:57,User913,1995-10-17,0:28:43,money,5,1,good,I love how quickly the bot responds.
+b3c2d8bb-1095-4783-acf7-17c3d1e90da9,2022-09-29 07:32:57,User98,1987-8-27,0:12:24,eat-drink,1,1,bad,Not the best experience with this chatbot.
+3f7595d7-46f2-4227-86f1-81d845c4cf0e,2023-06-03 19:31:57,User748,1993-9-15,0:56:57,eat-drink,5,2,good,Impressed by the bot's knowledge about MTL Blog.
+b99cc99a-94bb-4df1-8634-3c2ba39c6b58,2023-05-29 22:06:57,User557,1992-10-28,0:48:51,money,4,10,good,The bot provided accurate answers.
+dc09ab36-da4c-4177-99c3-d5be66d899ac,2023-07-25 21:38:57,User368,1994-2-26,0:27:17,lifestyle,4,10,good,I love how quickly the bot responds.
+624dd211-78c9-4960-9d8e-d12cb9f5d496,2023-08-02 11:11:57,User976,1990-6-22,0:57:43,news,1,4,bad,Not the best experience with this chatbot.
+6cb624a5-4275-45b8-b82b-57f6518e14a5,2023-08-20 15:16:57,User402,1995-7-6,0:26:35,money,1,4,good,The chatbot was very helpful and informative.
+c0400b5b-5e5e-4f7d-9b0d-f3427dd04cd1,2022-11-11 12:39:57,User625,1986-7-2,0:30:51,deals,2,5,good,The bot provided accurate answers.
+8fd2b23d-01b9-451f-8169-fcb7ca00a6c2,2022-12-02 11:36:57,User320,1988-12-13,0:36:18,travel,4,8,bad,Not the best experience with this chatbot.
+708aa64d-2b4f-40f7-9d3f-670ee8a8e69b,2023-07-29 19:33:57,User299,1995-10-20,0:40:29,travel,8,1,good,Smooth and pleasant interaction with the chatbot.
+a231b3f4-7dfb-4cf5-8051-6145cc9755c9,2023-02-22 02:21:57,User731,1988-8-3,0:51:17,lifestyle,6,4,bad,I wish the chatbot was more intuitive.
+de5f673f-b7c4-4d9b-b34e-cfd1bac73bd6,2023-04-29 03:46:57,User587,1992-3-28,0:42:7,lifestyle,5,9,good,Smooth and pleasant interaction with the chatbot.
+9ce202f1-0474-4f84-a0c9-602c87f9d340,2022-09-07 15:16:57,User302,1994-6-21,0:3:57,eat-drink,2,4,good,Impressed by the bot's knowledge about MTL Blog.
+b7d29bec-bbc3-49cd-948f-d4a2348701e8,2023-02-04 02:30:57,User356,1992-3-25,0:32:32,eat-drink,4,5,good,Smooth and pleasant interaction with the chatbot.
+f8b65b84-5f17-4c6e-a11a-ad6348552e0f,2022-09-08 05:46:57,User198,1990-5-2,0:13:7,travel,7,1,good,The chatbot was very helpful and informative.
+4488e9f7-865a-4efe-83ec-d9592a69fc4d,2023-07-28 23:10:57,User196,1996-12-21,0:54:44,money,5,4,good,Smooth and pleasant interaction with the chatbot.
+e324df7a-7ad3-4c04-a5e6-f6702fff1bdd,2023-05-12 21:19:57,User925,1984-5-28,0:23:5,lifestyle,3,5,good,Impressed by the bot's knowledge about MTL Blog.
+1fa9482f-adb8-40ab-a99c-94e6303c7506,2023-02-07 09:41:57,User436,1994-10-22,0:58:7,deals,9,2,good,I love how quickly the bot responds.
+6e32c7b8-5548-4fad-9d0e-14437a2c5a42,2023-03-08 15:27:57,User263,1984-3-20,0:35:22,money,5,3,bad,Had a hard time understanding some responses.
+1622e267-c538-44e9-ac12-37b20b217636,2023-04-17 10:24:57,User594,1990-12-12,0:12:44,money,2,5,good,The bot provided accurate answers.
+eb7e6c3e-18fa-4081-af1f-c80d14b9f62c,2022-11-04 21:28:57,User6,1993-7-13,0:17:35,travel,5,3,good,I love how quickly the bot responds.
+e4d0e805-550e-49e6-b011-e7f86e6ad307,2022-10-13 18:35:57,User426,1993-11-21,0:3:46,eat-drink,2,4,good,Great experience navigating through MTL news.
+b22aea9d-9ef7-4d33-97c0-e78d7ec9c173,2022-11-18 05:19:57,User331,1997-5-26,0:46:40,eat-drink,6,4,good,Great experience navigating through MTL news.
+321d9e27-8d03-40a7-b1ff-beb97d39c14e,2023-07-10 04:11:57,User249,1983-11-24,0:19:23,sports,9,1,bad,The bot needs some improvements.
+74a0ebe5-7ecf-49e5-9c33-703c07f1802f,2022-12-03 08:59:57,User823,1996-4-16,0:46:51,eat-drink,4,5,good,The chatbot was very helpful and informative.
+ec97e003-b112-4f1d-b7da-8fe55e4ba37c,2023-05-09 07:04:57,User191,1992-2-4,0:16:0,money,3,9,good,Smooth and pleasant interaction with the chatbot.
+a98ecccf-d183-43cc-a525-f229f7f58acc,2023-05-09 18:29:57,User388,1997-8-19,0:53:45,deals,2,6,bad,Not the best experience with this chatbot.
+0278be6b-108d-4b5d-866b-e9fecfc1c8be,2023-04-22 07:26:57,User100,1996-2-11,0:3:53,eat-drink,5,5,good,Smooth and pleasant interaction with the chatbot.
+d9f18c8e-0049-415e-8885-9134ab584d93,2023-08-12 06:09:57,User689,1998-10-12,0:30:55,eat-drink,2,5,good,The bot provided accurate answers.
+2e62ff74-0fab-4882-b5f5-43a55392882d,2023-04-02 16:27:57,User983,1981-2-12,0:2:24,eat-drink,2,5,good,The bot provided accurate answers.
+75031f34-415d-48a3-89cf-4756e70cc036,2022-09-29 08:19:57,User442,1997-7-28,0:8:46,eat-drink,5,6,good,I love how quickly the bot responds.
+fe021008-d240-421a-ae80-66fb46523cbf,2023-04-19 19:59:57,User186,1992-10-17,0:56:24,lifestyle,7,1,bad,Not the best experience with this chatbot.
+9addd7de-13ae-4bad-929b-591a5d5b84d4,2023-05-22 13:22:57,User733,1987-8-7,0:8:17,sports,1,5,good,I love how quickly the bot responds.
+d6fa300d-aa8d-46e7-8b3e-ab75d8970a0f,2022-10-01 09:34:57,User973,1993-10-28,0:24:43,deals,1,3,good,The chatbot was very helpful and informative.
+cd66d8cd-87b8-4035-8f74-2a34ccc3a8ef,2023-04-28 05:48:57,User814,1991-7-2,0:2:7,travel,2,7,good,Great experience navigating through MTL news.
+024d6777-d562-45a7-9e75-01071ec2a8d1,2022-09-09 08:05:57,User856,2001-11-19,0:13:29,travel,4,3,bad,I wish the chatbot was more intuitive.
+492dee7e-d9c4-4290-b2d2-656b63ba7b24,2022-11-17 00:09:57,User126,1991-8-13,0:26:32,sports,8,8,good,Smooth and pleasant interaction with the chatbot.
+bfd5f8fc-80ab-4991-b3e9-f705a93354fb,2023-04-10 05:44:57,User494,1994-5-11,0:22:11,real-estate,1,5,good,The chatbot was very helpful and informative.
+60866d0b-28cf-42ad-af9b-244404609e1f,2022-12-08 14:01:57,User603,1994-3-5,0:26:56,money,3,6,good,Great experience navigating through MTL news.
+015e125d-4ac0-4636-8c36-08515776ced1,2022-10-17 20:52:57,User214,1996-6-6,0:51:47,eat-drink,4,3,good,I love how quickly the bot responds.
+97e976c4-67d7-4f00-b59b-c4d9e92bf9b2,2023-07-26 21:03:57,User74,1986-2-13,0:11:50,deals,7,5,bad,Had a hard time understanding some responses.
+65a0e1d7-547a-4250-a909-1116385bcc49,2023-01-16 23:09:57,User60,2005-1-13,0:23:51,lifestyle,4,5,good,I love how quickly the bot responds.
+556c8ebd-4e61-4502-af70-af883c4d681e,2023-07-31 10:14:57,User303,1984-3-17,0:36:29,deals,4,1,good,The bot provided accurate answers.
+f1a00a7c-92b1-4c9d-b17d-281ae00b6290,2023-02-15 09:45:57,User175,1998-1-26,0:7:43,eat-drink,6,5,bad,Not the best experience with this chatbot.
+a3037362-dfcc-4eca-9ad4-0a6e874aec14,2022-10-10 03:17:57,User894,1992-10-7,0:21:39,eat-drink,3,5,good,Great experience navigating through MTL news.
+4cd4ea77-f7a6-4186-ba9c-dac63bd19574,2023-03-22 12:27:57,User634,1989-5-24,0:51:30,lifestyle,3,5,good,Great experience navigating through MTL news.
+f2d371b3-af7f-44f5-be3e-134a9f35550c,2022-09-07 05:25:57,User216,1992-3-4,0:38:36,deals,6,3,good,Great experience navigating through MTL news.
+ac1e130d-6ced-410f-bc44-74bd1a3a7e2a,2022-08-29 23:12:57,User231,1993-2-14,0:40:4,lifestyle,3,1,good,I love how quickly the bot responds.
+e841a711-3f6c-4ca2-9f4c-f2180283429e,2023-04-24 08:03:57,User646,1998-7-19,0:21:5,things-to-do,1,5,good,The chatbot was very helpful and informative.
+36af81ac-bf5c-48cc-8635-251bfadd5f82,2023-01-14 20:42:57,User922,1994-5-21,0:16:11,lifestyle,8,2,bad,I wish the chatbot was more intuitive.
+16edd301-d957-4c09-afb3-5b29aabd2c91,2022-12-26 03:29:57,User408,1988-1-9,0:43:31,real-estate,4,3,good,Smooth and pleasant interaction with the chatbot.
+77c96c4d-93e2-4aec-a3ef-9d674979e899,2023-01-13 04:23:57,User203,2000-2-7,0:58:18,money,5,3,good,Great experience navigating through MTL news.
+480206c0-11c7-4323-8ce5-91249eab63e9,2023-03-01 21:39:57,User362,1987-2-20,0:10:31,sports,10,8,bad,The bot needs some improvements.
+821add22-26e7-4fbf-bc2b-f0de4993f1d4,2023-03-04 23:40:57,User948,1986-5-18,0:11:40,money,8,5,good,Impressed by the bot's knowledge about MTL Blog.
+f2ae0487-143d-4972-b424-e8c04c5564bf,2023-08-16 13:48:57,User198,1982-11-1,0:32:56,eat-drink,5,6,bad,Didn't get the answer I was looking for.
+dd6e7b53-7b39-48f7-a5f0-36b5d0f5f6d6,2023-04-08 20:34:57,User983,1995-11-1,0:19:56,sports,8,6,good,Impressed by the bot's knowledge about MTL Blog.
+5a9323fe-99fd-4a7b-8fc0-710f23b6faa5,2022-08-27 15:58:57,User830,2000-10-18,0:24:49,eat-drink,9,3,good,Great experience navigating through MTL news.
+72de69a3-a3f3-4f2d-ad3c-b6528ed98b56,2023-04-12 09:06:57,User522,1995-11-14,0:49:13,things-to-do,5,4,good,Impressed by the bot's knowledge about MTL Blog.
+39c5e20c-ddfe-437b-9210-561f474ebfaf,2023-02-27 15:17:57,User997,1998-10-16,0:47:39,real-estate,1,10,good,I love how quickly the bot responds.
+7696fb1f-5833-4b2f-80e6-d3768685cd87,2022-09-06 16:15:57,User252,1996-10-1,0:53:53,things-to-do,5,7,good,The bot provided accurate answers.
+24f68a7a-45be-41c8-bed0-c38b2c38882c,2022-11-24 02:12:57,User787,1998-4-28,0:5:32,lifestyle,2,6,good,Impressed by the bot's knowledge about MTL Blog.
+853d63cb-3db3-47e5-a159-eee73c8594c6,2022-11-23 07:02:57,User544,1994-7-15,0:24:6,eat-drink,2,3,good,The bot provided accurate answers.
+ab2a54bb-2909-439f-b2ce-f48f350884b5,2023-02-20 00:00:57,User968,1995-11-4,0:58:54,eat-drink,1,2,good,Great experience navigating through MTL news.
+470d5b92-f35e-4717-bb57-d625de86a052,2023-05-11 02:18:57,User665,1995-1-14,0:26:27,news,9,2,good,Impressed by the bot's knowledge about MTL Blog.
+87b3b820-9c72-4a58-847f-09c8152147a8,2023-07-03 13:55:57,User227,1989-8-10,0:12:11,lifestyle,6,3,good,The bot provided accurate answers.
+c0bc25d3-a16a-427d-8ba3-c7e0f30a5866,2023-04-08 15:44:57,User741,1985-3-24,0:55:54,real-estate,4,5,bad,Didn't get the answer I was looking for.
+97ede385-ee66-4901-9b43-f3dbc6b1d1a7,2023-06-08 01:28:57,User400,1992-7-9,0:8:43,eat-drink,2,2,good,The chatbot was very helpful and informative.
+2c1a375d-b5ef-4487-8bd5-2924cf3b02a9,2023-03-25 22:58:57,User233,1992-3-3,0:47:44,money,5,1,good,Smooth and pleasant interaction with the chatbot.
+0b753027-227c-4bd7-bfb0-59798be1f27b,2023-02-13 23:06:57,User856,1992-2-9,0:42:8,eat-drink,5,8,good,I love how quickly the bot responds.
+80e0c144-1775-4a57-8e30-9a15d44f4627,2023-08-14 15:36:57,User110,1997-3-11,0:12:12,lifestyle,1,5,bad,Not the best experience with this chatbot.
+c36cf750-113e-4883-a6a5-725bbcaf617d,2023-07-23 22:47:57,User243,1997-4-16,0:47:17,sports,3,6,good,The chatbot was very helpful and informative.
+ac01db1f-4774-4f32-9bc6-cfcbef19d0c0,2023-08-01 05:58:57,User486,1990-3-11,0:55:15,sports,2,5,good,The chatbot was very helpful and informative.
+a8ebba1f-be18-4872-8809-2cf1b94937cf,2023-02-06 20:11:57,User203,1986-8-8,0:28:17,lifestyle,1,4,bad,The bot needs some improvements.
+2032e88a-fe01-4f85-93d3-53ac9f734c9f,2023-07-16 17:51:57,User308,1990-8-26,0:17:2,eat-drink,5,5,good,Great experience navigating through MTL news.
+b7b21df5-c031-4512-84b8-795ccefc9f0d,2022-12-17 14:13:57,User597,1995-7-10,0:8:26,lifestyle,5,2,good,The bot provided accurate answers.
+b45a3e8b-05be-4b99-8b88-c706b2f31312,2023-04-04 01:43:57,User432,1997-7-12,0:30:48,things-to-do,2,3,good,Impressed by the bot's knowledge about MTL Blog.
+07a99477-4360-4a67-be30-1c73a5136acd,2022-10-08 06:10:57,User433,2002-12-20,0:15:7,eat-drink,3,5,good,The chatbot was very helpful and informative.
+13a61c98-4905-456e-aa00-9d0819f6bec8,2023-05-13 18:37:57,User817,1992-10-5,0:8:54,sports,2,7,good,The bot provided accurate answers.
+23fbf5eb-e8ec-4afe-8e3d-0043286a488e,2022-12-06 11:11:57,User589,1992-4-11,0:53:11,eat-drink,6,1,good,Great experience navigating through MTL news.
+9b1ecd84-698a-4722-8750-bd315beb0a45,2023-01-11 09:44:57,User915,1988-3-11,0:19:50,things-to-do,3,5,good,Impressed by the bot's knowledge about MTL Blog.
+276d6923-ec31-472c-9970-da1bcb1382c4,2022-08-25 18:00:57,User806,2002-8-26,0:48:15,real-estate,4,3,good,The chatbot was very helpful and informative.
+4f44b8af-b6a6-410e-9528-7594ec3c96cd,2023-05-25 17:45:57,User162,1998-12-8,0:47:3,lifestyle,5,1,bad,Not the best experience with this chatbot.
+969183b6-96c1-481c-9a10-59ce2632c974,2023-06-14 09:23:57,User980,1979-9-10,0:42:25,travel,3,2,bad,Not the best experience with this chatbot.
+bf71f8f0-1eed-4230-a587-8dfc304a3af6,2023-03-06 09:49:57,User583,1992-3-3,0:3:53,things-to-do,3,5,good,I love how quickly the bot responds.
+89135028-e4e7-4ca7-8f7b-b848b86a4f22,2023-06-06 08:24:57,User191,1997-5-3,0:32:27,deals,4,3,good,Impressed by the bot's knowledge about MTL Blog.
+6ad02ba0-f819-4d44-8d2f-0d321dae287d,2023-06-24 14:25:57,User903,1988-9-15,0:41:23,real-estate,4,5,bad,The bot was a bit confusing at times.
+22cff5a3-3508-499d-ad32-9d6900b45385,2022-09-10 01:48:57,User422,1990-4-26,0:49:12,money,5,8,good,Smooth and pleasant interaction with the chatbot.
+3356a59c-d618-4978-a358-0cd4231e1a1e,2023-06-28 18:58:57,User293,1986-2-19,0:2:59,things-to-do,4,1,bad,Not the best experience with this chatbot.
+a6b5f152-38fd-416e-9c05-cecc3c1a593d,2023-06-07 04:26:57,User68,1996-8-27,0:55:52,lifestyle,7,2,good,The bot provided accurate answers.
+46fcc03f-4ea7-4b2b-a4a5-a8095f5bbc33,2022-11-09 05:21:57,User421,1998-12-18,0:38:49,deals,4,4,good,Great experience navigating through MTL news.
+72829688-86ac-42be-a021-c71fa0f1cc02,2023-07-22 05:38:57,User929,1993-12-2,0:14:20,eat-drink,9,1,good,Impressed by the bot's knowledge about MTL Blog.
+1dd92f8d-3eee-47ac-ad22-858a6fd4386e,2022-12-22 12:27:57,User725,1993-12-20,0:29:55,news,1,8,good,Impressed by the bot's knowledge about MTL Blog.
+113d6619-8ec4-4061-9816-f8afc41d5e17,2023-02-28 12:06:57,User536,1994-3-22,0:0:59,things-to-do,1,5,good,The bot provided accurate answers.
+0cd6c582-d952-49b2-a6bc-6e0727342362,2022-10-22 03:34:57,User368,1992-4-28,0:30:16,eat-drink,5,2,good,Great experience navigating through MTL news.
+44f8e0e1-dc25-491e-ab9e-e4cb5cbd9548,2023-01-20 05:32:57,User545,1994-3-2,0:24:5,things-to-do,3,5,bad,Not the best experience with this chatbot.
+094815a1-3a04-41ae-9c7c-263b2f551241,2023-07-10 08:36:57,User117,1995-8-11,0:48:16,lifestyle,6,6,good,I love how quickly the bot responds.
+244e6698-ca32-4833-abfb-4e4d830fed5e,2023-08-03 07:26:57,User590,1997-10-4,0:36:56,eat-drink,4,2,good,I love how quickly the bot responds.
+638ffd02-3429-4c15-bcd6-fa1be237a190,2023-07-27 13:40:57,User82,1988-4-3,0:8:16,things-to-do,7,6,bad,The bot was a bit confusing at times.
+6a2245b1-b21a-48a1-bf36-b755f97d4224,2023-05-11 21:23:57,User34,1989-2-10,0:57:19,lifestyle,4,4,bad,Didn't get the answer I was looking for.
+4d2be79a-905a-48e6-a70a-8904c1648cc1,2022-11-14 15:25:57,User262,1988-9-2,0:27:14,sports,4,2,good,The chatbot was very helpful and informative.
+fc87463b-64e0-4083-b99e-662f54a30868,2022-11-03 20:14:57,User511,1993-3-14,0:40:3,travel,6,1,bad,Had a hard time understanding some responses.
+9c56079a-d0dc-42ae-8629-04d3f190e44d,2023-04-06 03:49:57,User9,1992-6-9,0:55:25,things-to-do,5,3,good,I love how quickly the bot responds.
+2f9887d2-c504-4f04-8274-111bf5cc1d72,2023-06-24 14:25:57,User7,1998-2-27,0:57:17,lifestyle,4,4,good,Great experience navigating through MTL news.
+05f3e237-cd11-4b92-bcea-837263893d6b,2022-08-27 13:04:57,User967,1986-4-17,0:0:18,travel,8,9,good,The chatbot was very helpful and informative.
+454c5c22-a73b-468f-8e3d-86aa10a11107,2023-06-03 11:58:57,User921,1989-9-2,0:30:31,eat-drink,5,1,good,The chatbot was very helpful and informative.
+8df2e57d-b8fd-420b-85af-d54ea2fa4160,2023-06-08 10:02:57,User754,1998-3-17,0:15:3,lifestyle,5,10,good,Impressed by the bot's knowledge about MTL Blog.
+15aa0301-84ea-4603-825b-3ff0312f5e12,2023-08-17 18:49:57,User286,1998-10-22,0:9:43,real-estate,1,8,bad,I wish the chatbot was more intuitive.
+89ba1996-4167-45e3-ad9b-3d8fd6928b1f,2023-02-08 15:47:57,User263,1993-11-23,0:15:32,deals,6,2,good,The bot provided accurate answers.
+f6f3fb49-a7eb-4ffc-8db1-f84bc63e36d2,2023-01-08 21:43:57,User375,1996-2-2,0:43:31,lifestyle,2,4,good,Great experience navigating through MTL news.
+cd51d28c-f25d-4fc9-9e20-4a20a8aceedf,2022-09-12 12:29:57,User734,1996-10-21,0:21:56,money,4,5,good,Smooth and pleasant interaction with the chatbot.
+7851b36c-91ec-4345-a458-62b746d0fdf5,2023-08-10 20:53:57,User560,1992-8-2,0:13:48,sports,1,5,good,I love how quickly the bot responds.
+e38eea88-3c23-444b-ae15-2b3d99fbaaa4,2022-11-26 07:21:57,User256,1990-7-15,0:24:4,travel,3,4,good,Great experience navigating through MTL news.
+bc316507-80d8-4e79-aaa4-7d3644e41128,2022-11-18 17:32:57,User966,1994-9-19,0:55:5,lifestyle,6,3,good,Great experience navigating through MTL news.
+8c9a019b-f722-4569-9d5e-a4f452d1f015,2023-03-29 05:08:57,User574,1997-12-12,0:33:40,lifestyle,4,4,good,Smooth and pleasant interaction with the chatbot.
+f522a82c-e760-4b1d-8bae-d895e429f457,2023-04-30 20:34:57,User125,1993-5-24,0:2:14,lifestyle,6,5,bad,Not the best experience with this chatbot.
+f3a256da-3719-4136-804e-b95920dde146,2023-07-06 15:17:57,User564,1984-4-9,0:0:59,lifestyle,7,4,good,Smooth and pleasant interaction with the chatbot.
+c228929d-42b3-4654-8ab6-0a6841e3ca54,2023-06-03 03:04:57,User210,1987-2-19,0:18:55,eat-drink,2,4,bad,I wish the chatbot was more intuitive.
+5385ebc2-0f3a-4193-bb97-d9efd66eae10,2022-11-12 12:54:57,User104,1995-8-26,0:10:14,travel,1,3,good,The chatbot was very helpful and informative.
+42e9543d-d199-468d-8ad6-48e358b694a1,2023-02-25 11:15:57,User178,1996-6-23,0:30:58,deals,3,3,bad,Not the best experience with this chatbot.
+40f95162-8df3-494a-a88e-35d50b2ca9cc,2023-04-26 23:05:57,User228,2002-5-4,0:10:32,things-to-do,7,3,bad,Not the best experience with this chatbot.
+c133accb-6be7-4097-a881-bbe6dace1101,2023-04-02 10:23:57,User693,1998-3-27,0:26:16,sports,1,1,good,Great experience navigating through MTL news.
+97abbe40-1b7f-4e23-a768-34371e80eada,2022-12-03 23:03:57,User239,1997-6-3,0:26:13,eat-drink,1,3,good,I love how quickly the bot responds.
+fda959ea-0bf0-4561-8c82-37112ecd65c2,2023-04-27 21:40:57,User331,1985-9-19,0:17:35,things-to-do,3,4,good,Impressed by the bot's knowledge about MTL Blog.
+0b24b72f-4788-4f7e-9455-3f9ccdb46c60,2022-10-29 06:23:57,User271,1992-12-3,0:23:3,eat-drink,6,5,good,Great experience navigating through MTL news.
+f0c22ed9-6ed6-4b96-9da3-bbfad78239f9,2023-05-18 00:58:57,User454,1985-11-2,0:0:39,lifestyle,2,6,good,Impressed by the bot's knowledge about MTL Blog.
+c8ec22ae-355b-47a3-a57c-12851cd0f254,2022-11-17 15:31:57,User702,1995-11-10,0:20:51,travel,3,3,good,Impressed by the bot's knowledge about MTL Blog.
+0628e930-b310-4dbe-bda5-378890c5022a,2023-02-10 17:57:57,User277,1989-11-23,0:49:48,deals,6,3,good,Impressed by the bot's knowledge about MTL Blog.
+0da06c8d-029f-414a-a35b-b4f5020936d1,2022-09-09 02:56:57,User201,1990-4-1,0:39:8,deals,5,1,bad,The bot needs some improvements.
+cc52bdff-4fd2-4edb-a169-559856bf57d8,2022-11-21 08:39:57,User982,1991-4-7,0:48:49,things-to-do,6,5,good,The chatbot was very helpful and informative.
+4f29b821-df5c-4046-bf3e-60553beb3b1d,2022-12-17 01:03:57,User515,1988-1-20,0:9:40,eat-drink,4,8,good,The chatbot was very helpful and informative.
+fd765dd2-da6d-41f4-a829-b32f0a532bb4,2023-03-02 01:53:57,User370,1985-6-7,0:55:58,things-to-do,2,5,good,I love how quickly the bot responds.
+8a11f4db-c6fb-42b4-9595-89d125cd9764,2023-06-06 09:07:57,User806,1991-2-11,0:56:49,eat-drink,2,3,good,Great experience navigating through MTL news.
+1efee0f9-0573-4260-ab81-769d93ff6d95,2023-04-07 23:12:57,User582,1992-11-18,0:19:31,money,1,3,good,Impressed by the bot's knowledge about MTL Blog.
+197d4a88-2e7e-4b81-8ac8-3db3356fa8fb,2023-02-15 08:58:57,User276,1985-7-21,0:55:22,news,2,2,good,Smooth and pleasant interaction with the chatbot.
+b7277580-ecc2-4efc-9309-938432f18773,2023-08-04 20:12:57,User340,1993-3-21,0:25:38,things-to-do,3,1,good,Impressed by the bot's knowledge about MTL Blog.
+50763a35-3c49-4643-8ae0-6d187992b525,2022-12-25 12:10:57,User46,1998-7-4,0:49:35,lifestyle,5,1,good,Impressed by the bot's knowledge about MTL Blog.
+cf1a80bb-064e-490b-9523-9290f644c6d8,2023-02-02 01:17:57,User506,1999-3-17,0:34:19,eat-drink,5,2,good,Impressed by the bot's knowledge about MTL Blog.
+704cf7d5-76eb-4834-b65e-74908d8ec53b,2022-09-04 14:05:57,User928,1992-2-28,0:25:32,eat-drink,5,3,good,Smooth and pleasant interaction with the chatbot.
+62fe7a2d-6d4c-4a20-a938-b5727e46cfd2,2023-06-18 05:16:57,User483,2001-5-14,0:53:2,lifestyle,5,3,good,Great experience navigating through MTL news.
+ec1028d8-c346-4555-bd64-739466876001,2023-05-22 20:35:57,User389,1995-4-20,0:31:53,money,3,2,bad,Not the best experience with this chatbot.
+c244dd89-686c-403a-b95f-98b5f12a88b8,2022-09-18 07:40:57,User494,1986-12-21,0:2:55,deals,2,3,good,The bot provided accurate answers.
+6502eb40-2272-4bb3-ab8a-421dfdb10396,2023-02-03 23:19:57,User704,1991-10-13,0:23:15,eat-drink,3,2,good,Great experience navigating through MTL news.
+3a9b958d-2699-4e58-ad76-5eacbb7e7180,2023-06-15 03:21:57,User339,1991-5-8,0:1:18,lifestyle,6,5,good,The bot provided accurate answers.
+22290916-80d3-43a5-bbc0-46da4fa9abe9,2023-02-25 13:14:57,User626,1991-3-4,0:28:42,news,6,6,good,Great experience navigating through MTL news.
+cb5e6d17-db93-42e5-ac4b-3e4ca27ae84e,2022-10-16 11:20:57,User17,1993-9-20,0:56:48,lifestyle,3,8,good,Smooth and pleasant interaction with the chatbot.
+5c600209-46a5-46b1-87ab-fe72a0621024,2022-12-13 11:07:57,User702,2004-4-9,0:47:54,travel,8,3,good,Impressed by the bot's knowledge about MTL Blog.
+482abc1f-a0f5-433a-a8c5-63bfff1fd276,2022-10-24 23:35:57,User477,1993-3-14,0:20:0,news,10,5,bad,Didn't get the answer I was looking for.
+54f1c9b9-24ff-4026-ae7f-1243a58c85b5,2022-11-18 17:34:57,User403,1991-8-12,0:5:29,things-to-do,2,3,good,Smooth and pleasant interaction with the chatbot.
+e92e7186-e7f9-4336-aedd-2cc54ae70982,2023-01-17 03:06:57,User991,1994-7-19,0:32:20,eat-drink,6,4,good,The chatbot was very helpful and informative.
+b42d679f-795b-4e24-b1ab-c9f16b650327,2023-05-17 10:42:57,User529,1998-11-18,0:30:1,deals,7,4,good,The bot provided accurate answers.
+63e1f250-16d2-494b-a54b-2ae4bae00b99,2023-07-30 07:56:57,User833,1994-11-9,0:31:45,news,6,6,good,Smooth and pleasant interaction with the chatbot.
+02de120c-7480-46db-b1ec-f2a440767c5a,2022-08-27 15:45:57,User169,1990-4-28,0:32:49,news,5,2,bad,Had a hard time understanding some responses.
+c4c5b403-7aa3-4f4f-9ec3-02a7c02adfcf,2023-07-08 08:12:57,User691,2002-6-22,0:24:6,travel,2,3,bad,The bot needs some improvements.
+946a7414-4265-422a-9525-4e9a13efed15,2022-10-29 14:23:57,User699,1998-9-19,0:56:37,lifestyle,6,1,good,Great experience navigating through MTL news.
+6a4a8d21-817e-4e64-ad4a-6972ffc088bc,2023-03-04 11:30:57,User831,1993-5-12,0:43:16,news,5,4,good,Great experience navigating through MTL news.
+376f850a-b87e-4a2d-a14e-d1babdc55e37,2022-09-01 15:17:57,User588,1999-1-17,0:15:47,deals,6,4,bad,Didn't get the answer I was looking for.
+821fe51b-7935-4472-80f5-49fb1d925163,2022-11-27 02:10:57,User499,1998-11-21,0:50:47,lifestyle,2,3,good,I love how quickly the bot responds.
+18949a5d-37c4-49ad-81f2-f4696f30d5d7,2023-03-18 22:21:57,User173,1999-1-21,0:29:18,travel,4,6,good,The chatbot was very helpful and informative.
+b88abcf5-6b79-4242-8b83-c915098488f7,2022-09-09 01:41:57,User778,1997-5-20,0:57:4,news,1,2,good,Great experience navigating through MTL news.
+65fa4acc-5d89-4167-a493-92fcbc286add,2023-06-04 20:02:57,User117,1994-6-25,0:45:20,deals,7,5,good,Impressed by the bot's knowledge about MTL Blog.
+3a2ba0b9-3ecc-41c6-a4a0-5258ff818e77,2022-12-03 17:27:57,User714,2000-9-15,0:16:24,deals,5,2,good,I love how quickly the bot responds.
+77fd5911-6912-4469-ab27-2ac8c19a0491,2022-10-04 13:34:57,User491,1991-4-7,0:51:26,lifestyle,2,4,good,The bot provided accurate answers.
+f2c7d6dc-b6ec-483d-9199-ea85deafdd29,2023-07-04 08:22:57,User884,2005-1-12,0:19:57,lifestyle,6,2,bad,Not the best experience with this chatbot.
+5e994cc4-b85c-4be8-93fa-ebc48e348e99,2023-04-01 15:15:57,User75,1998-5-4,0:53:43,news,3,4,bad,The bot needs some improvements.
+5ef002ba-2a1c-41ae-ac97-2609103d1532,2022-08-26 05:37:57,User537,1990-4-1,0:43:16,eat-drink,2,2,good,Impressed by the bot's knowledge about MTL Blog.
+c9ea776b-2a32-47e8-a39b-6b9ccca2e812,2023-04-26 15:25:57,User937,2002-1-24,0:12:25,eat-drink,1,10,good,Impressed by the bot's knowledge about MTL Blog.
+dd57650f-9b7f-486b-8f11-97d936279af8,2023-08-02 19:12:57,User621,1998-11-8,0:54:11,money,2,1,bad,Not the best experience with this chatbot.
+ac140a06-51b5-4b93-a553-310d32568cce,2022-12-08 01:50:57,User422,1994-2-25,0:38:4,money,9,4,bad,I wish the chatbot was more intuitive.
+9984caa8-bb4f-4745-bc28-3d94596a9fc6,2022-11-23 03:22:57,User516,1993-4-15,0:33:1,travel,5,10,good,Impressed by the bot's knowledge about MTL Blog.
+2c694534-7eb9-408d-bf24-b8ccc7e8148d,2023-02-04 15:53:57,User654,2002-6-28,0:57:25,news,6,6,good,Impressed by the bot's knowledge about MTL Blog.
+db1d46f3-3e77-4499-87bd-6eedd6080860,2023-05-23 17:13:57,User835,1992-11-22,0:53:33,travel,4,4,bad,The bot needs some improvements.
+634f6d16-b952-4ea6-b731-9d304c5f55d1,2023-08-19 22:24:57,User204,1998-6-21,0:37:11,travel,6,7,bad,Not the best experience with this chatbot.
+eff8fd4f-50f7-4955-99fb-6e6c265b5617,2023-07-07 19:26:57,User713,1996-9-18,0:22:48,eat-drink,1,2,good,The chatbot was very helpful and informative.
+f944bf9c-cd3a-4440-8b4b-64bcb6e806ef,2023-08-18 08:46:57,User703,1996-2-7,0:56:52,money,4,5,good,The bot provided accurate answers.
+7e6ac5dd-4c25-4657-8356-6c16775e8111,2023-03-13 18:03:57,User728,1999-4-5,0:34:41,travel,1,1,bad,The bot needs some improvements.
+a2e565c7-a356-4328-9387-eddde6bbf793,2023-05-20 14:03:57,User481,2005-8-5,0:0:37,things-to-do,5,3,good,The chatbot was very helpful and informative.
+19debf7f-a63c-4a1a-9240-0224976ab0dc,2023-05-01 21:17:57,User552,1994-2-23,0:48:7,deals,3,6,good,I love how quickly the bot responds.
+cf507dbe-5ea4-4cdd-8931-83affbdf27e0,2023-02-01 11:39:57,User670,1991-10-17,0:17:4,deals,3,4,good,The bot provided accurate answers.
+9c650f0f-7a64-413d-a6fe-d48a27b8ddf5,2023-02-26 02:58:57,User254,1991-10-19,0:12:56,deals,5,3,bad,The bot was a bit confusing at times.
+dcd614b8-cd97-4ba3-bd02-46f9f97cdf5d,2023-07-10 23:13:57,User942,1998-4-21,0:43:8,money,1,4,good,I love how quickly the bot responds.
+3f3a3520-67e2-40ea-9ab9-76c5035b9032,2023-06-08 17:13:57,User91,1998-1-12,0:43:8,lifestyle,5,3,good,Impressed by the bot's knowledge about MTL Blog.
+54302ca5-6b79-4cf0-867c-d8c5b6ad2ce2,2023-04-17 15:18:57,User263,1992-3-22,0:29:6,news,5,2,good,The chatbot was very helpful and informative.
+8b802263-102f-4a89-9674-501c29d90d1b,2023-05-20 04:51:57,User288,1990-2-20,0:20:33,things-to-do,1,4,good,The chatbot was very helpful and informative.
+566549b3-fcf6-4edc-b075-3ce79a8f94a7,2022-11-21 10:26:57,User486,1993-1-13,0:50:51,sports,2,7,bad,Didn't get the answer I was looking for.
+6b1cbffc-a34f-4e7a-9f74-fc35b1a4fb6b,2023-05-13 13:39:57,User21,1989-6-27,0:19:47,eat-drink,7,4,good,Great experience navigating through MTL news.
+a97dac02-a5cd-446d-a38f-7b29bcbaf4f1,2023-07-09 22:41:57,User166,2003-5-1,0:2:8,sports,2,3,good,The chatbot was very helpful and informative.
+8841d3c8-eb81-44a3-b1cc-36419f643d5a,2022-10-29 02:47:57,User53,1994-11-23,0:5:15,things-to-do,5,10,good,Impressed by the bot's knowledge about MTL Blog.
+e0e72b0a-a910-4dee-8958-032755f3308c,2023-07-08 02:00:57,User675,1986-2-6,0:37:47,money,4,2,good,Impressed by the bot's knowledge about MTL Blog.
+152f9e27-7e0f-456d-abee-e41a86c0323d,2023-03-18 12:23:57,User302,1994-11-28,0:19:23,eat-drink,1,4,good,The chatbot was very helpful and informative.
+faf33165-b0c7-4aad-9833-aafd71c8eb34,2022-11-27 09:19:57,User778,1989-11-16,0:37:3,news,5,3,good,Smooth and pleasant interaction with the chatbot.
+3fac8c55-d7d3-4891-8bf5-e92b43cee947,2023-06-27 06:00:57,User870,2001-6-8,0:30:14,eat-drink,5,1,bad,Had a hard time understanding some responses.
+4836a28d-b3d2-401b-ad31-50a16b45c8e0,2023-08-04 21:38:57,User17,1985-5-4,0:11:7,things-to-do,3,6,good,The chatbot was very helpful and informative.
+cdd23edd-6436-461c-a7c0-c719aa987d5d,2023-03-17 01:39:57,User89,1993-10-12,0:51:1,lifestyle,2,4,good,Impressed by the bot's knowledge about MTL Blog.
+d2869317-b36a-4d0a-b564-220cacc17925,2023-03-21 11:26:57,User770,1984-8-13,0:20:30,lifestyle,3,4,bad,I wish the chatbot was more intuitive.
+69b13652-1452-4c88-aae5-5607644db4d4,2022-12-27 15:29:57,User333,1996-11-24,0:34:1,things-to-do,3,6,good,Impressed by the bot's knowledge about MTL Blog.
+f3e385db-1b75-4b54-8dfa-efed7066ca4f,2023-03-29 00:57:57,User728,1992-2-28,0:47:37,eat-drink,10,3,good,The bot provided accurate answers.
+556f828e-d308-4767-af1b-2ff8f6536cfc,2022-12-15 08:56:57,User303,1989-9-2,0:31:5,real-estate,2,4,good,The chatbot was very helpful and informative.
+7f9422e4-8754-449c-b1fb-d14e58f6dc52,2023-06-05 20:25:57,User212,1986-1-10,0:18:15,real-estate,1,4,bad,The bot was a bit confusing at times.
+8ff23ff1-7997-4ed2-a0a6-b1871cd2e86c,2023-07-13 00:30:57,User251,1980-9-10,0:25:20,eat-drink,3,1,good,Impressed by the bot's knowledge about MTL Blog.
+ece37235-d28c-40eb-9515-85823b8e3ffb,2022-10-21 14:41:57,User453,1990-3-28,0:21:22,eat-drink,5,3,good,I love how quickly the bot responds.
+7bf08053-806f-435d-9edc-52f2a846297e,2023-07-27 03:53:57,User331,1999-11-27,0:37:0,lifestyle,2,2,good,Smooth and pleasant interaction with the chatbot.
+ee6204f5-3a0e-41be-8f34-a1cbae7a81e0,2023-03-05 02:54:57,User665,1998-4-21,0:11:11,eat-drink,6,8,good,Great experience navigating through MTL news.
+46364697-e2ae-4a65-9ca0-15d2de1403e9,2023-05-08 06:49:57,User160,1990-7-19,0:31:18,real-estate,1,8,good,Impressed by the bot's knowledge about MTL Blog.
+d1d6a659-7dea-4e4d-9b14-c8f33f7487d3,2022-10-24 05:55:57,User320,1997-4-6,0:28:27,deals,1,2,good,Smooth and pleasant interaction with the chatbot.
+bacdb25c-f052-4cd3-ba8a-93a515452ca4,2023-02-12 05:21:57,User262,1998-4-16,0:16:14,eat-drink,4,2,good,I love how quickly the bot responds.
+cb9b146e-720c-4455-ab32-0173be6ef8e2,2022-12-01 20:21:57,User229,1989-11-7,0:12:9,news,5,4,good,The bot provided accurate answers.
+ac8c3eee-80d0-457d-89ce-fdeefbbc26dd,2023-02-01 05:50:57,User810,1993-2-20,0:27:0,lifestyle,1,5,bad,Had a hard time understanding some responses.
+da4726ee-5c9f-440a-8d86-5c65d4ac77c6,2022-09-27 02:30:57,User79,1993-7-10,0:57:32,deals,3,6,good,Smooth and pleasant interaction with the chatbot.
+2dc2e0a3-4e13-40d3-9e74-103c26d5f614,2022-09-28 16:33:57,User890,1985-2-9,0:2:57,things-to-do,2,1,good,The chatbot was very helpful and informative.
+0ed4b8db-3f30-4195-ba52-cfaf7d542301,2022-12-01 12:24:57,User144,1986-12-27,0:14:28,deals,1,5,good,The bot provided accurate answers.
+9a637e85-c73e-4591-bdce-dd123adc0f9b,2023-06-23 17:41:57,User3,2001-8-25,0:46:25,travel,5,7,good,I love how quickly the bot responds.
+a77b1e7d-d0ca-4043-b071-1bac42ab1e8d,2023-07-26 09:11:57,User473,1992-4-15,0:50:30,sports,1,4,good,I love how quickly the bot responds.
+7a8049be-a013-46ef-b516-349096434233,2023-01-21 08:06:57,User439,1995-10-10,0:14:10,lifestyle,1,10,bad,I wish the chatbot was more intuitive.
+40709777-5fc2-4c46-ae9e-7d55365cf57f,2022-09-29 16:22:57,User549,1990-10-21,0:11:17,travel,2,4,good,Impressed by the bot's knowledge about MTL Blog.
+04c3e055-f01f-40f4-969e-3ce4c4975be9,2023-05-22 23:17:57,User810,2000-4-14,0:41:0,lifestyle,4,2,good,Smooth and pleasant interaction with the chatbot.
+ffa598e7-86df-4c8e-8fd0-cd1282baf305,2023-06-08 01:30:57,User879,1997-5-21,0:14:44,news,5,6,good,Impressed by the bot's knowledge about MTL Blog.
+6bb07a72-22b3-43ff-8cce-26f32b009b42,2023-01-21 13:21:57,User800,1993-10-27,0:58:15,eat-drink,2,5,good,The bot provided accurate answers.
+bacbd7b2-83ef-4e86-9673-3cef531394b2,2022-11-25 18:17:57,User359,2000-6-19,0:24:4,sports,7,1,good,The chatbot was very helpful and informative.
+83fbc553-3ce8-4969-9869-f1741851185a,2022-09-28 16:38:57,User695,1986-12-12,0:59:20,travel,8,10,good,Impressed by the bot's knowledge about MTL Blog.
+e65d30f0-593e-43c3-8479-1d338144058e,2023-03-04 13:19:57,User259,1997-7-6,0:7:47,things-to-do,8,6,bad,Had a hard time understanding some responses.
+4a15d07d-9b30-4a4c-accf-1e12dd0b3fa6,2023-03-18 20:30:57,User434,1991-3-18,0:22:13,money,7,3,good,Great experience navigating through MTL news.
+1a3f77ca-5439-45dc-91d4-725e96c0f46f,2023-07-16 04:27:57,User398,1992-7-4,0:53:48,lifestyle,6,8,good,Impressed by the bot's knowledge about MTL Blog.
+ad3e91eb-3aaa-49e7-9a1a-b002655ad43a,2023-05-27 05:47:57,User333,2000-2-12,0:8:51,travel,2,4,bad,Didn't get the answer I was looking for.
+c54096c4-1d0d-4184-a452-ca3de321a68e,2022-09-27 14:31:57,User565,1998-12-10,0:41:10,deals,3,3,bad,Had a hard time understanding some responses.
+61341e4b-ed8c-4d65-b9a1-101f47b24b97,2023-01-17 10:26:57,User81,1996-7-22,0:7:59,money,1,2,bad,Had a hard time understanding some responses.
+6780fccd-5a58-4d64-923c-d5bc523abfe3,2022-10-10 04:04:57,User912,1993-9-26,0:6:59,sports,2,4,good,The bot provided accurate answers.
+1de678f8-5746-4403-b5a4-9d7b53803151,2023-05-14 22:02:57,User46,1993-5-22,0:38:16,eat-drink,2,3,bad,I wish the chatbot was more intuitive.
+b8b9ea20-6918-47f9-9341-9f6ee1b49a9a,2022-10-16 10:01:57,User794,1994-11-27,0:30:50,eat-drink,6,4,good,Impressed by the bot's knowledge about MTL Blog.
+ae9f64b5-58e4-449e-a85a-760c5468f032,2023-01-02 06:17:57,User766,1994-6-7,0:11:19,eat-drink,8,4,good,Great experience navigating through MTL news.
+04fec030-eb8b-4e7d-9119-f28fdfe0cbd2,2023-05-17 20:34:57,User440,1996-11-15,0:25:47,eat-drink,2,7,good,The bot provided accurate answers.
+9e56977f-959c-4acb-b98c-7089f2b67751,2022-11-21 15:49:57,User592,2002-10-17,0:44:29,deals,5,2,bad,I wish the chatbot was more intuitive.
+92d4dc5f-4dd4-48dc-ae60-f13299162076,2022-08-22 05:23:57,User527,1990-8-15,0:36:55,real-estate,5,5,bad,Didn't get the answer I was looking for.
+ee887a39-8033-49f4-9e35-851eba033fe2,2023-01-19 11:10:57,User925,1998-12-13,0:59:33,travel,5,5,good,The chatbot was very helpful and informative.
+bf223b51-0817-409b-8494-cb18f1b4affe,2022-09-11 00:52:57,User76,1998-2-1,0:44:43,sports,8,4,good,Impressed by the bot's knowledge about MTL Blog.
+ded33cba-a95b-4ce5-9d4c-9b98c9308e67,2022-10-10 06:38:57,User506,1995-10-4,0:3:24,eat-drink,5,5,bad,The bot needs some improvements.
+60834c4a-c233-4c72-92e8-32329a09f959,2022-10-20 04:54:57,User479,1997-1-6,0:44:33,deals,2,4,good,The bot provided accurate answers.
+86d70279-a981-4a97-a7af-452bf585c5a7,2023-01-22 13:31:57,User800,1995-2-19,0:34:2,deals,2,3,bad,The bot was a bit confusing at times.
+a9c79726-5227-47a7-983c-19805fbc410a,2023-04-16 05:17:57,User254,1994-6-7,0:10:6,deals,3,5,good,I love how quickly the bot responds.
+2b97728f-4fd8-4ee6-bafd-6023f665e862,2022-11-09 15:40:57,User769,2000-4-11,0:49:7,lifestyle,6,1,good,The bot provided accurate answers.
+fd16fd1d-afb4-4377-b4de-d85dcf8bb5a4,2022-11-10 23:20:57,User258,1993-9-2,0:9:2,eat-drink,2,5,bad,Not the best experience with this chatbot.
+60925f78-f9f4-4ad7-b5ec-a3e93a4c9e19,2022-12-08 20:48:57,User890,2000-5-19,0:45:58,lifestyle,2,1,good,The chatbot was very helpful and informative.
+27b9b5c7-5dda-4a67-b255-57bc0d79bd5a,2023-05-15 12:52:57,User430,1989-5-1,0:58:52,things-to-do,4,2,good,Great experience navigating through MTL news.
+e9a0889d-9fac-4972-9fc8-3cb361864ef7,2023-06-27 16:51:57,User711,1997-7-5,0:39:38,eat-drink,1,1,good,I love how quickly the bot responds.
+b0e3e3f4-26fe-44fb-84b8-e507d2ad05fa,2023-05-31 10:15:57,User28,1985-6-7,0:4:23,lifestyle,1,4,good,Impressed by the bot's knowledge about MTL Blog.
+e446dc45-c5b6-4f38-bb57-d9e4c641eb58,2023-05-28 09:18:57,User601,2001-12-13,0:29:29,travel,3,4,good,The chatbot was very helpful and informative.
+469e868f-8cb6-4fb4-8cfd-64647f7629fa,2023-07-26 14:23:57,User179,1998-5-12,0:36:59,eat-drink,1,1,good,Great experience navigating through MTL news.
+7e8d93a0-4cb9-473c-af3d-dd75da289b24,2023-04-06 05:53:57,User74,1996-6-25,0:51:7,things-to-do,3,1,good,Impressed by the bot's knowledge about MTL Blog.
+d1f90640-2544-4e90-a599-7a13c2fec18e,2022-09-30 10:56:57,User229,1990-9-17,0:40:31,sports,3,4,good,The chatbot was very helpful and informative.
+fdbd8b94-939f-47c8-a341-6e85783fcb2d,2023-04-29 08:03:57,User774,1994-12-16,0:4:36,things-to-do,5,3,good,Great experience navigating through MTL news.
+1f4b1de3-2d54-49da-b975-bf023c4bc7fd,2022-09-26 01:17:57,User556,1999-11-11,0:6:50,eat-drink,9,7,good,Great experience navigating through MTL news.
+c330264c-1fc4-4356-b5da-64368209000a,2023-02-23 05:43:57,User366,1991-6-7,0:29:57,travel,3,4,good,The chatbot was very helpful and informative.
+fb7fbf4f-2608-4882-a931-b99243c37bd8,2023-01-01 06:36:57,User190,1993-3-20,0:52:16,travel,1,2,good,The chatbot was very helpful and informative.
+aaf082ff-9e80-4566-ad55-5ba5b3fb4838,2023-03-09 08:13:57,User935,2000-11-24,0:21:2,sports,4,2,good,The chatbot was very helpful and informative.
+b803260a-ccc8-4dca-b4a7-1a3a98f83741,2023-08-06 13:48:57,User158,1998-9-6,0:6:41,lifestyle,7,2,good,The chatbot was very helpful and informative.
+11631f20-7772-4a6e-abe6-9a61e3a16f22,2023-04-11 15:37:57,User847,1992-10-28,0:7:24,eat-drink,4,7,good,Smooth and pleasant interaction with the chatbot.
+2ba85d4d-0c13-446a-8957-6a74e0f30522,2022-12-24 05:42:57,User252,1988-2-14,0:29:46,lifestyle,3,5,good,Impressed by the bot's knowledge about MTL Blog.
+ea6d10cf-6664-44b7-8844-34b574c0f771,2023-06-16 10:54:57,User534,1994-5-10,0:20:29,travel,4,4,bad,Not the best experience with this chatbot.
+666bc1df-b397-4e15-be94-9b7d4fc277d6,2023-03-09 10:07:57,User548,1988-7-12,0:34:18,eat-drink,5,7,good,Smooth and pleasant interaction with the chatbot.
+5eb386e1-1b14-4cac-ae1a-f44deca3d6e6,2022-08-28 01:01:57,User843,1986-11-27,0:8:40,things-to-do,3,3,good,Impressed by the bot's knowledge about MTL Blog.
+fe5ce204-82a8-4eaf-a7ff-be54e3d36bb0,2022-09-21 18:58:57,User53,1990-2-13,0:49:41,deals,2,3,good,Smooth and pleasant interaction with the chatbot.
+70815775-30d4-4287-a4c5-c95c4ad595b4,2023-01-10 01:21:57,User733,1992-1-27,0:48:9,eat-drink,8,5,good,Great experience navigating through MTL news.
+ab881b03-091a-4ddd-9db2-41caf934678a,2022-10-28 10:19:57,User700,1991-3-6,0:54:27,travel,7,1,bad,The bot was a bit confusing at times.
+e78b3c15-3f2f-44bb-ad61-8c2394a835cd,2023-06-17 00:33:57,User597,1990-6-6,0:11:44,money,6,6,good,Smooth and pleasant interaction with the chatbot.
+dc46c2f1-b6e4-4b3a-a569-114320fed175,2023-08-04 13:43:57,User106,2000-4-23,0:42:40,money,1,2,good,Smooth and pleasant interaction with the chatbot.
+6deea79d-083b-4d61-84fa-91b733ac1e21,2023-04-30 02:37:57,User364,1992-5-22,0:31:2,eat-drink,2,3,good,I love how quickly the bot responds.
+14506be8-3256-43c8-b0f8-646b02e1137e,2023-04-05 05:54:57,User329,1998-2-3,0:19:50,eat-drink,5,3,good,The chatbot was very helpful and informative.
+d63764bd-527a-4f6f-801d-874f41e69594,2022-11-29 10:18:57,User158,1990-4-20,0:53:43,sports,1,3,good,The chatbot was very helpful and informative.
+70eeef2c-ca7f-4b5a-ad64-dd355e59e42f,2022-10-01 17:22:57,User656,1993-11-12,0:35:33,eat-drink,7,3,good,Smooth and pleasant interaction with the chatbot.
+efd92689-0958-4131-808c-6060205cb42c,2023-01-18 11:50:57,User575,1998-11-18,0:52:36,things-to-do,3,4,good,Great experience navigating through MTL news.
+58a7e512-9043-468e-9def-40949f78ee63,2023-08-11 03:41:57,User539,1995-2-6,0:33:53,money,5,3,bad,The bot was a bit confusing at times.
+6fe259b7-44a1-4b07-8255-f643cf08f072,2023-08-03 07:22:57,User944,1997-9-12,0:13:4,deals,4,8,good,The chatbot was very helpful and informative.
+486b001c-00e1-4554-9dd5-6e9cd6327d8b,2023-04-24 00:15:57,User839,1996-8-5,0:45:20,eat-drink,3,1,good,The bot provided accurate answers.
+7a2c0aee-0a5a-4249-a962-b0385a27b790,2022-08-21 23:23:57,User988,1997-4-11,0:18:14,news,1,1,bad,Didn't get the answer I was looking for.
+e9779383-f893-47ce-9ee0-687616720805,2023-06-14 07:15:57,User985,1989-11-12,0:44:56,lifestyle,2,3,good,Great experience navigating through MTL news.
+936501a5-9558-4850-83b7-3900a128d7ce,2023-03-16 23:58:57,User355,1994-9-24,0:55:59,things-to-do,4,4,good,The chatbot was very helpful and informative.
+e227d627-ed8d-42dd-8780-d2fa08d4f911,2023-05-02 18:40:57,User275,1987-10-17,0:24:24,things-to-do,1,3,good,I love how quickly the bot responds.
+9ef252ae-529d-4758-880c-52642f0c34bc,2023-05-03 22:03:57,User579,1996-10-12,0:43:19,eat-drink,4,1,bad,The bot was a bit confusing at times.
+e2350685-b611-4082-a3de-fe6096eeefe4,2023-06-22 19:04:57,User229,1995-12-23,0:0:44,lifestyle,4,1,bad,I wish the chatbot was more intuitive.
+6d12b1b0-f457-47e0-8b6c-d39a66eb415e,2022-09-26 13:30:57,User432,1996-12-27,0:59:10,lifestyle,1,1,good,The chatbot was very helpful and informative.
+24f1f8c7-c2f3-4cf0-b168-851820743762,2022-11-16 22:31:57,User207,1988-10-1,0:6:32,lifestyle,2,3,good,I love how quickly the bot responds.
+ce612297-a71a-4b55-892d-65d3cc0be2c6,2022-11-03 13:35:57,User870,1996-3-25,0:31:38,eat-drink,5,3,bad,The bot was a bit confusing at times.
+ba6b889e-5a14-460e-8b3d-59367923341d,2022-12-07 20:44:57,User688,1993-3-28,0:54:27,news,4,6,good,Smooth and pleasant interaction with the chatbot.
+a4e33c97-f99b-4e4f-8042-9bbb1f367600,2022-10-18 15:39:57,User904,1995-2-13,0:58:3,news,5,10,good,Great experience navigating through MTL news.
+dfbd1263-87e8-46ea-b817-37aabce1ded4,2022-09-26 15:10:57,User498,1988-1-28,0:40:35,things-to-do,5,1,good,Great experience navigating through MTL news.
+17d17781-7fd8-49fe-bc9d-a8dbc0409b01,2022-09-17 03:49:57,User508,1992-8-15,0:12:43,eat-drink,5,10,good,Great experience navigating through MTL news.
+69866a53-0504-4d93-9482-6bb7e0ebbb69,2022-11-14 22:16:57,User205,1998-2-14,0:52:6,lifestyle,1,4,good,Great experience navigating through MTL news.
+84758a75-9cac-486e-ba74-f28756188fb1,2022-10-11 14:20:57,User722,1992-2-1,0:49:19,things-to-do,6,1,good,I love how quickly the bot responds.
+d87bd10f-c192-44ef-92d7-eaf2173c3f7e,2023-06-19 11:19:57,User760,1991-11-3,0:18:32,things-to-do,10,5,bad,The bot needs some improvements.
+45caf4f4-21fe-48bd-b8f1-14b28a46a26a,2023-08-01 17:03:57,User40,1985-12-25,0:33:15,things-to-do,2,5,good,I love how quickly the bot responds.
+129f1eaa-1e69-4529-a1a0-d605b0bc5857,2023-03-07 20:21:57,User746,1990-9-4,0:11:42,real-estate,4,1,bad,Had a hard time understanding some responses.
+878a014d-41a4-4c91-ab13-8a50514b2953,2023-01-30 14:01:57,User494,1997-4-18,0:24:0,news,5,6,good,I love how quickly the bot responds.
+5979dd35-2dfc-4e1b-8278-397b483f867a,2023-05-07 12:30:57,User786,1990-11-1,0:52:44,eat-drink,3,8,bad,Didn't get the answer I was looking for.
+c870c12b-27be-449f-b45d-92f616309d47,2022-10-23 13:53:57,User784,1995-1-26,0:32:1,travel,1,2,bad,Didn't get the answer I was looking for.
+3cee1e0f-d437-4107-ab23-f082b0afd8bd,2023-07-27 18:09:57,User804,1987-2-13,0:0:36,eat-drink,4,2,bad,Didn't get the answer I was looking for.
+c460649f-d791-40ff-b758-22fff58a1892,2023-02-01 02:52:57,User540,1990-7-24,0:0:43,money,3,2,good,Great experience navigating through MTL news.
+37737573-8ee6-46cb-abd1-a46bcd67308a,2023-03-11 08:27:57,User266,1994-4-26,0:48:32,things-to-do,1,2,good,Great experience navigating through MTL news.
+27f35830-b48e-4820-aca9-2b1d0c2e7620,2023-02-22 17:04:57,User535,1999-7-19,0:37:30,things-to-do,2,10,bad,The bot needs some improvements.
+6085ed99-0f84-44ca-adb5-77d249386fe7,2023-03-20 04:11:57,User159,1999-12-1,0:9:50,real-estate,4,3,good,Great experience navigating through MTL news.
+be51aadd-f53c-4ed8-a946-e460a85b9274,2022-09-20 17:44:57,User232,1995-8-14,0:20:13,deals,4,4,good,The chatbot was very helpful and informative.
+5303fbd8-6fbc-42ac-aea0-3a2b30879df7,2023-04-27 15:10:57,User589,1989-12-11,0:52:46,deals,1,6,good,Smooth and pleasant interaction with the chatbot.
+2dcf6e06-003a-4160-a619-219d1cf4fcf2,2023-07-01 11:11:57,User77,1995-11-5,0:52:56,travel,5,3,good,The bot provided accurate answers.
+b77045eb-c822-4b11-bb9b-cf340d2e60bf,2022-10-30 18:48:57,User750,1997-3-3,0:47:19,news,1,1,good,Great experience navigating through MTL news.
+ee332806-80a5-4501-99d4-fb116786b522,2023-07-27 11:16:57,User945,2000-3-23,0:10:6,things-to-do,9,5,good,I love how quickly the bot responds.
+b5b97254-7a06-4725-a64a-89f6ce3fa9f8,2022-08-31 03:15:57,User657,1991-3-14,0:45:25,news,7,6,good,I love how quickly the bot responds.
+9d8976a2-d61a-4bd9-8c24-1ec217444267,2023-06-18 09:21:57,User476,1999-10-7,0:28:51,travel,6,4,good,The bot provided accurate answers.
+8a568b27-af2b-4027-af06-57639fa9328f,2023-01-02 23:56:57,User640,2001-4-3,0:41:36,news,2,3,good,The chatbot was very helpful and informative.
+640ad4f6-56ca-45bc-bc41-6c7298d67555,2023-04-22 02:16:57,User373,1992-1-1,0:14:21,news,4,7,bad,Didn't get the answer I was looking for.
+001bb610-742f-4a27-b367-ee82b9d1506a,2023-05-19 00:59:57,User229,1982-9-20,0:20:0,real-estate,2,4,bad,I wish the chatbot was more intuitive.
+d729a073-d99c-4261-8f8b-9216b829ace8,2022-11-13 07:07:57,User415,1994-9-18,0:57:49,sports,8,3,good,I love how quickly the bot responds.
+b719db94-12ce-4cda-950f-5a235bb844b4,2022-10-19 08:51:57,User626,1987-1-8,0:32:33,sports,3,7,bad,The bot needs some improvements.
+870e9516-01c7-4fe1-b106-751242504e8e,2022-10-04 12:20:57,User371,1993-7-21,0:39:49,money,1,4,bad,The bot needs some improvements.
+75a524eb-394e-459c-a585-8490c16c74ae,2023-07-31 04:36:57,User103,1985-9-14,0:27:4,news,3,1,good,Smooth and pleasant interaction with the chatbot.
+d9c6d08a-45c5-4261-8fcd-0441bebae97b,2023-01-17 14:52:57,User78,1992-12-2,0:48:39,money,4,5,bad,The bot was a bit confusing at times.
+7e7ed7cc-19d5-4cbd-a12d-23261e97124f,2023-06-08 02:41:57,User737,1997-11-20,0:7:13,real-estate,5,9,good,Smooth and pleasant interaction with the chatbot.
+018fb490-6668-4379-83d1-54ee847abc94,2022-09-13 15:00:57,User442,1992-12-12,0:30:21,money,6,4,good,Great experience navigating through MTL news.
+1c2ef3ad-82be-433a-a7a8-77eeafe07b29,2022-09-06 10:54:57,User466,1994-5-23,0:56:0,eat-drink,7,9,good,The bot provided accurate answers.
+2ac93005-502a-4b0a-b25c-a61c7f956f3b,2023-04-18 12:01:57,User447,1990-7-7,0:5:5,lifestyle,9,5,good,The chatbot was very helpful and informative.
+7a3b9401-fa6a-436e-a702-09beb54b83f0,2022-12-04 00:53:57,User81,2001-11-14,0:50:24,lifestyle,1,3,bad,The bot was a bit confusing at times.
+96fd61c6-4a73-45a2-bfdc-54f3996aff6a,2023-01-30 01:33:57,User441,1993-2-16,0:28:53,eat-drink,1,5,good,Impressed by the bot's knowledge about MTL Blog.
+8001e6ed-d708-46d9-8fe0-c5bdad41349e,2023-03-13 10:26:57,User499,1999-12-21,0:16:12,eat-drink,2,5,good,Great experience navigating through MTL news.
+358b1956-7901-4c6d-8bc8-b146d5ebb331,2022-12-16 03:09:57,User947,1998-2-4,0:6:52,travel,3,8,good,Smooth and pleasant interaction with the chatbot.
+b95a1122-dbf5-444b-bcef-aeb33447e22e,2023-07-26 19:54:57,User2,1994-1-13,0:22:54,deals,1,5,good,The chatbot was very helpful and informative.
+91712428-e56e-4f4e-af94-e9e3c17ee55c,2023-02-21 02:39:57,User306,1991-10-17,0:41:54,news,3,3,good,The bot provided accurate answers.
+4b72d63d-1103-4450-b475-1c0504cbc962,2022-12-05 08:44:57,User878,2001-7-10,0:30:55,real-estate,2,3,bad,Not the best experience with this chatbot.
+d20a74a7-c97c-43b7-afa0-f850bece2f0a,2023-05-04 01:07:57,User916,1985-5-8,0:11:10,lifestyle,1,8,bad,I wish the chatbot was more intuitive.
+79840098-b399-48c2-baca-937eccf5fb05,2023-01-29 00:23:57,User209,1991-2-13,0:45:15,eat-drink,3,2,good,Smooth and pleasant interaction with the chatbot.
+5e73fb59-5041-4263-80c6-dea81e915712,2022-09-22 19:12:57,User224,1995-2-21,0:59:15,sports,6,5,good,The chatbot was very helpful and informative.
+8adf89ff-0dfb-4d91-a279-f34712e2b313,2023-06-01 21:11:57,User425,1983-7-13,0:59:27,lifestyle,4,7,good,Great experience navigating through MTL news.
+60882049-5657-4c71-b09d-3b60006e970d,2022-10-09 22:02:57,User572,1987-8-26,0:23:17,lifestyle,3,4,bad,The bot needs some improvements.
+a8c0954a-9b3c-4f8f-93af-34a71c446738,2023-07-09 23:44:57,User588,1993-7-19,0:20:31,things-to-do,3,10,good,The bot provided accurate answers.
+bd48c6fa-010a-435f-9de0-265d1ceb51fd,2023-07-29 03:45:57,User733,2000-4-14,0:5:4,real-estate,6,5,bad,Had a hard time understanding some responses.
+f08ca631-e998-4790-a978-7901ed021079,2023-06-11 22:25:57,User77,2003-8-14,0:20:40,things-to-do,3,6,good,Great experience navigating through MTL news.
+9cf7a807-0c95-4e85-8e56-3c1b92eeeec8,2022-12-27 23:10:57,User107,2003-9-1,0:57:59,sports,1,1,good,Smooth and pleasant interaction with the chatbot.
+959d7113-a3a1-4764-bff3-837077c241f2,2023-03-31 13:03:57,User35,1985-3-20,0:34:18,things-to-do,3,4,good,Impressed by the bot's knowledge about MTL Blog.
+6bcea446-5c16-4502-92cf-458d474017ab,2023-02-12 06:43:57,User461,1989-1-20,0:18:9,things-to-do,5,1,good,The chatbot was very helpful and informative.
+66864cc0-5716-431c-9953-9413b3a8bae0,2022-11-27 02:24:57,User197,1991-7-9,0:41:3,eat-drink,1,8,bad,The bot needs some improvements.
+533849a4-e4a2-4088-a2b5-bc4867049868,2022-11-14 17:49:57,User320,1988-2-18,0:53:46,sports,6,4,good,Great experience navigating through MTL news.
+9801baca-c021-49c3-b728-259a353fa0c0,2023-06-27 08:24:57,User396,1990-6-6,0:46:22,eat-drink,8,5,good,I love how quickly the bot responds.
+33ff8239-c7e6-4478-9305-d2f82e347eb2,2023-06-16 01:49:57,User218,1989-12-12,0:54:5,deals,4,4,bad,Had a hard time understanding some responses.
+c33515f2-5567-468d-8ce4-656e1d71c1dd,2023-07-19 21:38:57,User573,1987-7-23,0:31:16,lifestyle,5,3,good,The bot provided accurate answers.
+f5570cbc-1db5-4018-8952-027df6d8046d,2023-05-14 14:29:57,User159,1995-1-14,0:20:37,eat-drink,6,8,bad,Not the best experience with this chatbot.
+35a0460b-847e-494a-a06f-79d77d3d6b7d,2022-12-03 00:16:57,User324,1986-8-2,0:10:24,eat-drink,4,3,bad,Not the best experience with this chatbot.
+c5926b4a-9dd3-46d2-a5d6-e6432cda9fd6,2023-04-29 23:36:57,User91,1993-10-15,0:19:2,sports,1,8,good,Impressed by the bot's knowledge about MTL Blog.
+cc27749c-7305-4ea4-b8cd-88c5551b6771,2022-11-08 02:26:57,User869,1995-1-2,0:13:4,things-to-do,6,5,bad,The bot was a bit confusing at times.
+44be8a7b-6caf-405b-9670-1e2ebb92fda8,2023-08-04 21:38:57,User168,1997-11-10,0:25:25,travel,5,10,good,Impressed by the bot's knowledge about MTL Blog.
+65cebed2-8daf-40ae-a25e-818aa8dde950,2023-05-30 12:54:57,User981,1991-12-18,0:16:16,eat-drink,6,2,bad,Not the best experience with this chatbot.
+6df6e0db-93dd-4b89-814e-cb809ea64a42,2022-10-25 23:20:57,User653,1994-2-3,0:16:9,travel,3,5,good,The chatbot was very helpful and informative.
+70165c01-876f-49e4-afd5-f7d953f36c06,2023-06-18 16:06:57,User154,1997-9-26,0:11:25,travel,5,2,good,I love how quickly the bot responds.
+4d2a5896-4ae1-43ea-881f-0cf139b8f1af,2023-03-07 07:14:57,User294,1990-6-7,0:5:59,money,5,5,good,Smooth and pleasant interaction with the chatbot.
+98efb59c-4bbb-4480-9258-ceaabd7bf465,2023-03-13 12:46:57,User900,1996-11-5,0:56:50,travel,5,6,good,Great experience navigating through MTL news.
+996d7fcf-c9de-40c8-94d4-075841a578c6,2023-06-25 21:43:57,User522,1991-8-12,0:31:29,lifestyle,6,1,good,I love how quickly the bot responds.
+9e160ffe-ccf8-4511-a59d-8ec1901d3394,2022-12-03 21:19:57,User245,1997-6-17,0:32:39,news,3,6,good,Great experience navigating through MTL news.
+4b41cd74-705a-4a01-bfc0-9916ca3b27c4,2022-12-17 01:44:57,User493,1990-4-5,0:59:13,lifestyle,3,1,good,Impressed by the bot's knowledge about MTL Blog.
+bbfabff7-bba6-4c19-8e75-b108e270d565,2022-11-15 06:22:57,User909,1990-10-5,0:52:33,eat-drink,5,8,bad,The bot was a bit confusing at times.
+80edc487-4abe-40da-8a85-d72f0862b068,2022-10-26 14:47:57,User239,1981-6-13,0:14:33,money,2,5,good,The chatbot was very helpful and informative.
+c713d09f-3d0c-477c-9dd8-e2217048dfb2,2022-11-06 08:30:57,User935,1990-1-16,0:25:10,news,1,3,bad,Had a hard time understanding some responses.
+00474e0a-bdd6-48b0-9468-0678c4bfe480,2023-05-31 03:04:57,User833,1995-3-15,0:34:3,travel,4,2,good,Impressed by the bot's knowledge about MTL Blog.
+7619ac1f-a513-407a-93a1-596ac333dea0,2023-01-13 22:20:57,User261,1990-1-3,0:6:54,news,1,1,good,I love how quickly the bot responds.
+49b28b74-84bf-4be1-b9c6-74cd44771fac,2023-01-13 21:43:57,User926,1982-6-10,0:12:34,eat-drink,1,8,bad,Had a hard time understanding some responses.
+94449ac5-f64f-42a5-84e6-acd25055b4f2,2023-08-11 10:58:57,User502,1994-8-1,0:1:16,deals,6,6,bad,Didn't get the answer I was looking for.
+beb2ae4f-4049-4986-bf9f-0bd8aba53a25,2023-04-10 04:17:57,User405,1997-1-27,0:13:20,travel,5,4,good,The bot provided accurate answers.
+6d9786be-fdd5-4376-b095-6bc2c0d26264,2023-04-24 21:30:57,User582,1990-11-27,0:37:46,travel,2,1,good,Smooth and pleasant interaction with the chatbot.
+d0e7edaf-4f21-447c-924e-3119c0d766a7,2023-06-09 07:07:57,User950,1992-12-22,0:35:5,news,1,1,bad,Had a hard time understanding some responses.
+41a98de8-9e84-4f7d-82bc-f622ac7b2216,2022-11-30 08:38:57,User984,1989-7-17,0:24:41,things-to-do,5,7,good,I love how quickly the bot responds.
+28ed1fdd-2b7f-46af-8ae8-f7fd2094f411,2023-08-16 21:36:57,User109,1993-10-5,0:40:50,lifestyle,1,4,good,The bot provided accurate answers.
+408188a8-d656-410f-8874-fc7e3270c3fb,2022-10-30 10:30:57,User807,1996-8-27,0:49:44,deals,6,2,good,Great experience navigating through MTL news.
+3de23280-3ff3-4015-ace2-bbfdd1bdec4b,2022-09-24 10:35:57,User761,1999-6-8,0:8:59,deals,5,1,bad,Had a hard time understanding some responses.
+8beb225d-c24e-42c4-9963-6669d22adf1d,2022-10-21 07:31:57,User232,1999-3-20,0:52:19,money,1,1,good,Impressed by the bot's knowledge about MTL Blog.
+a217dc5d-d659-4e31-b4d8-1c73ddb79562,2023-01-30 14:24:57,User616,1991-5-11,0:15:16,deals,4,8,good,Impressed by the bot's knowledge about MTL Blog.
+e263d300-954d-4691-a53b-266dab2717e4,2022-09-03 09:09:57,User830,1997-9-23,0:4:3,deals,2,3,bad,The bot needs some improvements.
+da2aa893-d98d-4582-9866-6fc851702271,2022-09-02 22:21:57,User810,1986-11-5,0:57:55,money,2,4,good,I love how quickly the bot responds.
+bdaf0346-de9e-4a1d-bdd2-6ad8ffa51770,2023-01-29 04:48:57,User784,1999-10-10,0:38:57,things-to-do,6,1,good,Impressed by the bot's knowledge about MTL Blog.
+c5364629-f2cf-443a-81b5-b0c976709583,2023-03-22 17:49:57,User728,1988-9-16,0:32:3,money,7,7,bad,Not the best experience with this chatbot.
+6f98d2b0-55d9-42c5-a8d1-df9c227e1bad,2022-10-03 01:05:57,User624,2004-3-27,0:3:34,travel,4,5,good,The bot provided accurate answers.
+c7460823-62dd-455e-a799-f561f29fb516,2023-07-24 20:22:57,User405,1998-12-19,0:56:57,deals,7,3,bad,The bot needs some improvements.
+e5a35156-29e5-4c85-be74-f78431c31aba,2023-05-11 01:35:57,User881,1997-1-10,0:23:50,deals,3,6,good,The chatbot was very helpful and informative.
+28552df1-559c-43ee-89ff-844a0422147d,2022-09-18 18:06:57,User462,2002-8-10,0:48:3,sports,6,2,good,The bot provided accurate answers.
+99410721-74ce-443d-84f1-ef3deb72eec4,2022-09-19 00:02:57,User999,1987-7-25,0:49:18,things-to-do,7,3,bad,Not the best experience with this chatbot.
+9e71579b-1bb8-4aa9-a019-8360b366d638,2023-01-11 13:03:57,User475,1997-3-1,0:41:59,money,4,3,good,I love how quickly the bot responds.
+958eddf1-c151-44ca-9a9d-5ea11349fdf0,2022-12-09 23:08:57,User606,1994-3-9,0:26:49,eat-drink,6,2,good,Impressed by the bot's knowledge about MTL Blog.
+99f8a9c6-59ae-46ac-9079-a1e9a2e86f23,2022-10-29 10:48:57,User827,1997-9-17,0:19:12,eat-drink,3,3,good,The bot provided accurate answers.
+5abf71e2-8e6e-4ca5-90a8-9906880af05e,2022-10-09 22:09:57,User843,2005-8-23,0:29:56,deals,8,3,good,Impressed by the bot's knowledge about MTL Blog.
+be379330-0af4-4ffd-98ba-bd27cbcc8699,2023-07-27 22:17:57,User195,1992-7-25,0:13:38,travel,5,3,good,Smooth and pleasant interaction with the chatbot.
+32b3059e-e3e8-4c6d-a3dd-e9f51ec8fc35,2023-07-07 09:50:57,User24,1994-3-23,0:53:35,travel,5,1,good,Impressed by the bot's knowledge about MTL Blog.
+e3d10526-e4fd-4798-aadd-3ab80c411c64,2022-11-12 03:18:57,User555,1995-9-17,0:31:47,eat-drink,5,2,good,Smooth and pleasant interaction with the chatbot.
+c24e1f5b-4837-4ae0-a0f0-41a8bf53a30d,2023-05-12 04:22:57,User223,1989-8-24,0:20:15,things-to-do,2,2,good,Smooth and pleasant interaction with the chatbot.
+47144240-f582-4020-818e-0d03f5637697,2023-03-21 03:51:57,User837,2000-3-26,0:12:34,eat-drink,2,1,good,The chatbot was very helpful and informative.
+93a1c7cd-cade-4532-a8df-09ab637e3f02,2023-04-19 08:16:57,User929,1988-10-6,0:20:57,things-to-do,3,4,good,I love how quickly the bot responds.
+d17b0521-8803-41ba-abd2-decb9f555629,2022-10-03 13:30:57,User23,1992-11-9,0:49:17,eat-drink,2,1,good,Great experience navigating through MTL news.
+7ca41615-1300-4112-bef4-d8e19921a5f5,2022-12-17 17:34:57,User805,1993-5-23,0:33:24,money,2,4,good,The chatbot was very helpful and informative.
+214db475-2321-459f-84fb-2e7cd68cf97e,2023-01-02 08:05:57,User544,1994-7-21,0:13:4,news,6,1,bad,Didn't get the answer I was looking for.
+c170bdab-f56a-4c83-ba2d-25ceb6299535,2022-09-28 07:20:57,User172,1992-3-1,0:52:30,news,5,8,bad,Didn't get the answer I was looking for.
+bc1a7ce2-3d27-48a8-8a1d-d9efac86f998,2023-08-17 03:40:57,User699,1988-9-5,0:38:25,news,7,2,good,Smooth and pleasant interaction with the chatbot.
+6bec2e4e-8676-407a-b817-a4642c86a350,2023-04-06 05:13:57,User976,1997-8-15,0:21:23,eat-drink,9,2,good,The chatbot was very helpful and informative.
+49e3670e-ba78-4b16-875c-8f7da2aea472,2022-10-05 18:46:57,User540,1988-2-15,0:25:12,news,5,7,good,Impressed by the bot's knowledge about MTL Blog.
+2b1a3183-bbed-41d9-b708-0c8ee7b56a5e,2022-10-15 21:34:57,User353,1992-4-6,0:5:27,eat-drink,10,5,good,Impressed by the bot's knowledge about MTL Blog.
+1c32c8e2-db1a-45dd-a989-5e1fe4e5e48e,2023-07-31 01:14:57,User244,1993-7-22,0:29:32,travel,3,6,good,The chatbot was very helpful and informative.
+a4a3a0d2-8074-4610-9acf-118c3407d6ff,2023-06-22 08:02:57,User3,2009-8-25,0:59:2,money,4,1,good,The chatbot was very helpful and informative.
+bc432e62-daa7-4eaf-b57b-5821a45a791e,2023-05-28 13:02:57,User324,1990-7-22,0:7:13,lifestyle,1,5,good,Smooth and pleasant interaction with the chatbot.
+8f566f7b-0090-4659-99d7-8846f8766f3e,2023-02-25 05:55:57,User778,1983-4-20,0:25:17,things-to-do,4,6,bad,Not the best experience with this chatbot.
+ba6fb503-d325-4802-8ec8-069838881244,2022-09-14 08:51:57,User567,1999-1-6,0:58:41,things-to-do,10,1,good,Smooth and pleasant interaction with the chatbot.
+01eab614-2ba0-42dc-9b7b-c0ce7d1a60d1,2023-01-28 08:25:57,User882,1992-4-21,0:38:25,things-to-do,9,3,good,Smooth and pleasant interaction with the chatbot.
+8f5b411f-550c-4d1c-ae85-bfd8bdcd989d,2023-07-14 23:16:57,User116,1996-12-16,0:23:13,money,10,6,good,The chatbot was very helpful and informative.
+21a3dcbc-64e6-4a75-8802-28572e888f7c,2023-07-19 22:12:57,User768,1991-9-22,0:29:14,news,3,4,bad,I wish the chatbot was more intuitive.
+3d9eac9c-40d6-4ba8-ba2a-722e7eea17a8,2022-12-17 02:29:57,User360,1995-11-16,0:41:54,eat-drink,1,6,good,I love how quickly the bot responds.
+e5d84e97-cb0a-400e-9d16-92cc9eb26b99,2022-10-28 21:13:57,User892,1996-4-3,0:57:50,eat-drink,3,8,good,Smooth and pleasant interaction with the chatbot.
+582582e4-a944-4e8c-8d46-40953993446f,2023-06-26 08:37:57,User271,1990-9-17,0:36:48,deals,6,3,good,The bot provided accurate answers.
+8d39d4d5-9de7-4701-9e6e-7adb9dd65693,2022-09-01 15:16:57,User68,1988-6-1,0:31:43,things-to-do,3,3,good,Great experience navigating through MTL news.
+ab43b656-3786-4b45-b113-3eaa0d82c3bd,2022-08-26 12:59:57,User947,1990-1-12,0:51:10,sports,9,3,good,Great experience navigating through MTL news.
+c8a714a8-c20f-422a-8fc3-b693ce294a9d,2022-11-28 06:08:57,User567,1993-3-22,0:31:55,deals,4,6,good,The bot provided accurate answers.
+2c482efa-4dec-48f8-9cc0-0a46222f577b,2022-11-08 01:19:57,User487,1998-3-8,0:33:29,news,5,5,good,Great experience navigating through MTL news.
+c36b24a6-b7e1-4b89-8db9-f4e0e2af85c8,2022-12-28 02:12:57,User856,2002-5-12,0:34:35,eat-drink,2,5,bad,The bot needs some improvements.
+636cb599-8bf1-4692-81d2-2418080920e9,2023-06-23 08:47:57,User452,1997-2-17,0:26:34,things-to-do,8,3,good,I love how quickly the bot responds.
+a4ad582b-0003-4b6e-977f-ad765bc849a1,2023-07-31 16:24:57,User274,1991-3-15,0:1:14,lifestyle,4,10,bad,Didn't get the answer I was looking for.
+8f184ed9-ba4b-4edc-a2a4-f4c9f9c28b19,2022-10-21 21:23:57,User877,1994-2-12,0:48:49,things-to-do,6,4,good,Impressed by the bot's knowledge about MTL Blog.
+c2564279-1527-4c7b-8076-49995f99add2,2023-03-21 06:53:57,User509,1996-7-25,0:21:37,lifestyle,8,3,good,Smooth and pleasant interaction with the chatbot.
+97144d44-c9ea-4618-beac-9c28c3f0d56d,2022-11-18 09:10:57,User645,2000-11-6,0:28:52,things-to-do,8,1,good,Great experience navigating through MTL news.
+87606804-180e-4cc9-a914-6624b19bd712,2023-01-17 03:26:57,User31,1999-7-9,0:32:52,news,10,2,good,The chatbot was very helpful and informative.
+47c5168d-4353-4ca2-beaa-97abadb7ca2e,2023-03-04 14:27:57,User423,1994-10-14,0:0:17,eat-drink,9,1,good,The bot provided accurate answers.
+aae45faf-f870-4f3d-916b-e81af21246e2,2022-11-25 11:57:57,User833,1994-2-22,0:0:34,deals,3,1,bad,Not the best experience with this chatbot.
+c4a89bca-3b72-4da7-9660-79a90cbd928c,2023-08-05 10:21:57,User201,1997-6-16,0:12:57,lifestyle,2,5,good,Great experience navigating through MTL news.
+1226b66d-e146-4808-8422-ba2a71144805,2023-08-10 13:02:57,User147,1993-2-14,0:36:45,sports,5,1,bad,The bot needs some improvements.
+a90a64f3-dbe4-4c63-9509-121c8760088c,2023-05-23 22:21:57,User94,1993-8-11,0:25:1,travel,6,10,good,I love how quickly the bot responds.
+6ccc2881-8bba-459c-a305-e580d61e2790,2023-03-04 21:31:57,User131,1996-9-23,0:25:43,money,2,5,good,Smooth and pleasant interaction with the chatbot.
+6355fd3d-83fe-4de6-a7f6-5a7d056b3a7a,2023-04-16 13:30:57,User885,1986-11-19,0:29:51,things-to-do,2,5,bad,The bot needs some improvements.
+7074e148-1011-4c03-9532-c9554429b6d0,2023-04-30 15:24:57,User808,1997-6-11,0:11:44,sports,8,6,good,The bot provided accurate answers.
+e5df5d53-7b66-47a5-88dc-44bc7e0b51d5,2023-06-19 00:26:57,User312,1997-3-1,0:9:53,deals,5,5,good,I love how quickly the bot responds.
+0e7fb12f-7a06-4d3c-b0b0-397a2021f548,2023-05-11 17:52:57,User21,1988-3-16,0:45:28,money,6,4,bad,The bot was a bit confusing at times.
+c67b0813-583f-42e8-80fe-7d96765b96ae,2022-08-24 11:21:57,User283,1995-6-2,0:39:34,money,5,6,good,The bot provided accurate answers.
+8a9752c5-9ffd-492c-a3bb-f554d9f12410,2022-12-14 07:23:57,User926,1993-8-12,0:48:0,eat-drink,1,4,good,Impressed by the bot's knowledge about MTL Blog.
+e02ae50c-3dc8-4c99-8a52-0dba99f9708a,2022-12-09 13:28:57,User827,1991-2-8,0:58:41,money,2,9,good,The bot provided accurate answers.
+a91257d1-af4b-4423-9419-38e7d4350459,2022-08-31 19:30:57,User436,1993-3-10,0:24:40,sports,1,4,good,The chatbot was very helpful and informative.
+2029ab7e-ee4a-4da2-a0e2-66b039e0de78,2022-12-04 18:48:57,User330,1983-5-12,0:6:30,lifestyle,6,5,good,Smooth and pleasant interaction with the chatbot.
+a8b7f868-fa08-44e3-b1ca-52e0464f08f1,2022-09-01 22:30:57,User233,1994-3-11,0:7:44,lifestyle,7,4,good,Great experience navigating through MTL news.
+7cd1b4e8-4859-4cb7-830e-374f6088e437,2023-06-24 04:55:57,User971,1999-1-11,0:17:47,eat-drink,4,1,good,Smooth and pleasant interaction with the chatbot.
+6ecc9e25-962d-4ca4-850e-f08ffc6c3c73,2023-08-13 11:41:57,User509,1990-2-20,0:38:0,eat-drink,4,2,bad,The bot needs some improvements.
+107b5903-a1e0-4a21-a375-0181dc26bd04,2022-10-16 23:28:57,User219,1986-5-18,0:18:6,travel,8,1,good,The chatbot was very helpful and informative.
+85b03cb1-dbac-45bd-b932-d2165f1cb9b8,2023-04-14 03:34:57,User368,1989-2-25,0:11:11,things-to-do,9,6,good,I love how quickly the bot responds.
+2dcfb912-d07e-401d-8d3d-77bc679ff20a,2022-12-23 04:10:57,User924,1994-12-13,0:54:33,lifestyle,3,3,good,I love how quickly the bot responds.
+c61cf602-e222-4c17-a6aa-d24180847c44,2023-03-23 08:38:57,User272,1994-4-7,0:40:56,eat-drink,3,6,good,Smooth and pleasant interaction with the chatbot.
+9aab34b3-b4d7-47ee-bd3d-5a2fb3c93c69,2023-02-10 07:43:57,User614,1994-4-10,0:1:12,lifestyle,3,4,bad,The bot needs some improvements.
+705ca224-a8bd-4ff6-b255-d2e18dc9c7f6,2022-09-16 20:32:57,User598,1998-8-14,0:13:59,eat-drink,1,2,good,Great experience navigating through MTL news.
+4f912f77-d3c8-44d7-bceb-7d8185770dcf,2023-08-08 06:43:57,User619,1992-1-20,0:39:31,deals,5,6,good,Great experience navigating through MTL news.
+bf7aeff9-93a4-4265-95fe-e8b90f6eede6,2022-09-28 14:49:57,User313,1981-2-11,0:18:44,money,2,2,good,Great experience navigating through MTL news.
+35298014-87d7-4009-89a3-21a6421c64ce,2023-01-03 21:39:57,User860,1998-9-9,0:17:54,money,6,7,bad,Not the best experience with this chatbot.
+3258feaa-aa68-40b4-a0f9-f01309194bc5,2023-01-22 16:08:57,User499,1992-7-23,0:14:21,sports,5,4,good,I love how quickly the bot responds.
+a5c5b7a7-be02-47ac-8bf1-8a8234f313a2,2022-12-10 00:49:57,User752,2000-5-21,0:26:41,travel,2,5,good,The chatbot was very helpful and informative.
+4e1565d4-007e-489a-b208-594302eea4b0,2023-02-23 20:49:57,User876,1998-3-14,0:9:55,lifestyle,6,2,good,Impressed by the bot's knowledge about MTL Blog.
+81640066-1854-4ace-ac04-24cfca7015b5,2023-03-11 11:21:57,User285,1993-8-16,0:42:27,eat-drink,7,5,good,The bot provided accurate answers.
+7cd29cf1-e00e-4f8f-81c3-d796bcec163f,2023-01-17 13:18:57,User878,1991-6-15,0:22:10,money,2,10,good,Smooth and pleasant interaction with the chatbot.
+d4ca4fc2-fbc1-4121-957c-f745d33aee04,2023-06-18 02:33:57,User236,1998-1-18,0:56:41,real-estate,2,2,good,The chatbot was very helpful and informative.
+10f4c2f3-18ca-40ba-8b22-316053198084,2022-09-14 09:52:57,User203,1989-12-19,0:30:8,real-estate,1,2,good,Smooth and pleasant interaction with the chatbot.
+92dfba85-97fa-4a91-a62d-add6e72c0e7a,2022-11-28 15:30:57,User169,1987-2-9,0:58:43,deals,2,2,good,I love how quickly the bot responds.
+c9954640-d222-4aca-ac7e-bfdb1b487167,2023-07-18 14:07:57,User449,1994-1-18,0:32:49,eat-drink,6,4,bad,The bot was a bit confusing at times.
+6621c493-b868-4244-be35-fd0aa42f73aa,2023-05-16 01:19:57,User952,1994-6-15,0:40:35,money,1,8,good,Impressed by the bot's knowledge about MTL Blog.
+402d4a3f-f796-4f8b-8b59-b8307169ca13,2022-11-19 13:49:57,User363,1995-9-3,0:50:56,travel,3,5,good,The chatbot was very helpful and informative.
+f0c7bbd7-8836-42d2-9a04-9aed845b08a9,2023-03-01 06:50:57,User408,1993-3-8,0:26:51,things-to-do,1,3,good,Great experience navigating through MTL news.
+21226069-be3a-4839-9fff-d0922e2229e4,2023-06-30 17:31:57,User135,1991-8-16,0:48:33,eat-drink,1,6,bad,The bot was a bit confusing at times.
+7cc14ad5-2063-44e1-905f-8376aafead97,2023-06-03 12:18:57,User963,2001-6-10,0:8:4,lifestyle,8,4,bad,Didn't get the answer I was looking for.
+e383a521-4e05-42ef-92d4-538a1d4f509c,2022-10-18 06:26:57,User731,1999-2-14,0:5:7,deals,2,5,good,Smooth and pleasant interaction with the chatbot.
+8a14b061-1424-4c8e-b1ee-5c662ae8ec07,2022-12-20 08:10:57,User38,1997-2-20,0:46:30,eat-drink,2,7,bad,Didn't get the answer I was looking for.
+a188e073-c374-489f-8a42-85f4bd5ab1c1,2023-04-03 14:47:57,User782,1994-7-25,0:8:57,eat-drink,5,6,good,The chatbot was very helpful and informative.
+8962da1d-6abd-4400-a8bc-6f81084ac8ea,2022-11-25 15:56:57,User80,1993-7-1,0:39:55,lifestyle,6,4,good,Impressed by the bot's knowledge about MTL Blog.
+8cb72dcf-15b4-4786-b9f5-2b6b612bb2eb,2023-02-20 09:47:57,User658,1995-12-8,0:43:24,news,10,2,good,I love how quickly the bot responds.
+3f4c95c9-9d17-421a-a799-91e0f4ed2fe2,2023-05-21 13:44:57,User979,2002-10-9,0:20:37,lifestyle,6,3,good,Great experience navigating through MTL news.
+8672ae94-7207-41f8-a9c2-95bc458671b1,2023-02-10 21:13:57,User289,1997-4-6,0:6:20,real-estate,2,8,good,I love how quickly the bot responds.
+02854790-5eab-4c5b-a8d1-3c2d1af5e2fb,2023-06-10 16:14:57,User168,1993-4-16,0:41:3,eat-drink,1,9,bad,Not the best experience with this chatbot.
+233c21a4-807e-4d24-8cf9-486d21d5fb03,2023-03-24 03:19:57,User344,1990-9-10,0:1:55,news,1,8,good,I love how quickly the bot responds.
+67e33adb-2e8f-403a-9fc5-a19797a0c5ce,2023-04-18 04:51:57,User873,1989-8-11,0:16:28,sports,3,4,good,Great experience navigating through MTL news.
+618f1c04-6969-47bb-8ba3-e3274174af00,2023-01-28 08:40:57,User295,1991-9-2,0:12:2,real-estate,4,3,bad,Not the best experience with this chatbot.
+889b9f77-af16-415d-af08-303254370f80,2022-10-05 00:07:57,User587,1993-7-28,0:19:55,lifestyle,1,1,good,The chatbot was very helpful and informative.
+f97ba9c9-3ed9-4049-b37f-0a76e081b49b,2022-11-17 12:17:57,User865,1994-4-27,0:20:8,deals,8,1,bad,Had a hard time understanding some responses.
+7b8e29f9-cd25-4c41-b377-b3dbe43d9b8e,2023-03-20 22:13:57,User850,1990-2-16,0:4:44,lifestyle,1,2,bad,Not the best experience with this chatbot.
+24806359-6da2-41b7-ab62-067cf2aab75d,2023-05-09 18:42:57,User747,1988-7-26,0:14:19,news,3,4,bad,Had a hard time understanding some responses.
+8cb3bd78-1e86-4e05-b43f-9f3579799ca6,2023-04-06 09:37:57,User341,1994-12-16,0:0:24,eat-drink,3,5,good,Impressed by the bot's knowledge about MTL Blog.
+038e179d-61fd-409b-b1f6-f5da0c7ead43,2022-09-18 01:11:57,User189,1995-1-27,0:53:44,sports,5,4,good,Impressed by the bot's knowledge about MTL Blog.
+ed0133f7-3a72-4a75-acc4-759c177ce789,2023-04-09 11:47:57,User668,1995-8-9,0:10:36,money,6,8,bad,Didn't get the answer I was looking for.
+74538869-eca8-4b79-8463-ef2375b19506,2023-01-05 11:16:57,User798,1992-12-12,0:15:34,deals,3,7,good,Impressed by the bot's knowledge about MTL Blog.
+31f46a6a-f4d7-4c1d-9d5f-0710273b29bf,2023-03-15 21:40:57,User627,1994-7-11,0:40:14,things-to-do,6,2,good,Impressed by the bot's knowledge about MTL Blog.
+37ab0ff4-4fff-44be-820a-8fdf42d33017,2022-08-30 00:24:57,User409,1995-7-11,0:17:17,things-to-do,8,4,good,The bot provided accurate answers.
+370d1797-a6ae-444e-a7f7-bba949e55c05,2022-10-11 04:11:57,User866,1983-9-17,0:39:28,real-estate,2,4,good,Great experience navigating through MTL news.
+fde22d16-9fad-4b68-a0e0-b090d3bfcdba,2022-12-07 05:39:57,User420,1989-10-9,0:2:29,eat-drink,6,4,good,Smooth and pleasant interaction with the chatbot.
+24950d4d-aae5-4dd8-bff8-3eb2c75a135f,2022-10-17 22:35:57,User285,1991-4-24,0:59:22,real-estate,4,4,good,Great experience navigating through MTL news.
+e70fae72-f08e-4d4a-8428-d2676fcaf5b8,2022-12-31 00:34:57,User875,1993-12-19,0:38:4,real-estate,5,2,good,The bot provided accurate answers.
+3ae22b6d-166e-41a2-88ed-b9af34b82213,2023-03-20 02:45:57,User711,1985-1-12,0:57:31,money,2,7,good,Impressed by the bot's knowledge about MTL Blog.
+5d5b4e71-4e44-4eb6-a454-03ef2c4d717e,2023-03-07 05:39:57,User210,1988-11-24,0:18:29,eat-drink,1,1,good,The chatbot was very helpful and informative.
+5f01c337-c54e-432b-93b1-67a88933e222,2023-07-15 10:51:57,User669,2004-3-16,0:9:37,news,4,6,good,The bot provided accurate answers.
+b9525599-24af-4b43-acbc-1fa422aad295,2023-01-13 22:31:57,User104,1994-11-8,0:31:9,lifestyle,6,3,good,Great experience navigating through MTL news.
+37e9bebc-2670-452f-b35e-df04a5c97f68,2022-09-03 16:00:57,User918,1986-10-25,0:56:44,money,7,3,good,The chatbot was very helpful and informative.
+0ba60a62-e606-4b3d-9d1e-f087de424210,2023-07-18 19:24:57,User27,1993-10-6,0:2:48,money,2,6,good,Smooth and pleasant interaction with the chatbot.
+2c5e2135-ad17-4c47-bcf7-20c451bb0001,2023-05-25 03:38:57,User222,1994-8-15,0:34:26,things-to-do,3,3,good,I love how quickly the bot responds.
+c87358ef-2fd1-49a4-ab7d-03d4040dff16,2023-02-06 16:03:57,User16,2003-12-15,0:0:55,sports,9,1,good,Great experience navigating through MTL news.
+42c2eff4-e2d8-419f-bdae-c36a39ca3b9a,2022-09-20 21:50:57,User514,1986-3-8,0:45:39,things-to-do,3,4,good,I love how quickly the bot responds.
+531d7604-06d6-42a1-adaa-400fe7db7136,2023-04-30 22:42:57,User661,1994-6-21,0:58:57,money,3,7,good,The chatbot was very helpful and informative.
+5f361f91-2ec3-4f2a-911b-d9ca34733b06,2022-12-23 02:53:57,User460,1993-12-28,0:47:21,things-to-do,8,5,good,Smooth and pleasant interaction with the chatbot.
+36849813-409f-4f41-b959-ec4c40322387,2022-08-30 21:53:57,User708,1996-2-20,0:8:18,news,2,3,good,I love how quickly the bot responds.
+9ede9d3f-da8a-4bf7-a66b-7c811ad51f51,2023-06-26 06:44:57,User68,1986-5-15,0:2:30,sports,5,8,good,Great experience navigating through MTL news.
+bd36df1c-6c8e-48e8-b3a1-8f350ab35f5a,2023-07-08 21:14:57,User72,1994-1-16,0:43:36,eat-drink,7,5,good,Smooth and pleasant interaction with the chatbot.
+8ed65d9e-98cd-4eee-86b3-dee9eaa342ba,2022-10-24 07:39:57,User462,1992-5-19,0:27:3,lifestyle,5,9,good,The bot provided accurate answers.
+9c2db266-a410-402b-b90f-325f8fc2b9f7,2022-12-27 20:31:57,User929,1991-9-10,0:27:5,travel,3,2,good,Impressed by the bot's knowledge about MTL Blog.
+1a40ef84-ba89-430b-bc18-2c126dc42172,2023-03-21 08:02:57,User529,1993-8-15,0:13:22,eat-drink,5,1,good,The chatbot was very helpful and informative.
+9370699d-915d-405d-a5da-6300f76c4635,2022-12-08 06:55:57,User251,1995-2-16,0:16:43,deals,4,2,good,I love how quickly the bot responds.
+eea17501-ce5e-4855-bf26-98037a80cb28,2023-02-07 14:36:57,User636,1990-3-8,0:55:28,lifestyle,4,3,bad,Had a hard time understanding some responses.
+ff772ded-eec4-4e3b-abce-553bda5e0f23,2022-09-30 10:23:57,User714,1998-10-17,0:6:55,deals,1,2,good,Great experience navigating through MTL news.
+5e90ef2b-269f-4168-a03b-cf5d9f195bfd,2023-03-05 20:05:57,User298,1989-1-27,0:29:11,deals,1,1,good,Impressed by the bot's knowledge about MTL Blog.
+fcb0a213-5a68-47a1-965a-4d263a6f1d40,2022-11-15 07:24:57,User956,2001-10-16,0:49:48,real-estate,2,2,bad,The bot was a bit confusing at times.
+e0070ec1-6a33-4a32-bc4e-2a538b7a2c09,2023-04-08 10:14:57,User422,1995-1-22,0:19:16,deals,1,1,good,The chatbot was very helpful and informative.
+e17db48d-5ae7-49d2-8d8f-aedabbedc225,2023-08-05 03:06:57,User845,2002-1-27,0:53:16,sports,4,7,good,The chatbot was very helpful and informative.
+e835b942-4e9e-483d-9852-f9e259d28a92,2023-08-10 22:53:57,User924,1993-2-5,0:51:31,lifestyle,9,4,good,The bot provided accurate answers.
+1af43e20-5b53-4e03-b5fa-ffe4d02bdf88,2023-01-12 09:32:57,User995,1998-8-3,0:55:21,eat-drink,1,1,good,Great experience navigating through MTL news.
+6a4d251f-a9cc-422c-8e88-46c001541f66,2022-10-16 00:58:57,User876,1992-12-18,0:42:22,travel,4,4,good,Great experience navigating through MTL news.
+f8819a0c-c6b3-4352-8c8b-1caaf9d1260e,2022-10-09 11:33:57,User582,1994-4-16,0:48:31,money,3,1,bad,Didn't get the answer I was looking for.
+ce91268c-f0f5-4f54-ad80-edaa7251adb5,2023-05-27 10:29:57,User530,1995-4-27,0:50:42,things-to-do,9,3,good,Smooth and pleasant interaction with the chatbot.
+6516b5a2-c4fa-4639-aa68-937c2a322542,2023-07-19 21:32:57,User790,1990-12-24,0:5:37,sports,6,1,good,Impressed by the bot's knowledge about MTL Blog.
+70fba860-fbe1-47f2-8cad-cf22eb0e7854,2023-05-07 12:34:57,User512,1993-1-27,0:50:19,news,1,2,bad,The bot was a bit confusing at times.
+b8346d2a-43bf-49d0-98cc-eeb0c4461f9a,2023-04-25 19:22:57,User19,2000-10-3,0:42:24,travel,5,5,good,Great experience navigating through MTL news.
+09e911bd-670e-4e9f-87e5-7057dd6ded9b,2022-11-01 01:43:57,User407,1991-4-19,0:23:39,things-to-do,6,1,good,Great experience navigating through MTL news.
+804e2e33-3b8a-41ac-ac9d-880760c511f2,2023-07-13 09:38:57,User509,2001-10-2,0:58:10,lifestyle,4,4,good,Impressed by the bot's knowledge about MTL Blog.
+785d6593-bf1d-444e-9029-799456e292ad,2022-09-14 22:26:57,User817,1988-1-13,0:39:59,money,3,1,good,Great experience navigating through MTL news.
+fc1552d0-281d-4c3c-9924-54f8a0155b77,2022-11-10 08:31:57,User577,1998-4-5,0:18:23,eat-drink,3,4,good,Smooth and pleasant interaction with the chatbot.
+6b07ee3b-427e-4287-a4f8-8f5c3f48307e,2023-02-27 20:40:57,User364,1997-12-11,0:51:24,travel,1,6,good,The bot provided accurate answers.
+e8646b6e-e80b-4fa0-abfe-a6b52fa8a8a2,2023-07-05 07:30:57,User666,1995-2-13,0:32:40,eat-drink,3,5,good,I love how quickly the bot responds.
+2b1889fb-7b5b-4853-89c1-cfc7fb5294ad,2023-03-31 15:46:57,User806,1988-6-21,0:39:30,things-to-do,8,5,bad,Not the best experience with this chatbot.
+14ae8e5a-4e78-4454-9cc5-533e5108f34a,2023-07-14 23:24:57,User546,1993-9-9,0:1:40,lifestyle,4,5,bad,Had a hard time understanding some responses.
+6fdc86c8-25ad-4361-b895-faecd0394ee0,2022-11-18 07:26:57,User794,1992-8-6,0:14:41,lifestyle,6,5,good,Smooth and pleasant interaction with the chatbot.
+fd3097cd-c066-4214-bcf5-70af28a7e046,2022-12-28 16:17:57,User457,1987-3-11,0:44:37,eat-drink,3,8,good,Impressed by the bot's knowledge about MTL Blog.
+71336bc0-7ee5-47f0-9315-1fb6dff79b9f,2022-12-08 22:53:57,User30,2000-11-8,0:59:23,things-to-do,5,5,good,Impressed by the bot's knowledge about MTL Blog.
+44b63e38-c8e0-4b2f-8b99-963168aac393,2023-06-20 16:38:57,User913,1997-9-19,0:50:17,lifestyle,2,6,bad,Not the best experience with this chatbot.
+5b6fbc19-4e23-4e21-9626-2b5870ec396a,2023-04-28 02:03:57,User158,2003-9-24,0:54:28,things-to-do,3,3,bad,Didn't get the answer I was looking for.
+abc6c4db-1763-475b-980c-1f1ee129875e,2022-11-07 21:21:57,User229,1999-11-28,0:54:33,money,4,5,good,I love how quickly the bot responds.
+815d1943-5d8e-495c-a72f-e0e8c3b7f980,2022-11-07 04:27:57,User423,1993-11-14,0:28:37,travel,3,3,good,The bot provided accurate answers.
+6811c907-9a33-4c38-a7b2-477c93f727b5,2022-12-25 23:08:57,User549,1987-10-26,0:55:17,eat-drink,4,9,good,Smooth and pleasant interaction with the chatbot.
+dfea12d6-698d-4e99-9af6-be5966744030,2023-03-15 09:40:57,User786,1993-5-4,0:3:28,things-to-do,5,3,bad,The bot needs some improvements.
+f2d3ed5e-016f-49d7-9936-2e611eacecae,2023-08-03 23:06:57,User761,2004-10-21,0:24:57,deals,5,3,good,Impressed by the bot's knowledge about MTL Blog.
+6d67ff92-8c16-42b4-a9fb-3da159feb5b1,2023-02-27 19:21:57,User653,1993-7-2,0:22:29,deals,3,4,bad,I wish the chatbot was more intuitive.
+ffc26f82-af24-4991-880f-d6ad4ddb4370,2023-02-06 23:22:57,User644,1991-11-28,0:0:13,eat-drink,5,2,good,The chatbot was very helpful and informative.
+28a3f7e5-4860-4205-8834-1986c4d486be,2023-07-25 06:40:57,User8,1988-8-7,0:42:47,sports,1,3,bad,The bot needs some improvements.
+1db32370-089b-4a7d-b6b5-1d5946fe8cdf,2023-04-04 15:05:57,User342,1992-9-25,0:50:45,things-to-do,1,2,good,The bot provided accurate answers.
+431090ba-e1d8-4984-9877-ffbd3cff5ac3,2023-04-09 08:14:57,User374,1988-8-10,0:29:22,money,5,6,good,I love how quickly the bot responds.
+7ec50884-cd5c-4a5d-b96a-b652556d7ffa,2023-06-19 22:06:57,User362,1996-9-20,0:6:30,sports,8,4,bad,Didn't get the answer I was looking for.
+1b0fd76d-49ad-4b26-9099-0aadcc0ea415,2022-11-26 16:40:57,User332,2000-4-11,0:9:3,eat-drink,8,4,good,The chatbot was very helpful and informative.
+fd2cf57f-7663-4114-b479-cac65b7ba38a,2022-12-25 06:19:57,User706,1994-6-6,0:58:28,lifestyle,4,8,good,Impressed by the bot's knowledge about MTL Blog.
+c041a354-83a8-432e-ad6a-c8326d433b0d,2023-08-08 00:26:57,User218,1989-1-10,0:8:52,deals,5,4,good,I love how quickly the bot responds.
+be20d1b0-4f6a-42b7-8bf1-a7b0c8442e30,2022-09-13 02:46:57,User635,1997-7-27,0:27:16,news,4,7,good,I love how quickly the bot responds.
+b4e2e8de-1c0b-42e2-8a96-a6ac2abb0397,2023-03-17 21:04:57,User633,1988-9-19,0:9:57,eat-drink,2,1,bad,Didn't get the answer I was looking for.
+eb9d9801-fc5c-4033-bd39-774d9e5b039d,2023-05-23 00:40:57,User644,1988-10-25,0:10:59,lifestyle,6,1,good,The bot provided accurate answers.
+5b774f6e-a9b2-413f-a3f6-5fc64577c032,2023-03-13 01:37:57,User492,1992-4-28,0:15:38,lifestyle,8,2,bad,Not the best experience with this chatbot.
+4863ca47-0342-416c-857b-564bee2c9bbf,2023-05-29 12:17:57,User728,1989-10-13,0:8:4,travel,4,1,good,Impressed by the bot's knowledge about MTL Blog.
+4c7e6583-a1dd-4c4c-a8f4-f1a6474c82d1,2022-11-08 11:16:57,User456,1991-12-14,0:3:32,eat-drink,6,2,bad,Had a hard time understanding some responses.
+b096a3d4-8aaa-4366-809e-f7d7b1e8bb3d,2023-07-28 21:49:57,User666,1990-8-28,0:55:0,money,1,3,bad,Not the best experience with this chatbot.
+045f9275-184e-41c9-bfe7-6f96ce9e371c,2022-09-29 10:59:57,User397,1991-9-3,0:38:54,eat-drink,7,4,bad,Not the best experience with this chatbot.
+9d2dffb0-c153-41de-93a7-f46030fcb88a,2023-06-27 04:08:57,User497,2002-12-4,0:43:13,money,2,2,good,Great experience navigating through MTL news.
+f0f6386b-8cfb-4915-a5ef-999c4af6aef9,2023-06-20 22:36:57,User548,1991-8-25,0:41:19,lifestyle,5,5,good,I love how quickly the bot responds.
+eac82257-fc65-4e1b-bfc1-7bb8ba3fa59d,2023-03-16 12:44:57,User706,1990-7-18,0:2:23,eat-drink,6,1,good,I love how quickly the bot responds.
+44d337b4-b6bc-47f3-b2fc-329ac2c58909,2023-01-09 03:41:57,User292,1994-11-26,0:49:24,eat-drink,5,6,good,The bot provided accurate answers.
+4af0c45f-b0dc-49bc-aa06-bd7611ecb213,2022-08-24 06:31:57,User823,1984-12-3,0:22:17,deals,5,4,good,Impressed by the bot's knowledge about MTL Blog.
+948569dd-a4b7-44d3-8c81-ba3a65171f7c,2023-05-01 03:47:57,User120,1983-5-22,0:56:10,eat-drink,4,3,good,The chatbot was very helpful and informative.
+79b1854a-1b7a-4e21-9aca-8045479f86b7,2023-06-29 11:05:57,User797,1989-2-14,0:54:2,lifestyle,8,1,good,The chatbot was very helpful and informative.
+75b43dd5-f3d7-4ef0-a4e9-d899177fdb5c,2022-09-21 13:14:57,User447,1991-4-13,0:10:28,lifestyle,3,2,good,Smooth and pleasant interaction with the chatbot.
+a8b0c23e-3df8-4770-a508-83dfe23b3d27,2023-04-30 06:13:57,User425,1992-7-6,0:51:38,lifestyle,1,3,good,The chatbot was very helpful and informative.
+5e3f964b-0b3e-46be-874e-9c237ce4fa67,2022-09-29 02:07:57,User779,1997-7-1,0:46:36,deals,8,3,good,The bot provided accurate answers.
+c760507b-4ff6-4527-aa2c-546427f5067b,2022-10-04 00:15:57,User52,1998-6-24,0:36:5,sports,5,4,bad,Not the best experience with this chatbot.
+a64839a8-ae24-44f6-afd5-e8ef9b76e525,2023-03-21 01:25:57,User872,2003-2-1,0:39:18,sports,9,6,bad,I wish the chatbot was more intuitive.
+31acd7f1-74f3-43e9-b404-9721b7f5127b,2023-05-02 07:47:57,User677,1996-8-24,0:21:19,things-to-do,2,3,bad,Had a hard time understanding some responses.
+7e0d5018-13ae-4fff-ab0f-56ed61a87093,2023-03-06 05:00:57,User788,1994-11-5,0:37:43,money,9,5,good,Smooth and pleasant interaction with the chatbot.
+bdf2b4f2-f763-49a3-824f-34d83840d4ab,2023-07-04 22:21:57,User172,1988-12-26,0:29:56,lifestyle,6,10,good,Great experience navigating through MTL news.
+34251fae-24de-4ecc-8777-39987da67809,2022-12-24 17:19:57,User87,1992-12-11,0:57:17,money,1,2,good,Smooth and pleasant interaction with the chatbot.
+98e401b0-d4b2-4943-9607-b60db854f6d4,2023-01-21 00:04:57,User975,1991-2-8,0:17:52,eat-drink,3,4,good,Smooth and pleasant interaction with the chatbot.
+212493cb-2dbc-4f13-a4fd-4fe8e8a206e1,2023-02-08 23:58:57,User951,2000-8-1,0:38:28,real-estate,8,5,good,I love how quickly the bot responds.
+b73e7e5a-e38e-40a3-8db9-23ee455bb01f,2022-10-13 11:24:57,User323,1988-10-14,0:36:23,news,1,1,good,Impressed by the bot's knowledge about MTL Blog.
+0182d32b-5f9f-4b86-b6b5-54c5a71aea94,2022-11-10 00:36:57,User589,1997-8-26,0:46:16,things-to-do,7,4,good,I love how quickly the bot responds.
+8d634ce3-d859-43cb-984a-1f08bed7a39f,2022-12-15 10:58:57,User366,1995-3-7,0:52:21,eat-drink,6,6,good,Impressed by the bot's knowledge about MTL Blog.
+4f241e78-0173-46d2-a6f0-71d90f77e2ab,2022-12-14 17:04:57,User602,2002-12-7,0:16:20,eat-drink,2,6,bad,I wish the chatbot was more intuitive.
+ab286537-abb5-43f8-8c36-458568d1902a,2022-10-29 11:09:57,User552,1998-7-13,0:39:7,news,8,5,good,Smooth and pleasant interaction with the chatbot.
+4beff074-871b-40a2-a48f-88cdde0a4c47,2022-09-10 20:57:57,User79,1993-10-4,0:29:26,real-estate,4,3,bad,Not the best experience with this chatbot.
+5afcc0e9-4dab-4214-a54f-d3b29ba261e9,2023-05-03 19:59:57,User139,1993-4-17,0:11:48,money,3,3,good,The bot provided accurate answers.
+b90b6186-cec3-4363-8daa-ff99be11332d,2023-03-17 07:54:57,User471,2001-3-7,0:23:26,things-to-do,1,5,good,Impressed by the bot's knowledge about MTL Blog.
+e44087f4-bf64-4f83-9b2f-4b777dbf91dd,2023-04-25 06:34:57,User929,1993-5-19,0:1:47,money,10,6,good,The chatbot was very helpful and informative.
+b18da821-5923-4909-9047-7bd3ec7fe682,2022-09-10 22:05:57,User980,1993-6-9,0:12:33,money,7,4,good,Smooth and pleasant interaction with the chatbot.
+eeef4e32-19e5-44c7-baea-0501724bc414,2023-03-09 04:10:57,User892,1987-8-17,0:25:9,money,2,3,good,Smooth and pleasant interaction with the chatbot.
+4b04bb44-fb42-49ef-8ff1-f6d79a440f38,2022-08-31 09:32:57,User257,1998-7-6,0:57:40,lifestyle,2,1,good,Impressed by the bot's knowledge about MTL Blog.
+c459c679-a180-49ae-ab89-b0ae54700786,2023-02-01 01:34:57,User55,1992-7-15,0:36:53,eat-drink,10,3,bad,Didn't get the answer I was looking for.
+7101401f-9a87-4c14-b12d-c91aeeece908,2023-01-08 22:02:57,User46,1997-1-8,0:51:8,things-to-do,3,7,good,The bot provided accurate answers.
+7e3811f2-b8cf-49f9-af37-9fe1da287951,2023-03-30 07:26:57,User750,1997-2-23,0:54:22,things-to-do,2,4,bad,Not the best experience with this chatbot.
+9847f0fa-aa10-4c57-97d6-ebbcbaa93c52,2023-04-23 22:49:57,User799,1989-9-15,0:35:49,eat-drink,2,4,bad,The bot needs some improvements.
+d6a375e5-0308-4dd7-9685-c3dcb180a7cc,2022-12-26 22:51:57,User826,1989-3-16,0:6:0,news,5,6,good,The chatbot was very helpful and informative.
+b555acc2-03fb-4b42-9098-157fe588cb19,2022-10-17 21:47:57,User630,1988-3-28,0:16:23,lifestyle,10,2,good,Impressed by the bot's knowledge about MTL Blog.
+23405552-3461-485e-9358-4ff7e9dfcb0d,2023-04-24 21:35:57,User239,1994-7-18,0:36:47,things-to-do,5,1,good,I love how quickly the bot responds.
+f5fcba75-abc3-4f1b-993b-607385c52e75,2023-05-29 00:14:57,User317,1988-11-6,0:51:5,news,4,6,bad,Had a hard time understanding some responses.
+5d25958e-a838-49ac-8dee-98eecdff86ed,2023-05-07 12:36:57,User770,1985-11-22,0:29:20,money,1,4,good,Impressed by the bot's knowledge about MTL Blog.
+23b9195c-85ff-4ecb-9303-7622cdd5d88e,2022-12-25 17:47:57,User318,1995-4-2,0:44:7,deals,5,4,good,Impressed by the bot's knowledge about MTL Blog.
+a89d40db-7ab7-4070-b5f4-f563b182eaee,2022-10-30 14:33:57,User935,1999-8-23,0:31:4,eat-drink,8,3,good,The chatbot was very helpful and informative.
+2ae6d287-91c0-4162-9c59-3f7e5c2b3999,2023-03-02 13:20:57,User566,1992-6-17,0:10:26,eat-drink,4,1,good,Smooth and pleasant interaction with the chatbot.
+a6e7c713-783b-4157-9e4c-4964c33aef2d,2023-07-16 05:21:57,User577,1998-7-1,0:2:3,news,2,6,bad,Didn't get the answer I was looking for.
+58593906-76a8-4026-994a-6c9bb834c82b,2022-09-26 23:29:57,User508,1990-8-22,0:41:56,sports,1,1,good,Impressed by the bot's knowledge about MTL Blog.
+9d9001de-ae36-4b42-b45e-2e5f7794b066,2022-11-10 18:41:57,User320,1987-9-26,0:54:49,news,7,10,good,I love how quickly the bot responds.
+f7d73e62-b81f-411b-9ecb-785a6ccd2270,2023-03-28 19:58:57,User586,1996-5-6,0:8:21,lifestyle,4,3,good,I love how quickly the bot responds.
+4c22c333-da97-47ee-93d4-c4887ffc401a,2023-03-22 06:47:57,User49,1999-1-3,0:47:2,lifestyle,5,2,good,The bot provided accurate answers.
+eeee3ff2-88e1-4d34-a52c-6f665b5ee3a6,2023-07-25 05:43:57,User138,1991-6-12,0:25:16,things-to-do,2,9,bad,Didn't get the answer I was looking for.
+2edbf23a-20a0-4d27-b4b5-c5dddbf3e4e8,2022-12-09 09:47:57,User645,1997-2-18,0:7:41,real-estate,2,2,good,The bot provided accurate answers.
+a6f48a4a-0c22-4f11-ac60-323cc1dd79b1,2023-07-15 01:13:57,User781,1996-5-16,0:2:41,things-to-do,1,2,good,Great experience navigating through MTL news.
+5508e875-9bfc-4430-afd3-f4642d593340,2023-04-04 12:07:57,User944,1989-12-8,0:48:1,lifestyle,6,1,good,The chatbot was very helpful and informative.
+bea594c4-28fe-4b9a-b514-220eef14397e,2022-12-31 10:54:57,User216,1989-8-15,0:3:25,news,1,1,bad,The bot was a bit confusing at times.
+82a582f8-c006-427d-b15e-f20f227480ad,2022-10-09 18:39:57,User169,1991-2-28,0:57:15,lifestyle,3,5,bad,Not the best experience with this chatbot.
+08db694b-0235-4b78-80d5-edb442ccf9b9,2022-11-08 05:56:57,User656,1986-2-18,0:22:40,deals,5,9,good,I love how quickly the bot responds.
+0b3b36a3-fce0-4b4d-bd33-09a6204621f9,2023-01-09 06:49:57,User238,1987-3-14,0:54:57,travel,4,2,good,Great experience navigating through MTL news.
+86d5509f-6e2d-4a6e-b892-3738ca71f94a,2023-07-06 12:08:57,User828,1986-7-21,0:40:0,deals,8,5,bad,Didn't get the answer I was looking for.
+979035cd-2ac6-4ea1-be5e-279e71fb0f75,2022-12-27 06:34:57,User271,1990-8-8,0:19:57,news,3,1,good,Great experience navigating through MTL news.
+925cb03b-b58e-49d6-9d37-76722f73e58c,2022-11-12 10:26:57,User12,1997-4-3,0:20:23,eat-drink,5,1,good,I love how quickly the bot responds.
+25ebbc1d-e586-4880-bb7d-e332a5c3b5b2,2023-05-08 07:52:57,User252,1988-1-8,0:19:4,lifestyle,1,3,good,Great experience navigating through MTL news.
+c0238135-76e2-47d1-9866-3ad86327cd03,2023-06-16 05:28:57,User898,2002-12-16,0:27:24,lifestyle,1,5,good,I love how quickly the bot responds.
+a9f9a7cf-e150-496d-a572-52c560fad5a9,2022-10-25 17:21:57,User362,1997-11-14,0:19:24,money,2,1,good,The bot provided accurate answers.
+1dee35b8-f341-4f27-9bfe-48e40c4bc1e2,2022-10-17 05:49:57,User668,1998-7-22,0:16:35,money,4,2,bad,I wish the chatbot was more intuitive.
+084f7cb3-a0dc-4141-84f0-92438a84dd87,2023-07-18 12:50:57,User773,1984-10-11,0:13:43,sports,2,1,good,Great experience navigating through MTL news.
+08709505-a474-46cd-9ded-015db222253f,2022-10-27 22:20:57,User573,1997-6-10,0:1:57,things-to-do,5,6,bad,Not the best experience with this chatbot.
+3b421f0a-63bc-4c77-8fb7-a25d05a1dfc0,2022-11-10 21:36:57,User235,1997-10-19,0:22:12,lifestyle,6,5,good,Smooth and pleasant interaction with the chatbot.
+0a97834d-5dfb-4dc1-bf03-fa04e0420dec,2023-03-01 20:55:57,User622,1996-12-3,0:50:54,eat-drink,9,2,good,Smooth and pleasant interaction with the chatbot.
+3953fd20-f75d-46fb-9d19-9cdb7fb79dcd,2022-11-26 14:59:57,User606,1985-5-23,0:33:58,travel,7,2,good,The chatbot was very helpful and informative.
+e817489f-ec9c-4832-94a8-be1a1a95f394,2023-07-22 15:37:57,User891,1986-11-28,0:13:3,lifestyle,7,5,good,Smooth and pleasant interaction with the chatbot.
+b8399adb-06f7-4830-a786-72d4d5db3234,2023-08-16 19:30:57,User778,1991-7-14,0:47:51,sports,3,3,bad,The bot needs some improvements.
+7a952d62-ca76-4be8-89a1-756e7ea5a13f,2023-01-10 19:02:57,User820,1988-12-7,0:10:49,deals,8,5,good,Impressed by the bot's knowledge about MTL Blog.
+0604319a-7d65-4796-b3e6-241bb2f66f81,2023-06-30 02:07:57,User708,1990-12-1,0:51:20,things-to-do,7,2,good,The chatbot was very helpful and informative.
+907eeec6-6074-4f1c-bfc7-81e8045edfc9,2023-07-11 22:38:57,User574,1988-4-17,0:39:31,deals,6,2,bad,Didn't get the answer I was looking for.
+5b35331e-6b3c-4298-829a-796042c92369,2022-10-02 01:59:57,User404,1994-1-27,0:57:48,eat-drink,6,5,good,Great experience navigating through MTL news.
+a95d5e8b-f92c-4b6b-8489-09c38b42a0cf,2023-03-09 03:26:57,User493,1996-12-20,0:14:33,money,3,6,good,Great experience navigating through MTL news.
+a2c7ab8d-4249-43c5-b1a0-be27be70a4a0,2023-07-06 02:44:57,User762,1979-3-14,0:46:55,eat-drink,2,2,bad,Had a hard time understanding some responses.
+eba689b0-1569-4093-9c9f-c14d710b8154,2023-03-23 11:19:57,User203,1994-7-3,0:49:9,things-to-do,7,4,good,Impressed by the bot's knowledge about MTL Blog.
+094ca86e-3824-40fe-9e72-337ebe595462,2022-11-06 11:48:57,User34,1993-3-18,0:30:54,eat-drink,4,7,good,Smooth and pleasant interaction with the chatbot.
+5004f579-e912-42d1-a28f-eba3a0f56626,2022-10-07 11:23:57,User734,1988-8-28,0:31:11,eat-drink,2,1,good,Impressed by the bot's knowledge about MTL Blog.
+821660da-d80c-45f7-b808-07115db696b9,2023-01-26 23:53:57,User786,1994-2-24,0:11:39,lifestyle,3,3,good,The chatbot was very helpful and informative.
+bbc207b9-3f2b-4091-8641-6074e2d164c1,2022-09-21 06:49:57,User696,1999-8-2,0:12:51,travel,6,1,good,Impressed by the bot's knowledge about MTL Blog.
+a24f2dcd-4c26-423a-93b3-bab097bf4476,2022-12-15 06:39:57,User281,1999-12-19,0:32:35,eat-drink,10,7,good,Impressed by the bot's knowledge about MTL Blog.
+915965c6-01e2-4b24-b891-fbe85d4c7cd8,2023-01-10 02:28:57,User707,1998-5-6,0:10:59,eat-drink,5,10,good,The bot provided accurate answers.
+30f8e624-fb63-4c2b-ab9c-2f95d13b776c,2023-03-28 09:17:57,User17,1997-1-17,0:41:10,lifestyle,1,4,good,The chatbot was very helpful and informative.
+5d06e9ca-c160-4a13-b6d1-6ee0b08b4797,2022-12-16 16:33:57,User108,2004-5-1,0:11:56,deals,6,5,good,The bot provided accurate answers.
+95a0a845-e998-4a75-8170-4f29e920344d,2022-11-07 12:36:57,User473,1992-4-10,0:40:29,eat-drink,4,2,good,Smooth and pleasant interaction with the chatbot.
+e51b9f8d-ed6d-4f20-81f1-4d1db3580934,2022-11-04 07:17:57,User917,1991-1-27,0:54:41,eat-drink,4,5,good,Smooth and pleasant interaction with the chatbot.
+1be8f0f6-1537-487a-9dab-314bfc0f529a,2023-03-30 02:38:57,User568,1992-10-17,0:58:7,deals,7,1,good,I love how quickly the bot responds.
+39ff6b60-7708-4d38-ba68-ac5ae48fceb5,2023-02-09 11:39:57,User744,1990-3-22,0:47:45,things-to-do,7,5,bad,Not the best experience with this chatbot.
+eb6d96a9-1fd1-4303-a490-c3a3904796bc,2023-06-22 16:13:57,User516,1991-10-5,0:25:32,travel,1,1,bad,The bot needs some improvements.
+2a9db3b2-bdc5-4156-8418-178524d8fb78,2022-08-25 08:24:57,User304,1994-9-16,0:7:12,deals,4,5,bad,Didn't get the answer I was looking for.
+08febfbe-f5ac-4823-99ef-0507839d83b3,2022-11-05 11:32:57,User875,1989-12-21,0:26:10,travel,3,4,good,The bot provided accurate answers.
+83a18d79-ac32-4d01-8fcb-99880ee462d6,2023-01-12 14:47:57,User320,1990-1-16,0:1:29,sports,6,6,good,Impressed by the bot's knowledge about MTL Blog.
+783a5054-a4c3-460f-b35d-cdab06ea907b,2022-08-25 23:35:57,User862,2001-5-19,0:42:47,lifestyle,4,7,good,The chatbot was very helpful and informative.
+b2254452-ccec-48a7-b53f-c1b1eba1776f,2023-02-07 19:52:57,User815,1994-5-26,0:6:23,news,4,2,good,Great experience navigating through MTL news.
+fa1f5cab-14db-4131-b75b-917aa6d0de90,2022-09-12 12:12:57,User416,1992-10-23,0:55:31,things-to-do,1,3,good,I love how quickly the bot responds.
+9b6aff09-5b75-411c-b415-7b4ffc35264c,2022-08-22 00:34:57,User324,1991-12-2,0:9:13,lifestyle,6,8,good,The chatbot was very helpful and informative.
+0068aae4-aa41-43ca-871d-375c13d1f284,2022-10-04 07:50:57,User283,1992-2-3,0:47:11,real-estate,2,6,good,I love how quickly the bot responds.
+86d32d1a-ffa5-4bb2-8fa2-bcd0243ded10,2022-09-05 00:28:57,User240,1998-3-26,0:42:28,lifestyle,2,6,bad,The bot was a bit confusing at times.
+9a1bad34-8508-4415-ba9a-fe9a95783f03,2022-09-12 11:06:57,User198,2002-4-16,0:47:48,things-to-do,5,5,good,Great experience navigating through MTL news.
+f65864c1-6927-43a2-9043-bea2fbd977f2,2022-08-26 22:14:57,User857,2002-8-21,0:49:36,lifestyle,5,3,good,The bot provided accurate answers.
+72c7f5dd-a559-488d-97be-5427c2041614,2023-03-17 03:48:57,User906,2004-9-9,0:56:15,news,4,8,good,I love how quickly the bot responds.
+6a8ca0e2-d5bc-4025-a0c7-9e7e4ec99182,2023-05-30 05:21:57,User441,2003-9-5,0:8:59,news,5,6,bad,Had a hard time understanding some responses.
+5c43f4cf-f551-4cf7-836f-97646cd022f0,2023-02-14 11:57:57,User534,1989-7-5,0:33:54,news,5,5,good,I love how quickly the bot responds.
+91b8d4f4-bd73-4f57-b098-af5d35ccdf2d,2023-07-02 03:27:57,User632,1996-8-20,0:10:27,eat-drink,1,4,good,Smooth and pleasant interaction with the chatbot.
+9662b1b2-8e04-43d2-af45-c82cc91795c7,2023-02-15 03:33:57,User16,1999-11-6,0:44:29,travel,3,5,good,Impressed by the bot's knowledge about MTL Blog.
+d5b15c70-8462-4810-a1ad-d4ec17b5a52b,2023-05-15 05:52:57,User65,1996-5-5,0:27:47,lifestyle,1,3,good,The chatbot was very helpful and informative.
+e0670767-4bdb-4e1b-968c-6f6e7105243f,2023-05-16 22:12:57,User129,1988-3-23,0:59:50,sports,1,1,good,The bot provided accurate answers.
+4eca067b-c32f-411b-b2a1-2d536d062cc6,2022-12-19 13:22:57,User169,1999-12-18,0:29:26,lifestyle,3,6,good,I love how quickly the bot responds.
+390c9520-1adc-4661-b4d8-13608e81f445,2023-01-29 22:01:57,User887,1993-4-18,0:49:47,eat-drink,4,3,good,Great experience navigating through MTL news.
+35ffe262-fdfe-4fdb-8bc7-5b925dea1c67,2023-05-30 21:09:57,User602,1994-12-13,0:42:48,eat-drink,1,1,good,Smooth and pleasant interaction with the chatbot.
+fbd586ca-3049-4551-9a79-166f04005f26,2022-12-16 01:23:57,User766,2002-3-23,0:28:54,lifestyle,8,5,bad,Had a hard time understanding some responses.
+d5097c61-3805-408e-ab51-47927ae2460f,2022-09-08 06:49:57,User615,1995-12-11,0:3:14,lifestyle,5,7,good,I love how quickly the bot responds.
+ebe349d4-6604-42b7-823a-e4a23be8a5b9,2022-11-11 23:18:57,User536,2000-9-17,0:45:0,eat-drink,7,3,bad,The bot needs some improvements.
+fb9a766c-e213-4844-a5ba-278d4fc6477e,2023-05-27 21:00:57,User23,1995-11-8,0:40:48,eat-drink,5,4,good,Impressed by the bot's knowledge about MTL Blog.
+daa7397d-2fc5-4406-b6c7-d5ec2e9c3634,2023-04-15 11:08:57,User184,1990-11-5,0:50:2,sports,7,3,good,The bot provided accurate answers.
+c3a48e8b-7ca9-4969-b0d3-ce9bab10cf36,2022-11-05 23:14:57,User716,1987-3-7,0:47:22,money,4,1,good,Great experience navigating through MTL news.
+5d635031-54ac-4f49-9b1e-da4002f8a703,2023-08-12 15:12:57,User852,1994-4-25,0:6:40,eat-drink,6,5,good,Impressed by the bot's knowledge about MTL Blog.
+b9e89b87-759b-46ab-afeb-086326eabb08,2022-10-04 05:19:57,User190,1997-9-11,0:20:15,things-to-do,2,5,good,I love how quickly the bot responds.
+cbf86da6-d522-4592-9e76-065c04952620,2023-01-05 08:08:57,User783,1987-5-9,0:4:15,news,7,1,good,The bot provided accurate answers.
+b3bdf3ca-b9c4-4d20-8642-f36093928fe8,2023-05-11 18:27:57,User377,1995-9-18,0:20:29,sports,8,5,good,Impressed by the bot's knowledge about MTL Blog.
+1131cabd-7ab5-44c8-ae85-ed8754be3da6,2023-02-20 19:47:57,User461,1989-7-20,0:22:21,things-to-do,4,5,good,I love how quickly the bot responds.
+6be9a73d-55aa-4c26-844c-223930da1496,2022-09-15 00:05:57,User382,1989-9-21,0:26:1,deals,5,2,good,Impressed by the bot's knowledge about MTL Blog.
+0a1040a2-cbd0-4894-9474-663611f2195a,2023-05-13 17:36:57,User849,1997-6-15,0:28:37,travel,2,2,good,Great experience navigating through MTL news.
+caefe9d6-5a59-4847-bf22-0681b371fff7,2023-04-19 14:37:57,User6,2004-11-20,0:25:1,deals,6,4,good,The chatbot was very helpful and informative.
+1df0e5e1-bb29-4be3-8213-1d9f08229252,2022-08-29 08:17:57,User371,2003-10-10,0:14:22,travel,7,3,good,Smooth and pleasant interaction with the chatbot.
+e0e32091-2f52-4b92-834b-6d0a98431c00,2023-04-06 03:05:57,User810,1988-11-7,0:47:26,money,3,3,bad,Had a hard time understanding some responses.
+30c2ffa6-3999-4e25-bc18-63c306c06419,2022-10-05 22:08:57,User459,2006-1-28,0:53:40,deals,8,2,good,The bot provided accurate answers.
+1aa9e476-f0b7-45e7-8849-632cb82f8638,2022-11-06 21:57:57,User303,1991-8-9,0:23:38,travel,3,2,good,Smooth and pleasant interaction with the chatbot.
+9dad6682-14d9-4006-95a4-0adce75a57de,2023-03-04 04:15:57,User338,1994-5-28,0:35:12,deals,2,3,good,Impressed by the bot's knowledge about MTL Blog.
+5504e2bc-4d12-430e-aa98-4bfcd802a5fa,2022-11-01 21:37:57,User2,1993-7-25,0:2:56,deals,7,1,good,Great experience navigating through MTL news.
+b8d15a8a-fe7b-45a2-b64c-0c4e66d1673b,2022-10-17 03:46:57,User191,1990-1-4,0:35:16,lifestyle,4,1,good,Great experience navigating through MTL news.
+29695ba6-a31c-45fa-ba88-ee2182d33e0f,2023-06-25 11:52:57,User825,1996-7-17,0:18:42,lifestyle,7,3,good,The bot provided accurate answers.
+5ab23303-ac49-4b9b-975e-72779180da30,2023-05-01 12:32:57,User63,1999-10-3,0:49:6,things-to-do,8,3,bad,The bot was a bit confusing at times.
+dce08015-1528-42ad-9877-c7862de145ef,2023-05-22 15:55:57,User2,2002-10-20,0:13:50,real-estate,7,4,good,I love how quickly the bot responds.
+04fdd8dd-0642-41a6-9530-fc7490485dae,2023-01-07 23:14:57,User512,1993-8-15,0:19:11,things-to-do,2,3,good,Great experience navigating through MTL news.
+a2359ff7-2a93-4c34-bcdf-7339292f32c0,2023-03-13 14:06:57,User179,1989-1-28,0:17:26,money,2,3,bad,I wish the chatbot was more intuitive.
+46020306-2084-4fce-83cc-6adca2a8ec88,2022-11-17 18:20:57,User226,2002-6-8,0:29:49,eat-drink,2,6,good,Great experience navigating through MTL news.
+d6ca3515-9650-44e8-b180-2ae58599370c,2023-07-06 13:48:57,User111,2003-5-8,0:0:52,eat-drink,6,6,good,Impressed by the bot's knowledge about MTL Blog.
+e704e2ce-0719-4c46-bd38-09397a66c439,2022-11-14 06:03:57,User823,1999-11-3,0:11:39,things-to-do,4,4,good,The chatbot was very helpful and informative.
+7fcca043-dd95-4b46-a953-3273b30ffad6,2023-08-19 15:42:57,User79,2000-1-12,0:35:55,things-to-do,1,1,good,The bot provided accurate answers.
+1313435b-ce34-4b2d-85cd-a02d4140c1f4,2023-01-24 07:18:57,User219,1986-6-11,0:34:29,travel,4,5,good,The bot provided accurate answers.
+db96f767-3a80-4e14-ba9d-f7ba113969ab,2023-05-15 09:17:57,User881,1993-5-6,0:28:8,lifestyle,6,4,good,The bot provided accurate answers.
+27b7949b-e51b-49ca-b315-1f10a4bf103e,2023-06-24 04:53:57,User515,1993-11-16,0:33:48,lifestyle,1,6,good,The chatbot was very helpful and informative.
+a92f903b-4d3e-4917-a4ee-dc87303d981d,2023-03-29 18:11:57,User55,1993-10-19,0:25:40,lifestyle,4,9,good,I love how quickly the bot responds.
+57630201-04e8-44ca-b60a-ac4e5a22962d,2023-04-07 05:06:57,User480,1987-7-15,0:23:30,things-to-do,1,1,good,Great experience navigating through MTL news.
+ece10e44-5a61-416d-90c0-ab18d360d08c,2022-12-09 09:42:57,User191,1980-11-4,0:27:31,lifestyle,6,3,good,I love how quickly the bot responds.
+50d42af3-ba1c-4c08-be00-f1ca5477bdf1,2023-07-01 21:07:57,User978,1995-1-20,0:40:14,travel,1,5,good,Great experience navigating through MTL news.
+0ba6da8e-e598-45e3-9a21-8f2c58fcd04b,2023-03-24 21:14:57,User186,1997-10-22,0:47:32,lifestyle,3,9,good,The chatbot was very helpful and informative.
+b590cd39-1a6f-43a5-923e-f010ec6a9296,2023-01-09 03:45:57,User746,1997-2-24,0:50:55,money,1,5,good,The bot provided accurate answers.
+b1c36457-61f4-4dfb-8705-f0a420d5dca6,2023-04-14 20:52:57,User518,1998-7-21,0:9:2,real-estate,3,8,good,The chatbot was very helpful and informative.
+8f8118b5-6d6b-46a2-aa8b-6e90ec6e9fff,2022-10-02 13:41:57,User294,1986-12-18,0:21:7,lifestyle,6,2,good,Smooth and pleasant interaction with the chatbot.
+763934dd-1b05-4771-9c43-2b1fc8961104,2023-02-25 02:10:57,User508,2001-12-14,0:39:5,eat-drink,3,1,good,The bot provided accurate answers.
+d8e99afa-1977-419e-8d3f-9c330e9cda00,2023-03-18 11:00:57,User147,1991-11-4,0:21:13,travel,2,2,good,I love how quickly the bot responds.
+86202399-b723-43d8-94f0-36e01bbf3fdc,2023-04-26 05:16:57,User62,1988-9-23,0:8:49,lifestyle,5,9,good,Smooth and pleasant interaction with the chatbot.
+8cb9565a-52e6-47e9-a945-e2a3148fc642,2023-01-02 11:15:57,User667,1998-6-25,0:30:48,money,2,6,bad,The bot was a bit confusing at times.
+e355af2c-d86b-41cb-8bd2-18a07c4e85f5,2022-09-19 11:15:57,User484,1992-5-20,0:16:53,sports,10,3,good,Great experience navigating through MTL news.
+a570d1f4-6345-4b13-a508-603536d98110,2022-11-20 13:54:57,User161,1991-2-26,0:30:26,money,2,4,bad,I wish the chatbot was more intuitive.
+6b10e84e-54b5-41ae-8d2c-706abb342aa2,2023-06-30 13:11:57,User751,1995-7-16,0:49:56,things-to-do,1,2,good,Great experience navigating through MTL news.
+d5e07dac-4049-4319-b794-c5a23aac88bc,2023-02-02 02:25:57,User32,1995-4-11,0:59:33,lifestyle,2,1,good,Smooth and pleasant interaction with the chatbot.
+9fe30013-5c93-41ea-b0e2-b371a20b44ec,2022-10-10 11:32:57,User817,2001-5-22,0:57:22,lifestyle,1,4,good,I love how quickly the bot responds.
+631e01ce-1a15-4ab0-8fa0-1be89435813c,2023-05-06 17:21:57,User53,1993-3-1,0:31:47,news,3,4,good,The bot provided accurate answers.
+483866b2-a0a2-4a36-b1d5-ff2430d91010,2023-04-22 21:45:57,User464,2000-3-5,0:27:42,travel,3,9,good,The bot provided accurate answers.
+b65ee635-9ada-4875-9f12-739d4fa2d1a6,2023-06-26 12:29:57,User687,2000-4-10,0:8:11,deals,2,9,good,I love how quickly the bot responds.
+948ee645-b3f6-4ee5-830d-f20b44ccb83d,2023-05-30 21:22:57,User249,1998-1-10,0:34:44,things-to-do,8,1,bad,The bot needs some improvements.
+b753dbe1-3acb-4a26-a668-851f620956f3,2023-02-24 15:22:57,User204,1995-8-23,0:48:9,travel,1,2,good,The bot provided accurate answers.
+931be902-fe41-4848-afe8-b22e8c91100f,2023-04-11 15:24:57,User877,1989-3-14,0:44:17,travel,4,2,bad,The bot needs some improvements.
+b3daf1da-b97c-447f-b7c2-044c7a7ee4f9,2023-03-12 23:49:57,User232,1994-9-19,0:10:35,deals,6,1,good,I love how quickly the bot responds.
+0fabb551-798b-4667-ab07-083f8efe7985,2023-01-28 23:30:57,User704,1995-5-1,0:47:19,news,3,6,good,Impressed by the bot's knowledge about MTL Blog.
+05b1c174-970c-4b2c-ae7d-c6a836e79133,2022-10-12 18:50:57,User355,2000-9-23,0:10:24,lifestyle,10,4,good,The bot provided accurate answers.
+904b6648-984d-49a3-a984-811c8fcde84e,2023-02-19 00:11:57,User639,1994-4-16,0:54:28,things-to-do,3,1,bad,Had a hard time understanding some responses.
+af58cfdb-2193-462b-983f-029c9a40a28d,2022-12-25 18:08:57,User721,2000-10-3,0:11:28,sports,2,7,good,The bot provided accurate answers.
+2e5e9760-b9d1-4d8a-aea2-93608b31f5cd,2023-01-07 02:26:57,User444,1999-11-17,0:33:57,deals,5,8,bad,The bot needs some improvements.
+f01b8862-bd47-4e44-ab92-b0575d178302,2023-03-15 17:15:57,User153,1998-6-28,0:59:56,news,3,10,good,Great experience navigating through MTL news.
+c57fa6be-120b-42f3-9c19-ec39ce7ab9ef,2023-07-20 05:50:57,User61,1989-3-27,0:12:23,eat-drink,5,4,good,The bot provided accurate answers.
+29916cbd-48be-47c0-8c93-5e5c0af8c867,2022-09-28 02:06:57,User51,1985-5-8,0:8:8,deals,2,2,bad,The bot needs some improvements.
+24e75b34-e13b-4f60-8988-6cf1d902988c,2023-08-10 10:22:57,User781,1993-5-6,0:0:54,lifestyle,8,5,good,I love how quickly the bot responds.
+907d5851-92d7-47db-bf51-b6c74c660069,2023-02-26 17:09:57,User587,1991-12-20,0:22:0,lifestyle,8,1,bad,Not the best experience with this chatbot.
+ba5f3500-807f-461e-a355-c5a4a621091d,2023-07-21 01:31:57,User659,1994-8-4,0:34:57,news,4,6,good,The bot provided accurate answers.
+4d79325e-38f8-434e-85f6-aec3fe739927,2023-07-08 10:19:57,User814,1986-7-3,0:44:14,money,2,4,bad,Had a hard time understanding some responses.
+b06d3fc8-47a2-48fa-9200-5074d5610aa0,2023-04-29 00:09:57,User22,1991-2-13,0:52:32,money,4,3,good,The chatbot was very helpful and informative.
+81a8b03c-c145-4de2-91a7-2a91d3e9043e,2022-08-28 05:16:57,User736,1997-2-10,0:7:49,news,5,3,good,I love how quickly the bot responds.
+e57a51e9-e91d-4804-bb21-e2a9f808f58b,2023-07-01 23:37:57,User963,1992-1-17,0:54:6,money,1,4,good,Great experience navigating through MTL news.
+562fe79f-fb97-44d6-81ce-67f074309da4,2023-05-08 08:02:57,User64,1987-1-4,0:40:50,sports,5,2,good,I love how quickly the bot responds.
+157e09e8-c9cd-48c9-935a-f8f4e7d96ae8,2023-08-20 01:00:57,User114,1989-3-5,0:47:41,news,9,4,good,Smooth and pleasant interaction with the chatbot.
+f48e2535-6663-4597-ac68-3426db86f9cb,2022-10-06 04:00:57,User662,1996-11-23,0:19:46,travel,2,5,bad,Didn't get the answer I was looking for.
+01619acf-81a4-4c33-b59c-95e4dcbc9180,2023-04-24 21:32:57,User11,2002-2-20,0:52:32,things-to-do,5,3,good,Great experience navigating through MTL news.
+7c916dae-3643-4de6-a319-19ba51124793,2022-11-05 03:32:57,User370,1999-10-3,0:56:37,travel,6,5,good,The bot provided accurate answers.
+9ba03ada-bbb8-4641-89ec-7356209816cb,2022-11-09 18:45:57,User341,1994-8-19,0:13:17,lifestyle,3,1,good,Smooth and pleasant interaction with the chatbot.
+6a96e597-1dbb-488b-bdc2-76f0cebbe586,2022-10-26 14:36:57,User100,1996-11-6,0:22:50,real-estate,9,2,good,Impressed by the bot's knowledge about MTL Blog.
+228bb733-ffb8-469f-a05d-16d913fa3e03,2022-11-21 02:22:57,User868,1994-7-14,0:59:6,sports,3,5,bad,Not the best experience with this chatbot.
+69967301-9c56-49ab-9a0b-2572ef241ecd,2023-07-01 14:07:57,User969,1994-9-20,0:14:36,things-to-do,6,3,bad,Had a hard time understanding some responses.
+34d7b7ee-316a-4d39-81d9-e6e7a91e3db4,2023-05-12 16:33:57,User920,2009-1-21,0:19:20,lifestyle,4,5,good,Great experience navigating through MTL news.
+1872af82-99c3-4be4-80f3-f497191aefe4,2022-11-04 08:14:57,User4,1989-7-11,0:43:25,eat-drink,4,5,good,Great experience navigating through MTL news.
+2c92353b-bff9-43f8-86c8-7e9b4fad7b8d,2023-03-10 19:22:57,User29,1993-2-27,0:51:22,travel,2,4,bad,Had a hard time understanding some responses.
+3f2d007f-e725-4f46-b93c-0dc1337638e2,2023-01-10 22:17:57,User948,1994-8-13,0:28:7,travel,4,2,good,Impressed by the bot's knowledge about MTL Blog.
+a89edb7a-93e9-46bd-9962-fe3c0b4e8e5f,2023-05-30 00:49:57,User798,1989-6-18,0:37:9,things-to-do,7,1,good,Impressed by the bot's knowledge about MTL Blog.
+21ca215d-1a66-4f7b-b722-6bd72f4ec044,2023-02-10 19:55:57,User699,1982-4-25,0:57:58,eat-drink,3,5,good,I love how quickly the bot responds.
+bef29c25-afa7-428d-a0cb-b26163b3d37b,2022-11-19 18:08:57,User174,1995-2-23,0:3:18,lifestyle,6,5,good,Smooth and pleasant interaction with the chatbot.
+eb422066-8952-4f14-a97e-4bb3dea1d38d,2023-03-30 06:13:57,User915,1997-4-24,0:12:27,lifestyle,6,2,good,The chatbot was very helpful and informative.
+6921ce02-8599-4fc2-88ea-bf9540ff85a9,2023-02-04 03:51:57,User351,1992-11-21,0:15:30,sports,1,4,good,I love how quickly the bot responds.
+5b80af60-0c23-46c3-9f2e-c1f405da6e0a,2022-08-20 15:10:57,User526,1991-11-4,0:14:11,money,6,5,good,Great experience navigating through MTL news.
+6c9d657c-4b5e-489d-b0c4-40fc600ce600,2023-03-01 05:21:57,User690,1990-8-9,0:1:31,lifestyle,5,5,good,I love how quickly the bot responds.
+e1b3f97c-325d-4825-af76-cc3bdc0bb237,2023-07-16 17:52:57,User100,2000-10-25,0:5:27,lifestyle,6,4,good,The bot provided accurate answers.
+040bc291-7fc2-480d-98bb-000f1d166fb3,2023-04-15 13:56:57,User842,1998-5-3,0:57:56,sports,3,5,good,The bot provided accurate answers.
+1a840ba4-6b86-4a2e-9cc2-4256b1d1c3ec,2022-12-29 20:33:57,User880,1989-8-2,0:59:20,money,8,2,good,I love how quickly the bot responds.
+a4aa286f-f9c6-4994-94f1-f6d86cd832f0,2023-02-11 13:37:57,User172,1994-8-26,0:14:12,money,6,3,good,Great experience navigating through MTL news.
+d83a0f8c-1c52-4a8e-99fc-402acf8121df,2023-02-20 13:05:57,User265,1991-7-28,0:30:35,money,2,1,good,The chatbot was very helpful and informative.
+db0d4ff5-14f6-4c00-a4da-5c594695a4bc,2023-06-15 05:22:57,User871,2007-12-5,0:6:28,deals,1,1,good,I love how quickly the bot responds.
+bfe02b12-4c44-460e-accb-5565f7403ef4,2023-05-21 17:38:57,User354,1991-1-18,0:54:30,money,2,2,good,I love how quickly the bot responds.
+0df18c36-0a76-4b31-a66b-c76c2f1b0ac4,2023-07-18 18:23:57,User864,1999-11-1,0:31:53,deals,4,3,bad,Didn't get the answer I was looking for.
+6fd8b0e4-d805-4e91-ad14-3fc037abbec4,2023-05-23 21:47:57,User82,1990-5-4,0:58:2,travel,1,2,good,Impressed by the bot's knowledge about MTL Blog.
+299ebcc4-5026-4e12-82b5-45187994023e,2022-11-10 01:39:57,User163,1996-5-9,0:12:16,travel,1,4,good,I love how quickly the bot responds.
+eb833ee8-b1b0-4625-a16c-eb59e916f099,2023-03-06 08:45:57,User391,1987-8-5,0:53:45,deals,4,4,good,Impressed by the bot's knowledge about MTL Blog.
+d63c1d23-9ed0-4649-91e8-51c725cdbfb2,2022-10-14 11:05:57,User345,1993-11-17,0:25:41,things-to-do,1,7,bad,Not the best experience with this chatbot.
