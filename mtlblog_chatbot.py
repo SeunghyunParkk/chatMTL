@@ -116,8 +116,8 @@ class ChatbotInterface(tk.Tk):
         button_bg = "#4CAF50"  # light green
 
         # Define the fonts and colors for user and bot messages
-        self.user_font = Font(family="Helvetica", size=14)
-        self.bot_font = Font(family="Helvetica", size=14)
+        self.user_font = Font(family="Helvetica", size=16)
+        self.bot_font = Font(family="Helvetica", size=16)
         self.user_color = '#FF5733'  # light red
         self.bot_color = '#3333FF'  # light blue
 
@@ -184,10 +184,9 @@ class ChatbotInterface(tk.Tk):
         tag_name = f"{sender.lower()}_tag"
         if tag_name not in self.chat_area.tag_names():
             # Create a new tag for this sender
-            self.chat_area.tag_configure(tag_name, foreground=color)
-
+            self.chat_area.tag_configure(tag_name, foreground=color, font=font)
         # Insert the message with the appropriate tag
-        self.chat_area.insert(tk.END, f"{sender}: {message}\n", (tag_name, font))
+        self.chat_area.insert(tk.END, f"{sender}: {message}\n", tag_name)
 
         # Disable editing of the chat area
         self.chat_area.configure(state='disabled')
