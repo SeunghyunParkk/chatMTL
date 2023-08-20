@@ -242,8 +242,7 @@ class ChatbotInterface(tk.Tk):
                 response = "Whoops! That's not on our Montreal map. 🗺\nPlease enter a valid number for the category you're interested in."
                 self.bot_message_count += 1
         elif self.state == 'question_prompt':
-            # response = chat_with_llm(self.data, message)
-            response += 'demo response is added'
+            response = chat_with_llm(self.data, message)
             response += '\n'
             response += 'Got more Montreal curiosities? 🍁 Let me know how I can assist further!'
             self.state = 'more_help_prompt'
