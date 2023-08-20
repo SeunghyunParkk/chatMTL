@@ -159,7 +159,7 @@ class ChatbotInterface(tk.Tk):
         self.greeting_message()
 
     # Event handler function for the 'Send' button. Sends user message to the bot.
-    def send_message(self):
+    def send_message(self, event):
         message = self.message_field.get()
         if message:
             self.user_message_count += 1
@@ -266,11 +266,11 @@ class ChatbotInterface(tk.Tk):
                 if feedback == 'yes':
                     self.state = 'capture_details'
                     self.bot_message_count += 1
-                    response = "Thank you for the positive feedback! Can you please tell us more about what you did like?"
+                    response = "Thank you for the positive feedback! Can you please tell me more about what you did like?"
                 else:
                     self.state = 'capture_details'
                     self.bot_message_count += 1
-                    response = "Regretfully, we missed the mark this time. Can you please tell us where we can improve?"
+                    response = "Regretfully, I missed the mark this time. Can you please tell me where I can improve?"
             else:
                 self.bot_message_count += 1
                 response = "Kindly respond with a simple 'yes' or 'no' for feedback."
@@ -279,7 +279,8 @@ class ChatbotInterface(tk.Tk):
             end_time = datetime.now()
             session_duration = str(end_time - self.start_time)
             self.save_to_csv(session_duration)
-            response = 'Thanks for your time!'
+            response = 'Thank you for the feedback. Your interactions help me continuously improve and ' \
+                       'provide a better experience. I deeply appreciate your time and feedback.'
             self.state = 'exit'
         elif self.state == 'exit':
             current_thread = threading.current_thread()
