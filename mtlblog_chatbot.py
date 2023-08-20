@@ -13,12 +13,11 @@ Modules:
 Classes:
     ChatbotInterface: Orchestrates the primary user-chatbot interaction dynamics.
 
-Functions:
-- scrape_text(url: str) -> str: Extracts raw content from the designated MTL Blog URL.
-- clean_text(text: str) -> str: Refines the extracted text to emphasize relevant data.
-- save_to_txt(text: str, category: str) -> None: Archives the cleaned text into categorized files.
-- load_from_txt(category: str) -> str: Recovers the categorized text content for reference.
-- chat_with_llm(content: str, question: str) -> str: Engages the Llama model to offer a tailored response to user inquiries.
+Functions: - scrape_text(url: str) -> str: Extracts raw content from the designated MTL Blog URL. - clean_text(text:
+str) -> str: Refines the extracted text to emphasize relevant data. - save_to_txt(text: str, category: str) -> None:
+Archives the cleaned text into categorized files. - load_from_txt(category: str) -> str: Recovers the categorized
+text content for reference. - chat_with_llm(content: str, question: str) -> str: Engages the Llama model to offer a
+tailored response to user inquiries.
 
 Workflow: On launch, the script collects the latest news stories from predefined MTL Blog categories, processes the
 content, and saves them as text files. Subsequently, the chatbot interface comes alive, offering users the chance to
@@ -31,6 +30,7 @@ Notes:
     - The chatbot is equipped to handle both rule-driven and open-ended conversations.
 """
 
+# Importing required modules and libraries
 import requests
 from bs4 import BeautifulSoup
 from llama_cpp import Llama
@@ -43,49 +43,52 @@ from datetime import date, datetime
 import csv
 import uuid
 
-# Load the LLM model
+# Initializing the LLM model for chatbot intelligence
 LLM = Llama(model_path="./llama-2-7b-chat.ggmlv3.q8_0.bin", n_ctx=2000)
 
-# Scrape news text from MTL Blog
-def scrape_text(url):
-    response = requests.get(url)
+
+# Function to scrape raw text content from the given MTL Blog URL
+def scrape_text(target_url):
+    response = requests.get(target_url)
     soup = BeautifulSoup(response.text, 'html.parser')
-    text = soup.get_text()
-    return text
+    result_text = soup.get_text()
+    return result_text
 
 
-def clean_text(text):
+# Function to clean and process the scraped content, retaining only relevant information
+def clean_text(raw_text):
     # Remove content before and including "Montreal | Laval | Québec City"
-    text = text.split("Montreal | Laval | Québec City", 1)[-1]
+    raw_text = raw_text.split("Montreal | Laval | Québec City", 1)[-1]
 
     # Remove content after and including "Keep readingShow"
-    text = text.rsplit("Keep readingShow", 1)[0]
+    raw_text = raw_text.rsplit("Keep readingShow", 1)[0]
 
     # Remove all non-alphanumeric characters except spaces
-    text = re.sub(r'[^A-Za-z0-9\s]', '', text)
+    raw_text = re.sub(r'[^A-Za-z0-9\s]', '', raw_text)
 
     # Limit to the first 1000 words
-    text = ' '.join(text.split()[:1000])
+    raw_text = ' '.join(raw_text.split()[:1000])
 
     # Normalize whitespace
-    text = ' '.join(text.split())
+    raw_text = ' '.join(raw_text.split())
 
-    return text
-
-
-# Save the data to a text file
-def save_to_txt(text, category):
-    with open(f'mtlblog_{category}.txt', 'w', encoding='utf-8') as f:
-        f.write(text)
+    return raw_text
 
 
-# Load the text data
-def load_from_txt(category):
-    with open(f'mtlblog_{category}.txt', 'r', encoding='utf-8') as f:
-        text = f.read()
-    return text
+# Function to save the cleaned text content into a text file categorized by its type
+def save_to_txt(content, cat_type):
+    with open(f'mtlblog_{cat_type}.txt', 'w', encoding='utf-8') as f:
+        f.write(content)
 
 
+# Function to load text content from a file based on the specified category
+def load_from_txt(cat_type):
+    with open(f'mtlblog_{cat_type}.txt', 'r', encoding='utf-8') as f:
+        content = f.read()
+    return content
+
+
+# Function to interact with the Llama model and get a relevant response based on user query and content
 def chat_with_llm(content, question):
     prompt = (f"System: As of {today}, based on the news content: '{content}', "
               f"formulate a short response (less than 100 words) to the User query pertaining to said content: "
@@ -98,6 +101,7 @@ def chat_with_llm(content, question):
     return assistant_reply
 
 
+# The main Chatbot Interface class that handles user-bot interactions
 class ChatbotInterface(tk.Tk):
     def __init__(self):
         super().__init__()
@@ -106,11 +110,10 @@ class ChatbotInterface(tk.Tk):
         self.geometry("700x500")
         self.title("chatMTL")
 
-        # Colors and Styles
+        # Colors and Styles for window and elements
         main_bg = "#f5f5f5"  # light grayish
         chat_bg = "#ffffff"  # white
         button_bg = "#4CAF50"  # light green
-        button_fg = "#ffffff"  # white
 
         # Define the fonts and colors for user and bot messages
         self.user_font = Font(family="Helvetica", size=14)
@@ -140,6 +143,7 @@ class ChatbotInterface(tk.Tk):
 
         self.message_field.bind('<Return>', self.send_message)
 
+        # Initializing the states
         self.data = ''
         self.start_time = None
         self.threads = []
@@ -154,7 +158,8 @@ class ChatbotInterface(tk.Tk):
         self.detailed_feedback = None
         self.greeting_message()
 
-    def send_message(self, event=None):
+    # Event handler function for the 'Send' button. Sends user message to the bot.
+    def send_message(self):
         message = self.message_field.get()
         if message:
             self.user_message_count += 1
@@ -168,14 +173,16 @@ class ChatbotInterface(tk.Tk):
             self.threads.append(thread)
             thread.start()
 
+    # Function to fetch the bots response based on user's message
     def fetch_bot_response(self, message):
         response = self.get_response(message)
         self.display_message("Bot", response, self.bot_color, self.bot_font)
 
+    # Function to display messages (both user and bot) in the chat window
     def display_message(self, sender, message, color, font):
         self.chat_area.configure(state='normal')
         tag_name = f"{sender.lower()}_tag"
-        if not tag_name in self.chat_area.tag_names():
+        if tag_name not in self.chat_area.tag_names():
             # Create a new tag for this sender
             self.chat_area.tag_configure(tag_name, foreground=color)
 
@@ -185,17 +192,20 @@ class ChatbotInterface(tk.Tk):
         # Disable editing of the chat area
         self.chat_area.configure(state='disabled')
 
+    # Displays the initial greeting message when the chatbot interface starts
     def greeting_message(self):
         response = "Bonjour! 🍁 Welcome to chatMTL, your digital gateway to all things Montreal.\nMay I have your name?"
         self.bot_message_count += 1
         self.display_message("Bot", response, self.bot_color, self.bot_font)
 
+    # Prompts user to select a category of interest
     def prompt_category(self):
         categories_list = '\n'.join([f"{i + 1}. {cat.replace('-', ' ').title()}" for i, cat in enumerate(categories)])
         response = f"Montreal is bustling with stories! Which alley of MTL Blog would you like to explore today?\n{categories_list}"
         self.bot_message_count += 1
         self.display_message("Bot", response, self.bot_color, self.bot_font)
 
+    # Function to handle different states of conversation and generate appropriate bot responses
     def get_response(self, message):
         response = ''
         if self.state == 'ask_name':
@@ -281,15 +291,17 @@ class ChatbotInterface(tk.Tk):
 
         return response
 
+    # Function to export session data, feedback, and other details to a CSV file
     def save_to_csv(self, session_duration):
         filename = "session_data.csv"
-        fields = ['session_id', 'timestamp', 'user_name', 'user_dob', 'session_duration', 'selected_category', 'user_msg_count', 'bot_msg_count',
+        fields = ['session_id', 'timestamp', 'user_name', 'user_dob', 'session_duration', 'selected_category',
+                  'user_msg_count', 'bot_msg_count',
                   'feedback', 'detailed_feedback']
 
         # Check if the file exists. If not, write headers.
         file_exists = True
         try:
-            with open(filename, 'r') as f:
+            with open(filename, 'r'):
                 pass
         except FileNotFoundError:
             file_exists = False
@@ -313,16 +325,20 @@ class ChatbotInterface(tk.Tk):
                 'detailed_feedback': self.detailed_feedback
             })
 
+
+# Main execution thread
 if __name__ == "__main__":
-    # Get today's date
-    today = date.today().strftime('%Y-%m-%d')  # e.g., '2023-08-04'
-    # Scrape the most recent news stories from each category
+    # Fetch today's date for reference in conversations
+    today = date.today().strftime('%Y-%m-%d')
+
+    # Scrape the latest news stories for all categories and save them for reference
     categories = ['news', 'eat-drink', 'things-to-do', 'travel', 'sports', 'lifestyle',
                   'money', 'deals', 'real-estate']
     for category in categories:
         url = f'https://www.mtlblog.com/{category}'
         text = scrape_text(url)
         save_to_txt(clean_text(text), category)
-    # Start the chatbot interface
+
+    # Start the chatbot user interface for user interactions
     app = ChatbotInterface()
     app.mainloop()
