@@ -159,7 +159,7 @@ class ChatbotInterface(tk.Tk):
         self.greeting_message()
 
     # Event handler function for the 'Send' button. Sends user message to the bot.
-    def send_message(self, event):
+    def send_message(self, event=None):
         message = self.message_field.get()
         if message:
             self.user_message_count += 1
