@@ -16,7 +16,7 @@ This script provides a user-friendly interface allowing users to dive deep into 
 1. Ensure you have Python 3.x installed.
 2. Clone this repository:
    ```bash
-   git clone [https://github.com/hellohumansss/chatMTL.git]
+   git clone [[https://github.com/hellohumansss/chatMTL.git](https://github.com/hellohumansss/chatMTL)]
    cd [your-repo-directory]
 3. Install the necessary packages:
     ```bash
